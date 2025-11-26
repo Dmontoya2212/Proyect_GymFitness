@@ -1,0 +1,501 @@
+socio_id,socio_membresia_id,tipo_pago,monto,fecha_pago,metodo_pago,numero_recibo,estado
+52,67,Membresía,208.14,2025-11-20 21:47:59,Efectivo,481e0959-1086-44cf-a040-262e05a8ad7f,Pagado
+10,17,Membresía,214.29,2025-11-20 21:47:59,Efectivo,c9b92672-86d2-4e72-bb62-f03eeb9ca18f,Pagado
+15,36,Membresía,56.73,2025-11-20 21:47:59,Transferencia,66f7f125-e0e6-404a-b3fa-29511ca33400,Pendiente
+51,34,Penalización,315.53,2025-11-20 21:47:59,Efectivo,1a129a86-d60d-45f4-a416-77a2e2c580b3,Pendiente
+55,98,Membresía,327.14,2025-11-20 21:47:59,Tarjeta,04ada627-3da1-4c99-8bdd-b3cb5ec1e621,Pendiente
+47,53,Otro,445.33,2025-11-20 21:47:59,Transferencia,9c3d354b-66c0-4965-9163-66acb4ba3775,Anulado
+80,71,Membresía,466.65,2025-11-20 21:47:59,Cheque,0f370d56-d5c8-424d-a18b-67684dc1ea66,Anulado
+42,43,Otro,376.24,2025-11-20 21:47:59,Tarjeta,99f3d180-00a4-4f9b-bec4-5b9cc62de323,Pagado
+47,1,Clase Adicional,484.65,2025-11-20 21:47:59,Tarjeta,cd93fe33-b18c-4c50-916a-6e401176e180,Pendiente
+36,54,Clase Adicional,474.12,2025-11-20 21:47:59,Tarjeta,03a621f5-24fa-4540-b611-eda5fd70292f,Anulado
+78,68,Otro,330.51,2025-11-20 21:47:59,Cheque,37e65315-6dad-4f0d-b8be-752271d15f7a,Pagado
+100,39,Penalización,422.62,2025-11-20 21:47:59,Cheque,ee1de7f9-3aa3-4c84-b837-13127bba34ed,Pagado
+81,62,Clase Adicional,162.82,2025-11-20 21:47:59,Tarjeta,f19e39d8-ff31-4b9e-aff4-5ea1632d7b87,Pagado
+26,41,Membresía,26.72,2025-11-20 21:47:59,Tarjeta,c7c7c2e7-7971-4fdc-b35a-4f3067220a8e,Anulado
+2,46,Clase Adicional,394.12,2025-11-20 21:47:59,Cheque,86f2295d-025f-4fd4-9ca8-2753d0f6b491,Pagado
+56,20,Penalización,471.04,2025-11-20 21:47:59,Transferencia,50c7a149-23e4-4f5e-97b4-cb58d4f0ea05,Pendiente
+94,99,Penalización,66.69,2025-11-20 21:47:59,Transferencia,59151352-bead-4b3e-b7d5-8f6fb924d51d,Pendiente
+98,53,Penalización,192.57,2025-11-20 21:47:59,Efectivo,f024d140-8de3-45ac-9f06-af72bf55c05d,Pagado
+49,65,Membresía,484.16,2025-11-20 21:47:59,Cheque,5819c106-76f4-42f3-9734-2ec2e60d3bab,Pendiente
+3,95,Penalización,230.43,2025-11-20 21:47:59,Transferencia,b7dc4872-7b98-41e9-9f18-8d35aadaa7b2,Pagado
+27,55,Membresía,145.27,2025-11-20 21:47:59,Efectivo,eae7b63c-28bc-4597-b3e7-a69e57f4379a,Anulado
+10,65,Clase Adicional,140.46,2025-11-20 21:47:59,Transferencia,5e2e636d-0940-474a-af97-5ef8f7ca8cbc,Pendiente
+13,31,Clase Adicional,126.82,2025-11-20 21:47:59,Efectivo,eb72049d-10ea-49dc-8c51-c92b307d922c,Pendiente
+74,15,Clase Adicional,426.36,2025-11-20 21:47:59,Transferencia,4c7c1a8d-cb7d-400c-a877-b2a472045a7d,Pendiente
+31,10,Membresía,128.68,2025-11-20 21:47:59,Cheque,c9a69a36-4362-4ebf-8ed9-47e5cc2775be,Pendiente
+91,89,Otro,255.68,2025-11-20 21:47:59,Transferencia,f13ec832-ecc9-4138-8894-a213df5f3e61,Pendiente
+24,52,Membresía,185.21,2025-11-20 21:47:59,Cheque,2324de1f-6f75-4fcc-8326-732c9edfbfe3,Pendiente
+34,12,Membresía,64.55,2025-11-20 21:47:59,Transferencia,affa3da3-1755-446b-86d7-274e50945d8a,Anulado
+85,80,Membresía,301.9,2025-11-20 21:47:59,Efectivo,27baa8b1-b88f-44a7-b32b-ed159b73cd52,Pagado
+9,66,Membresía,416.88,2025-11-20 21:47:59,Tarjeta,ad3ac528-2833-4bbe-ba37-e1a591c6c93d,Anulado
+64,23,Penalización,254.42,2025-11-20 21:47:59,Efectivo,3e8cde75-415b-414e-933a-09100582bbf9,Anulado
+17,55,Membresía,35.22,2025-11-20 21:47:59,Efectivo,0120b638-6d4c-4618-aec1-48b589c5e8bb,Anulado
+47,45,Penalización,390.93,2025-11-20 21:47:59,Tarjeta,2d050dbb-3abb-405b-9717-3c27d2e43170,Anulado
+34,23,Clase Adicional,58.49,2025-11-20 21:47:59,Transferencia,95323eee-caa3-4843-a22c-fbb7acf53618,Pagado
+21,83,Clase Adicional,157.62,2025-11-20 21:47:59,Tarjeta,5c7fa695-9289-4c86-9697-ce6fa61b9c09,Anulado
+33,15,Clase Adicional,43.93,2025-11-20 21:47:59,Cheque,bd4ab0d3-f689-4ea3-ba65-f743f33b3510,Anulado
+86,96,Membresía,498.8,2025-11-20 21:47:59,Tarjeta,c973d709-7f79-432a-9732-dccd9bad8fb8,Anulado
+22,86,Membresía,462.9,2025-11-20 21:47:59,Efectivo,e5fd5a28-421e-4f23-b559-569160ef6ff8,Anulado
+56,60,Clase Adicional,361.49,2025-11-20 21:47:59,Tarjeta,2131791d-a45d-4c25-959b-5adbea36c918,Pendiente
+42,56,Otro,32.32,2025-11-20 21:47:59,Tarjeta,7e24e637-b1d3-467c-9b56-321ffd829d5c,Anulado
+64,72,Membresía,107.9,2025-11-20 21:47:59,Cheque,d614c141-9f71-49aa-b80d-8565e1b807ba,Anulado
+27,72,Membresía,408.65,2025-11-20 21:47:59,Cheque,53f86ab7-d7bf-41ce-8e04-1e183b2ae901,Pagado
+5,50,Clase Adicional,484.58,2025-11-20 21:47:59,Cheque,c8f82dd8-9c55-4b6f-9b17-e030b3b23e86,Pagado
+83,22,Clase Adicional,219.79,2025-11-20 21:47:59,Efectivo,c22fb612-6994-45f9-aaa2-feaf67d7f5aa,Anulado
+63,95,Membresía,368.24,2025-11-20 21:47:59,Transferencia,c1350b9c-fe4a-4b2f-a7fe-e21b57d7d0b5,Pagado
+83,59,Membresía,392.28,2025-11-20 21:47:59,Transferencia,13ab7e4a-4aac-4276-be79-e647fe5a04cf,Pagado
+45,54,Membresía,236.27,2025-11-20 21:47:59,Cheque,83f5844d-f60f-44b1-a496-559fbed93a90,Pagado
+20,76,Penalización,189.0,2025-11-20 21:47:59,Cheque,90b482fa-b1ff-4832-85ed-5499e62b8fdd,Pendiente
+94,47,Penalización,425.12,2025-11-20 21:47:59,Transferencia,1830941a-95b3-4342-bd2f-7399e62331d6,Anulado
+68,13,Otro,22.82,2025-11-20 21:47:59,Transferencia,63349b2d-a101-41c3-a662-2aff1af29e85,Pendiente
+16,81,Membresía,350.46,2025-11-20 21:47:59,Cheque,537361dc-2765-4289-aba9-179464e0a4dc,Pendiente
+10,29,Otro,134.62,2025-11-20 21:47:59,Cheque,ab746731-6a76-47ea-824b-60a15b10573b,Pendiente
+45,98,Penalización,53.27,2025-11-20 21:47:59,Cheque,7611460d-e1c5-4ce1-8faf-4408cb7f15ba,Pagado
+72,45,Otro,361.29,2025-11-20 21:47:59,Efectivo,553c3a79-0838-4d2e-9858-e6c9340b947c,Anulado
+100,39,Clase Adicional,203.29,2025-11-20 21:47:59,Cheque,942e5109-8200-4907-a7d7-295aa7fdffb9,Anulado
+65,32,Penalización,119.8,2025-11-20 21:47:59,Cheque,5bb11e11-77fb-498b-9c5d-c001bee9cd5f,Anulado
+80,81,Penalización,109.11,2025-11-20 21:47:59,Transferencia,a6d897f1-673e-4a93-b147-df86df8c0ec9,Anulado
+14,89,Membresía,183.68,2025-11-20 21:47:59,Tarjeta,75f22595-cb27-42f8-89e8-733cdcc0af15,Pendiente
+37,1,Penalización,430.26,2025-11-20 21:47:59,Cheque,ff828508-404a-44ed-bcbf-edcc3cbe4dd7,Pendiente
+58,38,Clase Adicional,247.19,2025-11-20 21:47:59,Tarjeta,6a91ae4d-1eba-4b6d-b9af-5dd4f36cea4a,Anulado
+41,64,Penalización,167.44,2025-11-20 21:47:59,Tarjeta,8e61dea9-135e-4d27-9534-c705bba4c314,Anulado
+63,44,Otro,431.42,2025-11-20 21:47:59,Efectivo,ca7e0c10-c6bc-442b-9be6-776d5f5e3130,Pendiente
+86,7,Membresía,297.86,2025-11-20 21:47:59,Transferencia,06d27339-e22b-4fcf-a8c4-407977044dc3,Pagado
+54,5,Clase Adicional,273.45,2025-11-20 21:47:59,Transferencia,ee17c314-c223-40a9-8572-8b6b8d1dc6b9,Pendiente
+80,82,Penalización,52.34,2025-11-20 21:47:59,Tarjeta,e442ed93-09b0-4c25-acd2-55019bcd0a5f,Anulado
+26,70,Penalización,349.84,2025-11-20 21:47:59,Tarjeta,db33ce6e-6a49-4534-bb8b-aea1c3b85dee,Anulado
+39,94,Otro,80.37,2025-11-20 21:47:59,Cheque,2f436b87-7133-462d-befe-d9d121e1390e,Pagado
+70,46,Clase Adicional,45.6,2025-11-20 21:47:59,Cheque,fa34ddaa-ed27-4b19-9f71-0d8dab330a44,Pendiente
+17,79,Otro,487.34,2025-11-20 21:47:59,Tarjeta,ad749f58-3035-41c5-96ba-c9988beb528c,Anulado
+37,58,Clase Adicional,119.95,2025-11-20 21:47:59,Transferencia,c0489f98-46e9-4c49-b09e-7c82426bd011,Anulado
+64,26,Membresía,203.48,2025-11-20 21:47:59,Transferencia,651cac36-44ee-4742-9d68-4871114ccc6a,Pendiente
+57,91,Otro,339.89,2025-11-20 21:47:59,Cheque,59f4a2c9-4582-4d6c-ab51-800de794c991,Pagado
+21,29,Membresía,271.93,2025-11-20 21:47:59,Tarjeta,7f00c6ec-ffe1-4938-a1bb-79880a3ddb8e,Anulado
+8,84,Membresía,429.67,2025-11-20 21:47:59,Cheque,b2f48759-3552-401b-9415-f9d338d7350f,Pagado
+75,62,Penalización,370.21,2025-11-20 21:47:59,Efectivo,0361bd26-2de3-4cb3-b591-af0c3376ae5e,Anulado
+24,75,Penalización,72.9,2025-11-20 21:47:59,Cheque,3a82a75e-0c70-4dfb-9106-7dd200c6d2ba,Anulado
+53,84,Membresía,238.88,2025-11-20 21:47:59,Cheque,751e781d-ec1e-4936-82d3-4f4cdd513093,Pendiente
+86,68,Otro,323.09,2025-11-20 21:47:59,Tarjeta,772bfc0b-987f-4ec7-9f73-7c6c926c6684,Pagado
+70,100,Clase Adicional,113.28,2025-11-20 21:47:59,Tarjeta,8163f40f-37b7-4a87-ab7a-73b0cd53934f,Anulado
+76,84,Penalización,388.8,2025-11-20 21:47:59,Tarjeta,01dd6512-1fc9-41dd-82d9-486b2af54b01,Pagado
+22,11,Otro,223.06,2025-11-20 21:47:59,Efectivo,70fbfbdd-4a3c-4d72-a278-1584ab4a6253,Anulado
+32,92,Penalización,222.61,2025-11-20 21:47:59,Cheque,4e02b65a-577c-40ab-a9cf-6ed88a4181aa,Pendiente
+72,24,Clase Adicional,451.02,2025-11-20 21:47:59,Cheque,37c5da1a-a4e3-4f1c-9e0f-8d09897dc2bb,Anulado
+25,27,Penalización,101.69,2025-11-20 21:47:59,Cheque,598098bd-bf73-4aa2-86da-99ba8f4a5f79,Pagado
+55,32,Membresía,149.97,2025-11-20 21:47:59,Cheque,546d0f18-8215-4d62-b925-77fb9e4e26ca,Pendiente
+88,72,Otro,332.41,2025-11-20 21:47:59,Transferencia,34c40aab-ae10-4b1f-bce4-86f801464e67,Anulado
+26,3,Clase Adicional,44.64,2025-11-20 21:47:59,Transferencia,2b0206ff-f024-495c-b24f-7f8c5122a4a3,Anulado
+42,87,Otro,476.83,2025-11-20 21:47:59,Tarjeta,6e4feb52-a434-4d14-8f2c-ce7fa9c342dd,Pagado
+4,37,Penalización,291.63,2025-11-20 21:47:59,Efectivo,2b80e8a0-3e96-4883-84b8-ac0a4d78d23e,Pagado
+89,24,Penalización,245.44,2025-11-20 21:47:59,Transferencia,f86c0759-c060-4d45-bc24-7c84c7d1a77e,Pagado
+57,65,Otro,15.04,2025-11-20 21:47:59,Cheque,f858d3e0-e28a-4ada-b486-64b31f33558e,Pagado
+33,15,Membresía,324.17,2025-11-20 21:47:59,Cheque,6509768c-32d9-4baf-837b-83f9e35fc340,Anulado
+90,93,Clase Adicional,225.07,2025-11-20 21:47:59,Transferencia,b4eb2c36-7dfd-4f7c-97e6-cd36b9cc1b9c,Pendiente
+17,10,Clase Adicional,446.61,2025-11-20 21:47:59,Cheque,85795e36-085d-4827-ae57-dedc8dba9180,Pagado
+42,56,Membresía,480.52,2025-11-20 21:47:59,Tarjeta,07412987-d036-49af-b6c4-b61769795ad0,Pendiente
+42,80,Membresía,110.68,2025-11-20 21:47:59,Transferencia,51d71439-bfde-42b1-b767-481f3b907ab8,Pagado
+63,100,Clase Adicional,161.91,2025-11-20 21:47:59,Tarjeta,f9104d6d-4e13-4ae5-acbd-0f00ca078ff2,Pendiente
+33,24,Membresía,440.93,2025-11-20 21:47:59,Tarjeta,bbbb28f5-5c4a-414e-8be8-f9d0c7b34d4e,Pendiente
+55,29,Clase Adicional,223.78,2025-11-20 21:47:59,Cheque,ad21c96c-f87f-4941-b0bc-a84eabd9d1b8,Pendiente
+67,71,Clase Adicional,480.21,2025-11-20 21:47:59,Tarjeta,023704e0-9ebc-462b-8c6d-20911b6f6eca,Pagado
+49,57,Membresía,369.77,2025-11-20 21:47:59,Transferencia,20b8aeaf-25fb-4267-8bab-d519bcbc3559,Pagado
+87,24,Membresía,163.33,2025-11-20 21:47:59,Cheque,c3187823-ea62-4d42-a0a2-563bb69df5c0,Anulado
+22,70,Penalización,354.4,2025-11-20 21:47:59,Transferencia,b66ea6d4-813a-47a7-87d1-5ed875248565,Pagado
+18,63,Otro,440.63,2025-11-20 21:47:59,Cheque,5b1b26e6-8f40-49b2-a2ad-56e303b1ef91,Pagado
+68,68,Penalización,441.41,2025-11-20 21:47:59,Cheque,3ef8bd4d-c0ef-4670-aec4-e486cce01cd7,Pendiente
+74,78,Penalización,476.19,2025-11-20 21:47:59,Tarjeta,adf23d13-c42f-4bac-839d-d4d4b4333e1f,Pendiente
+32,24,Penalización,120.89,2025-11-20 21:47:59,Transferencia,4389faa7-bc80-4d35-adfc-8cba83240bc5,Pagado
+61,13,Membresía,492.87,2025-11-20 21:47:59,Efectivo,a6359b1a-3797-4670-8cda-8c6379bcd0cb,Anulado
+77,99,Clase Adicional,476.29,2025-11-20 21:47:59,Efectivo,567216b5-c1e7-4388-8cc9-a773e5f6acdb,Pagado
+29,92,Clase Adicional,480.28,2025-11-20 21:47:59,Transferencia,6ad01a30-7746-4c16-afe5-7d797858076d,Anulado
+97,62,Otro,143.53,2025-11-20 21:47:59,Tarjeta,f1c28b51-dd78-4715-a747-5e4b633f88a2,Pagado
+88,21,Membresía,69.53,2025-11-20 21:47:59,Cheque,0f6b5adc-ac8d-4029-a95f-3397d6bb8ec3,Pendiente
+44,83,Membresía,152.88,2025-11-20 21:47:59,Tarjeta,ef8a6e89-1e5c-4cbc-8f8b-0337d72b914e,Pendiente
+66,26,Otro,30.82,2025-11-20 21:47:59,Efectivo,8f1399d9-b54c-4011-949b-ef0bc27d1287,Pendiente
+29,26,Clase Adicional,373.1,2025-11-20 21:47:59,Efectivo,f67ff7dc-afcd-4e49-b3f8-70632092e5bd,Anulado
+7,67,Membresía,229.0,2025-11-20 21:47:59,Transferencia,7600f22d-e407-47bc-90f2-7a50d6536fd2,Pendiente
+28,73,Membresía,268.31,2025-11-20 21:47:59,Cheque,a908652e-cf09-4001-bd7e-6929c013ca48,Pendiente
+4,70,Clase Adicional,142.54,2025-11-20 21:47:59,Cheque,abc4dffd-67ec-4836-a1c3-c24041795ecd,Anulado
+12,7,Membresía,65.44,2025-11-20 21:47:59,Tarjeta,11b6a437-a38c-48c4-8508-2320beb8b55b,Pagado
+76,22,Penalización,14.93,2025-11-20 21:47:59,Tarjeta,32a0b8c1-4da5-470b-8f66-45bb186018de,Anulado
+25,80,Penalización,447.29,2025-11-20 21:47:59,Transferencia,4179dc2c-abf9-40ed-8433-236badb31fa2,Pagado
+4,98,Penalización,290.04,2025-11-20 21:47:59,Tarjeta,7afcd993-f85c-47a0-9e12-9ce8f8514718,Pagado
+14,82,Clase Adicional,49.79,2025-11-20 21:47:59,Tarjeta,9d13aa4a-cff3-4fd6-a505-78cde9c3b6ec,Pagado
+50,94,Otro,44.7,2025-11-20 21:47:59,Transferencia,492ebcf3-06ff-4f4d-8e12-7cdb691969e7,Pagado
+59,90,Membresía,205.47,2025-11-20 21:47:59,Transferencia,ecb4eefa-eba8-408c-beaa-3bd7c0c63387,Pendiente
+39,74,Clase Adicional,201.09,2025-11-20 21:47:59,Transferencia,1fb4a8f6-fccc-42a4-865b-06a12366b754,Pendiente
+44,2,Clase Adicional,307.06,2025-11-20 21:47:59,Efectivo,d8ef5101-5dac-45d9-aae8-5266d5446ee6,Pendiente
+79,43,Membresía,108.5,2025-11-20 21:47:59,Tarjeta,417ff930-0087-4655-8b08-294cc83e9e07,Pendiente
+73,76,Penalización,150.95,2025-11-20 21:47:59,Cheque,75130639-f7d0-4599-91d8-b7eef5610de3,Anulado
+73,73,Membresía,52.31,2025-11-20 21:47:59,Transferencia,cebfab51-389f-46eb-8cd4-dafd11d368d0,Pendiente
+94,70,Membresía,315.31,2025-11-20 21:47:59,Transferencia,8e3e0764-4690-46c0-8727-07156d8570e3,Pendiente
+75,15,Clase Adicional,349.07,2025-11-20 21:47:59,Cheque,63a28180-af9a-43f3-918d-aa09e034e0ac,Pendiente
+16,24,Membresía,333.68,2025-11-20 21:47:59,Efectivo,b334ecb8-e433-42ca-9dd0-4500637bf715,Pagado
+70,15,Penalización,431.78,2025-11-20 21:47:59,Efectivo,b800c4d1-aae4-4b56-b8a8-ac34a4dd997c,Pagado
+95,3,Penalización,74.74,2025-11-20 21:47:59,Efectivo,25c9f00d-6243-470f-8f20-6bd65ab21fc8,Anulado
+80,92,Penalización,326.95,2025-11-20 21:47:59,Transferencia,5c806af4-061a-4a65-b7f9-b2d0941a623c,Anulado
+98,89,Membresía,435.02,2025-11-20 21:47:59,Efectivo,c90d735f-15c9-4b26-871a-3448ed311c36,Anulado
+44,70,Membresía,491.18,2025-11-20 21:47:59,Transferencia,a6d8c3e7-b9e7-4db1-9a07-96e13da7d833,Pagado
+91,64,Membresía,308.16,2025-11-20 21:47:59,Efectivo,8e15c9d6-52f7-4a85-b796-269f084fff4a,Anulado
+74,50,Membresía,357.72,2025-11-20 21:47:59,Tarjeta,2143b490-30dd-4909-812f-4a4595c7203f,Anulado
+75,50,Membresía,240.07,2025-11-20 21:47:59,Tarjeta,2bffd006-96f8-49a0-83a6-fd45a484c74a,Pendiente
+80,42,Penalización,23.8,2025-11-20 21:47:59,Cheque,69cefbf0-1138-453e-91e4-7ae507fecf6b,Anulado
+87,62,Otro,29.45,2025-11-20 21:47:59,Tarjeta,8ee4bae8-a381-4b6d-8f95-764c788b9289,Pagado
+75,79,Penalización,454.28,2025-11-20 21:47:59,Transferencia,50c3011c-7fc1-4807-94dc-0159d1ea7216,Pendiente
+76,23,Otro,190.24,2025-11-20 21:47:59,Tarjeta,69590a65-c351-45f1-a0d2-c11b4cd11637,Anulado
+36,61,Penalización,277.6,2025-11-20 21:47:59,Transferencia,8e53ea0e-73e2-4268-a583-f6d54bd97ebd,Anulado
+95,52,Membresía,421.79,2025-11-20 21:47:59,Cheque,0a109b5c-2017-4599-94e0-73d39f43fc26,Pendiente
+61,77,Membresía,251.53,2025-11-20 21:47:59,Efectivo,bdbe73bd-d00c-4583-a119-270dfb0d4f59,Pendiente
+33,54,Membresía,301.18,2025-11-20 21:47:59,Tarjeta,a08e335b-e148-48fd-a6f7-10fa87908e94,Pagado
+86,52,Otro,315.01,2025-11-20 21:47:59,Cheque,d3a8ff0b-1aa7-4aaf-bbe7-33816d605039,Pendiente
+10,24,Clase Adicional,276.36,2025-11-20 21:47:59,Tarjeta,de4d57e3-6b5d-4728-9be8-595fe69d2cfa,Pagado
+48,13,Penalización,134.83,2025-11-20 21:47:59,Transferencia,1a90a02c-4c1d-414d-9387-85c960ddfa5d,Anulado
+81,4,Penalización,233.87,2025-11-20 21:47:59,Efectivo,5290c0e3-74ff-452d-ad25-70a41cf59830,Anulado
+73,74,Otro,59.35,2025-11-20 21:47:59,Transferencia,9e9de70b-5d54-4315-bf4e-86c7190d0b39,Pagado
+79,57,Penalización,189.48,2025-11-20 21:47:59,Efectivo,af8ece4e-3b01-43ad-b0d7-3a6365730b7b,Pagado
+89,26,Clase Adicional,275.76,2025-11-20 21:47:59,Efectivo,548c0e78-e03d-4a2f-a9ee-cc180a8bc398,Pagado
+92,8,Penalización,187.41,2025-11-20 21:47:59,Transferencia,98c7fcba-f760-44d3-a689-e498e2023995,Anulado
+28,1,Otro,209.83,2025-11-20 21:47:59,Tarjeta,514c1da0-4761-4857-a1c6-80421b4e6a9a,Pendiente
+13,84,Membresía,164.59,2025-11-20 21:47:59,Cheque,9e2c6326-557a-48be-b450-e77e6a21fac5,Anulado
+54,18,Penalización,420.37,2025-11-20 21:47:59,Tarjeta,6a5a9c2a-8612-4103-97fe-caa44dbeb799,Pagado
+72,81,Membresía,393.34,2025-11-20 21:47:59,Efectivo,1c6b1118-7364-4e7f-bf84-003b87f92761,Pagado
+18,89,Otro,200.54,2025-11-20 21:47:59,Cheque,7fa4b5f1-bdef-45aa-891d-6c6ffed87cfb,Pendiente
+12,96,Clase Adicional,171.54,2025-11-20 21:47:59,Transferencia,9cad183a-8718-416d-93b6-a815531dc2b8,Pagado
+60,53,Penalización,93.58,2025-11-20 21:47:59,Efectivo,39053202-fcf5-4386-88a4-5b65f69fb934,Pagado
+71,81,Penalización,256.61,2025-11-20 21:47:59,Transferencia,051aa319-7f13-4e38-9a92-04a16eb18d74,Pendiente
+29,10,Clase Adicional,284.92,2025-11-20 21:47:59,Cheque,1b7e2aea-f924-48ee-817d-5811557eb407,Pendiente
+29,75,Clase Adicional,332.48,2025-11-20 21:47:59,Transferencia,5130b1e0-d61f-463c-8cd1-99408e3929c8,Pendiente
+12,95,Clase Adicional,98.2,2025-11-20 21:47:59,Transferencia,d13c6f84-e124-499e-9fb0-8fb1168b8977,Pagado
+38,74,Penalización,170.08,2025-11-20 21:47:59,Transferencia,4e7bef39-c549-474b-8f49-a6712827892e,Pendiente
+49,73,Otro,167.93,2025-11-20 21:47:59,Tarjeta,e89f7169-db03-4ae9-9ee4-0c5266c76117,Anulado
+15,77,Membresía,106.96,2025-11-20 21:47:59,Cheque,525b2f9a-c7c0-47dd-b40e-6269674c3acb,Pendiente
+85,3,Otro,240.72,2025-11-20 21:47:59,Tarjeta,846986bf-122f-4d3d-a9c9-b8920aaac164,Anulado
+41,91,Clase Adicional,353.22,2025-11-20 21:47:59,Efectivo,1c2cbfca-8748-4c7d-ba44-b726cd44a8f0,Pagado
+51,47,Clase Adicional,475.52,2025-11-20 21:47:59,Transferencia,f67ffa18-2438-4086-8b65-977032a4df0f,Pagado
+89,62,Otro,40.46,2025-11-20 21:47:59,Cheque,9c7eba68-77f8-4372-bdcd-5899ed02bd37,Anulado
+16,45,Penalización,246.4,2025-11-20 21:47:59,Transferencia,64c32f05-0ff6-456c-a003-ce602f5da545,Pendiente
+63,47,Otro,289.33,2025-11-20 21:47:59,Transferencia,d928deea-0358-43bd-accd-6c8d3ef96066,Anulado
+3,24,Otro,433.45,2025-11-20 21:47:59,Transferencia,ca8e7d3f-d318-4e0e-b892-8f7351ea0c9a,Pendiente
+40,64,Clase Adicional,147.17,2025-11-20 21:47:59,Cheque,a2736f37-2248-4597-a36d-bb56aac29c4a,Pendiente
+86,51,Otro,485.86,2025-11-20 21:47:59,Cheque,8ef7fe87-65cc-417d-9fbe-13253eb09e3c,Anulado
+7,14,Clase Adicional,35.85,2025-11-20 21:47:59,Efectivo,f3010364-6e02-44d7-9c12-9a4cef3afa78,Pagado
+10,66,Penalización,169.87,2025-11-20 21:47:59,Tarjeta,f6ae5b0c-fa19-4966-9596-0286778d5405,Pagado
+5,23,Clase Adicional,263.72,2025-11-20 21:47:59,Efectivo,e4eadad3-7dfc-4bc6-9462-0ec70c715c99,Pendiente
+72,76,Membresía,193.35,2025-11-20 21:47:59,Cheque,87d3ccf2-9487-4c75-a64b-a67fbdf80556,Pagado
+8,62,Otro,232.46,2025-11-20 21:47:59,Tarjeta,18311111-4dc8-4a3b-966b-17acff40a171,Pendiente
+75,84,Penalización,123.99,2025-11-20 21:47:59,Efectivo,350beda3-0cea-43bd-bf92-1699ebe6dbbc,Pendiente
+65,6,Penalización,22.67,2025-11-20 21:47:59,Efectivo,8aba4980-442b-41d6-8f39-3ac71fbeb548,Pagado
+72,53,Membresía,59.29,2025-11-20 21:47:59,Transferencia,1bf959b2-4c8a-40f1-abe3-16b0384ec80d,Pendiente
+5,3,Clase Adicional,88.83,2025-11-20 21:47:59,Tarjeta,bf85f2b1-53cb-472e-81c7-3f1722fc52a4,Pagado
+93,22,Penalización,411.58,2025-11-20 21:47:59,Cheque,ce1918ca-0c5f-4633-a137-eb77b4f36bd6,Pagado
+35,1,Membresía,148.91,2025-11-20 21:47:59,Cheque,9fd0dfff-3aef-4c2f-921c-5533bc292071,Pagado
+38,47,Membresía,63.09,2025-11-20 21:47:59,Transferencia,7dbaf83d-5ee6-4146-87a0-02feddcb2248,Pagado
+40,32,Otro,385.69,2025-11-20 21:47:59,Tarjeta,12291d98-da94-4c9b-8626-ac598bcaa11c,Anulado
+36,49,Penalización,290.57,2025-11-20 21:47:59,Transferencia,e529d29a-5abe-43d8-9e65-3f1f20cde19e,Anulado
+58,44,Membresía,392.71,2025-11-20 21:47:59,Cheque,3f2bae8d-38db-4dc6-a632-a1146ce2a48f,Anulado
+13,32,Penalización,135.67,2025-11-20 21:47:59,Transferencia,d22c5b2f-de48-4c9e-888c-c11ff0cd2dac,Pendiente
+99,18,Penalización,374.31,2025-11-20 21:47:59,Tarjeta,1ec1cafe-33df-4e1c-b41a-ea83e5d51201,Anulado
+19,66,Penalización,98.92,2025-11-20 21:47:59,Transferencia,13e7dbd8-fc9e-4ff3-8208-7385c31d52ae,Pendiente
+48,61,Membresía,383.48,2025-11-20 21:47:59,Transferencia,b210b689-985e-44ae-9e44-8c5c9dfa87d8,Anulado
+94,93,Membresía,365.56,2025-11-20 21:47:59,Efectivo,e92e1bce-3b7f-4082-be44-36d2b2bad78d,Pagado
+98,34,Clase Adicional,384.69,2025-11-20 21:47:59,Efectivo,bbfd9759-bae8-4777-b3de-89574537cc98,Anulado
+12,35,Otro,193.92,2025-11-20 21:47:59,Tarjeta,586b6c0b-6b2e-4fa8-a63a-09854ff04a7f,Pendiente
+81,95,Clase Adicional,348.05,2025-11-20 21:47:59,Transferencia,503cf45b-82b5-476f-868c-0a639e2ef2e3,Pendiente
+75,72,Otro,469.76,2025-11-20 21:47:59,Transferencia,b8441b6d-5107-4b32-ae59-a56c0f7e8f45,Anulado
+67,62,Otro,361.72,2025-11-20 21:47:59,Efectivo,66c003d5-31c3-4c29-8b2c-b1dc5b68bb78,Anulado
+59,18,Membresía,125.58,2025-11-20 21:47:59,Efectivo,809499ff-949b-42e7-a825-93ee8f1f52f3,Anulado
+9,87,Penalización,289.99,2025-11-20 21:47:59,Cheque,a26840f8-ae1e-4faf-b53b-f8e070e33736,Pendiente
+78,49,Membresía,204.58,2025-11-20 21:47:59,Cheque,74f315a4-8e4b-495d-9c26-84c41401d67c,Anulado
+56,81,Membresía,142.38,2025-11-20 21:47:59,Tarjeta,9088ff59-7935-4008-a5d3-c576b5a05771,Anulado
+82,53,Penalización,263.77,2025-11-20 21:47:59,Cheque,7d153dd5-e8d6-4120-bd6e-9590e0c3db3b,Anulado
+77,26,Membresía,413.97,2025-11-20 21:47:59,Transferencia,d0891b7e-8d52-4979-9ba8-d2e018d3d3fe,Pagado
+42,26,Otro,17.09,2025-11-20 21:47:59,Cheque,30984c40-24ee-40e1-9861-3c0f25136c50,Anulado
+44,89,Clase Adicional,320.22,2025-11-20 21:47:59,Transferencia,e3ce89fd-2c04-4bf0-bb07-f84f7e079080,Pagado
+21,73,Otro,472.99,2025-11-20 21:47:59,Tarjeta,7522b934-2694-471a-a1f8-f8643cb34e7c,Pendiente
+4,97,Otro,305.77,2025-11-20 21:47:59,Tarjeta,ba1c748b-7a17-4202-8a06-81f81c495e90,Anulado
+66,87,Clase Adicional,205.07,2025-11-20 21:47:59,Efectivo,4be448f8-be6c-4902-a54a-af5acc720d69,Anulado
+20,35,Clase Adicional,156.7,2025-11-20 21:47:59,Efectivo,5328cdaf-fcd3-4e19-838c-8dd54d5cbd28,Pendiente
+32,15,Membresía,369.92,2025-11-20 21:47:59,Efectivo,52027f4c-30bf-44aa-8dac-774603d262e4,Anulado
+94,26,Membresía,485.15,2025-11-20 21:47:59,Transferencia,8941ae19-59e3-412f-94fc-18457a6d5d97,Pendiente
+6,22,Otro,406.8,2025-11-20 21:47:59,Cheque,8cddcdbb-5daf-453b-8436-54bf366f3cf1,Pagado
+88,37,Membresía,306.48,2025-11-20 21:47:59,Transferencia,8ae017a9-e763-4a53-b01f-07d80dd5852a,Anulado
+81,48,Clase Adicional,109.02,2025-11-20 21:47:59,Efectivo,495ca37d-2141-4ede-91d3-1e921d3018e1,Pagado
+52,10,Penalización,285.77,2025-11-20 21:47:59,Efectivo,3c8f6068-ce12-4a5a-8a27-f95eae64d429,Anulado
+81,18,Clase Adicional,215.58,2025-11-20 21:47:59,Transferencia,6934e66a-a9dc-42c1-a728-1e5962e0f6ed,Pendiente
+68,97,Membresía,34.13,2025-11-20 21:47:59,Tarjeta,e05d8efc-9cbf-47a6-8c0c-7430b98518ee,Anulado
+79,66,Membresía,92.83,2025-11-20 21:47:59,Cheque,93d8c145-7e9a-410d-8b7b-b6fed4bf819e,Pagado
+12,50,Membresía,180.41,2025-11-20 21:47:59,Cheque,03bb46cc-85b2-4993-b5f0-16290e8d9254,Pagado
+11,84,Penalización,310.47,2025-11-20 21:47:59,Efectivo,fb9e71e9-35b4-413b-8505-6d2327a087ae,Anulado
+46,22,Otro,317.5,2025-11-20 21:47:59,Efectivo,2ae94006-714d-4b29-a3c7-6a270b628c02,Pendiente
+40,55,Membresía,368.04,2025-11-20 21:47:59,Efectivo,9c40707e-9dda-460c-8995-35e45a096cde,Pendiente
+49,62,Membresía,417.63,2025-11-20 21:47:59,Tarjeta,c52e0bf0-eb0f-4b72-bf86-18051a854a3c,Pagado
+13,39,Membresía,277.9,2025-11-20 21:47:59,Efectivo,930b8d3a-35e0-4970-a4bb-61118127e2e3,Pagado
+83,100,Penalización,494.55,2025-11-20 21:47:59,Tarjeta,338267f7-2a98-4abe-86d2-a7346f5bc303,Pendiente
+83,82,Membresía,411.66,2025-11-20 21:47:59,Cheque,e8b7d600-c025-4809-b866-48576a4549be,Anulado
+54,66,Otro,371.4,2025-11-20 21:47:59,Transferencia,8f9558c1-06d2-41c3-a823-83f50ffcc79f,Anulado
+95,60,Membresía,312.24,2025-11-20 21:47:59,Cheque,78a7abb9-c39c-4cbe-b2f5-b36fd8361cae,Anulado
+19,43,Otro,105.47,2025-11-20 21:47:59,Efectivo,a9e1a39a-38cd-4d71-8d62-b4a196cc5374,Pagado
+98,76,Membresía,242.96,2025-11-20 21:47:59,Transferencia,e232b818-9d43-4bd0-8e26-5e2d049adbb2,Anulado
+77,54,Clase Adicional,216.18,2025-11-20 21:47:59,Efectivo,d52e5c5b-2f8b-4b39-8a76-2226af4bf1f4,Pendiente
+32,83,Clase Adicional,333.7,2025-11-20 21:47:59,Efectivo,ce436d54-6cba-4fa0-a71f-1f0803a47630,Pagado
+92,40,Otro,178.9,2025-11-20 21:47:59,Tarjeta,7b34aaf7-4728-4444-9979-657076b76a19,Pendiente
+33,44,Otro,331.67,2025-11-20 21:47:59,Transferencia,12b7a55d-e027-4859-93bc-012b2c1b1d90,Anulado
+25,4,Clase Adicional,38.91,2025-11-20 21:47:59,Tarjeta,15e40ac8-2055-432b-bd6a-1d7e4078e52c,Anulado
+93,3,Penalización,473.76,2025-11-20 21:47:59,Efectivo,c85d19f0-569a-43e1-ae9a-e87faaa0087b,Pagado
+52,74,Otro,74.81,2025-11-20 21:47:59,Cheque,4244a14f-da09-48ee-b028-75cab603eb13,Pendiente
+23,16,Clase Adicional,264.56,2025-11-20 21:47:59,Cheque,a5b2d627-b7f1-4c8d-ab4b-1fa99bec791b,Pendiente
+97,17,Penalización,384.89,2025-11-20 21:47:59,Transferencia,7759aaa6-7fe5-4a87-a886-9a39f7929697,Pendiente
+27,48,Otro,258.07,2025-11-20 21:47:59,Tarjeta,1ddb8432-cf3f-4da3-848f-9c7ba358c131,Pagado
+14,55,Penalización,66.66,2025-11-20 21:47:59,Transferencia,60512e44-ead9-492a-bf48-59ecd58043d1,Anulado
+24,74,Membresía,180.15,2025-11-20 21:47:59,Transferencia,c31858ac-f68f-4305-8abc-59899da5185d,Pagado
+84,76,Penalización,63.32,2025-11-20 21:47:59,Cheque,a43fb996-4f49-4ca0-9867-9d3f9fc3ee6c,Anulado
+97,70,Penalización,472.99,2025-11-20 21:47:59,Cheque,3738be28-b1d6-495d-91f7-a0aeaa607963,Pendiente
+16,10,Penalización,166.9,2025-11-20 21:47:59,Tarjeta,4feeae5e-2933-4175-98f3-69c00e1c9625,Pendiente
+53,5,Membresía,55.19,2025-11-20 21:47:59,Transferencia,f68af3ec-7c5f-40dd-b0c0-b5bc5394e675,Pagado
+72,79,Membresía,64.46,2025-11-20 21:47:59,Transferencia,6654fc32-9b4e-41e0-88f3-298ec7f1c5c2,Pendiente
+44,49,Clase Adicional,483.89,2025-11-20 21:47:59,Cheque,9e34195c-0705-45f3-94a6-eb1b98026488,Pagado
+45,53,Otro,88.73,2025-11-20 21:47:59,Efectivo,401a1820-6772-4b59-b993-4cbc5f4db9a9,Anulado
+77,54,Membresía,197.42,2025-11-20 21:47:59,Cheque,4adedb6b-29d5-4ba8-ac25-75a998418079,Pagado
+29,74,Membresía,146.96,2025-11-20 21:47:59,Tarjeta,6bd94560-0638-4ab1-9c3b-91d941c1d6ed,Pagado
+11,18,Otro,465.77,2025-11-20 21:47:59,Efectivo,4f65d174-7339-4c8a-9c7f-656c525f4d3a,Pagado
+43,7,Membresía,224.42,2025-11-20 21:47:59,Cheque,1b3a936c-d9eb-43f6-b590-09f2c1cb799a,Pendiente
+83,4,Membresía,372.79,2025-11-20 21:47:59,Cheque,1d19f7bd-ade8-43e8-b188-25e1ed119bc3,Pendiente
+39,69,Penalización,173.05,2025-11-20 21:47:59,Efectivo,4c367651-b673-4024-be51-3956af4565dd,Pagado
+64,53,Otro,221.58,2025-11-20 21:47:59,Tarjeta,832bd0e5-ac37-4fe4-addd-ba9cf8760c10,Pagado
+95,7,Penalización,236.47,2025-11-20 21:47:59,Transferencia,4b4dcdfe-2c52-4a58-bf8b-d5dc4c7252b1,Pendiente
+7,33,Clase Adicional,402.54,2025-11-20 21:47:59,Transferencia,a572ee68-e5d1-434d-93e8-16d5a1015f02,Anulado
+72,5,Clase Adicional,159.45,2025-11-20 21:47:59,Efectivo,d13d4573-794c-4f13-933a-573ed229710c,Anulado
+76,56,Membresía,244.27,2025-11-20 21:47:59,Tarjeta,ae8068bf-72e7-4ee6-8ec9-e9d3f32af969,Pendiente
+77,32,Penalización,242.28,2025-11-20 21:47:59,Tarjeta,39a2c12c-060a-46d8-a225-514fad099c7f,Pendiente
+93,13,Penalización,208.06,2025-11-20 21:47:59,Efectivo,fcfb99ab-2cf8-427e-80e0-d6e847e93322,Pendiente
+75,90,Clase Adicional,318.62,2025-11-20 21:47:59,Efectivo,f8bbdb0f-be60-4b4c-930e-24218433f218,Anulado
+68,49,Otro,287.37,2025-11-20 21:47:59,Transferencia,445f160d-9598-44b5-b334-1f1d86e494f6,Pagado
+85,79,Otro,252.48,2025-11-20 21:47:59,Transferencia,b89e23d1-9de4-4687-bd98-60de68b74fd7,Pagado
+49,44,Otro,325.08,2025-11-20 21:47:59,Transferencia,bf1ec8a4-166c-4231-9f9b-52249ed3539a,Pagado
+34,67,Penalización,187.02,2025-11-20 21:47:59,Cheque,83b98848-9c3d-486e-9c97-8b3a4f686e46,Pendiente
+75,29,Otro,490.0,2025-11-20 21:47:59,Tarjeta,09d04db0-6bbe-419b-bc71-f2fa4400ea82,Pendiente
+32,73,Penalización,337.83,2025-11-20 21:47:59,Efectivo,dfee4c22-6317-4cf0-a39a-6e3694690512,Pendiente
+74,86,Clase Adicional,14.89,2025-11-20 21:47:59,Cheque,11d92ddc-ed38-4180-a732-eb5c6122d268,Pagado
+13,91,Clase Adicional,281.02,2025-11-20 21:47:59,Tarjeta,b4d02314-5da9-440e-8862-fa0379ef1012,Pagado
+21,11,Penalización,249.18,2025-11-20 21:47:59,Transferencia,237e8ad1-4786-45f6-a31c-c7a913e1bd40,Pendiente
+3,51,Membresía,113.82,2025-11-20 21:47:59,Cheque,83bd08e6-763b-4e82-abf4-ebb18f77c679,Pagado
+90,12,Penalización,114.17,2025-11-20 21:47:59,Efectivo,486ac6b0-c4f9-4498-8696-122775f49415,Pendiente
+60,98,Otro,137.42,2025-11-20 21:47:59,Transferencia,dfaf2551-2fe4-441e-b1a7-da5210b7542a,Anulado
+4,91,Penalización,259.15,2025-11-20 21:47:59,Tarjeta,a8e3e5aa-b878-4002-8c5c-65d2ce076c93,Pagado
+47,20,Clase Adicional,119.15,2025-11-20 21:47:59,Transferencia,66bfdd6e-ef80-4410-b6c0-b9d9ccfd5a91,Pendiente
+88,6,Clase Adicional,26.68,2025-11-20 21:47:59,Cheque,00a9af37-9469-4e59-b2b9-eeb2c23893f5,Pendiente
+61,14,Penalización,203.01,2025-11-20 21:47:59,Cheque,d412c8c0-0fb7-4e36-94bb-4ee64c246faf,Pendiente
+13,71,Clase Adicional,429.68,2025-11-20 21:47:59,Cheque,4240751f-26ca-42f4-bb5d-962cccbd1e37,Pendiente
+65,1,Membresía,136.98,2025-11-20 21:47:59,Tarjeta,69452a61-2923-4b83-a03a-206532d985fa,Anulado
+31,96,Otro,312.32,2025-11-20 21:47:59,Cheque,1608de56-d20b-4bf4-bb04-d2a7fdebc575,Pendiente
+86,22,Penalización,194.49,2025-11-20 21:47:59,Cheque,7225b7f4-e4a3-4133-8df3-8173973e8747,Anulado
+29,85,Penalización,187.83,2025-11-20 21:47:59,Efectivo,4feaf664-84f2-41f2-8082-702fe7bc2e05,Pagado
+52,98,Otro,285.24,2025-11-20 21:47:59,Tarjeta,f0ebf5d0-ac34-4b13-8867-0c6a3e1e3e5b,Pendiente
+70,37,Penalización,259.06,2025-11-20 21:47:59,Efectivo,9d84a250-813c-4d8c-98b6-048b2fc17439,Pagado
+65,53,Clase Adicional,404.65,2025-11-20 21:47:59,Efectivo,e3fee4b7-7756-4ca8-b3ae-6377cabcf37f,Pagado
+65,36,Otro,391.97,2025-11-20 21:47:59,Cheque,c284098d-7c8a-4d1b-b73f-274249a57b1c,Pendiente
+91,41,Otro,228.12,2025-11-20 21:47:59,Cheque,9b58c661-862a-4e72-a991-7565ed4f024a,Anulado
+23,33,Otro,395.12,2025-11-20 21:47:59,Transferencia,ba0b23c8-4e94-42d7-a5b8-d0585c3b8327,Pagado
+79,58,Membresía,25.22,2025-11-20 21:47:59,Efectivo,5b8b0caf-1364-4888-86ce-9965da4ee9c3,Pagado
+10,80,Clase Adicional,129.26,2025-11-20 21:47:59,Tarjeta,3c98cfb4-329b-45c8-9357-ec9937d2f92e,Pagado
+58,49,Otro,291.12,2025-11-20 21:47:59,Cheque,2f329ef3-a8a5-4517-852b-8cdf8c8f00e4,Anulado
+47,1,Membresía,245.41,2025-11-20 21:47:59,Tarjeta,d1152e97-893c-4695-8ac1-cadd59e90069,Pendiente
+39,71,Membresía,306.29,2025-11-20 21:47:59,Transferencia,dae794ce-5ca4-408e-8a5d-582882dce330,Pendiente
+35,10,Membresía,339.51,2025-11-20 21:47:59,Transferencia,3b2939dc-2360-4541-8a54-5262da5051e9,Anulado
+92,48,Membresía,464.9,2025-11-20 21:47:59,Efectivo,76ade3a3-1e8d-4012-8e45-892371b0a11e,Pagado
+27,68,Clase Adicional,28.74,2025-11-20 21:47:59,Tarjeta,fa692b09-5a00-4829-8bce-8ba5913da0cd,Anulado
+35,41,Otro,420.88,2025-11-20 21:47:59,Efectivo,1542f030-91bd-4574-ac46-3e88527b012a,Pendiente
+32,91,Otro,347.23,2025-11-20 21:47:59,Tarjeta,69be321b-4af0-4428-bf17-2112510c0ff1,Pendiente
+7,64,Membresía,365.66,2025-11-20 21:47:59,Transferencia,57438f06-7e8e-42ef-976f-707a36c1909c,Pendiente
+27,54,Otro,238.78,2025-11-20 21:47:59,Transferencia,75fc4f3c-ba36-4f37-ba16-1ad551fb4208,Pagado
+93,40,Penalización,374.56,2025-11-20 21:47:59,Cheque,b5407573-89dc-47af-8fec-33c74ff9e190,Anulado
+26,98,Penalización,378.49,2025-11-20 21:47:59,Efectivo,b501df4b-2744-451b-b060-ea3bfbec66b8,Pendiente
+19,37,Penalización,178.6,2025-11-20 21:47:59,Cheque,2ff776aa-4185-4335-b658-08a8e50bb024,Pagado
+68,28,Membresía,297.89,2025-11-20 21:47:59,Efectivo,46e7a3ff-06da-41a9-aca9-bca82d11fc0c,Pendiente
+32,8,Clase Adicional,354.87,2025-11-20 21:47:59,Efectivo,0a5c7eb8-c1f9-42b4-805d-ea735a7f0d8a,Pagado
+6,60,Clase Adicional,111.66,2025-11-20 21:47:59,Transferencia,2e5101ff-1961-4790-97d0-a74840b550de,Pendiente
+72,30,Penalización,204.94,2025-11-20 21:47:59,Tarjeta,95a63c67-af07-47a4-85d2-09e370c31d2e,Anulado
+85,53,Clase Adicional,390.85,2025-11-20 21:47:59,Cheque,e66d9aaa-1559-44b1-87b2-354812937a6f,Anulado
+8,54,Clase Adicional,182.77,2025-11-20 21:47:59,Transferencia,05ce89f6-fd59-4465-af1c-1bc043cd7b0c,Pagado
+87,31,Membresía,467.86,2025-11-20 21:47:59,Tarjeta,68ad0203-92ee-4f06-917f-c37a9d87914c,Pagado
+95,85,Membresía,235.98,2025-11-20 21:47:59,Transferencia,28f69a75-7ecc-4e3a-9894-aa7bd69a4146,Anulado
+49,7,Clase Adicional,444.76,2025-11-20 21:47:59,Transferencia,57c12358-a2f2-4982-91b9-57b1326e5b02,Pendiente
+50,68,Penalización,164.02,2025-11-20 21:47:59,Cheque,7a745d78-4c64-4ab2-ac02-6c24ecaff13e,Pendiente
+37,4,Penalización,97.37,2025-11-20 21:47:59,Tarjeta,3a57b62c-6e46-42c1-b493-314fd2dd3629,Pendiente
+57,10,Otro,482.23,2025-11-20 21:47:59,Tarjeta,fc16c8a2-d26e-4017-875f-5cc4f5b29055,Pagado
+17,82,Penalización,37.53,2025-11-20 21:47:59,Transferencia,76dcbfaa-8ca1-4d02-a319-59c8c235347e,Anulado
+98,6,Penalización,232.33,2025-11-20 21:47:59,Cheque,d0382234-2d5d-4144-9429-061c1daa4bc6,Pendiente
+2,99,Membresía,197.01,2025-11-20 21:47:59,Cheque,804c90cc-2c19-41fc-87a8-14656ff2d26e,Pendiente
+34,76,Membresía,189.03,2025-11-20 21:47:59,Efectivo,aa33aa6c-e0dc-4644-a06f-8edf6259125d,Anulado
+11,15,Membresía,79.53,2025-11-20 21:47:59,Efectivo,9a30f910-0aef-4807-adda-9e4ca2bd10ca,Pagado
+37,87,Clase Adicional,76.4,2025-11-20 21:47:59,Transferencia,ae0f709f-b341-4d81-872c-fd6ed11dbaf0,Pagado
+61,67,Membresía,291.14,2025-11-20 21:47:59,Transferencia,d5c5d856-2b4d-442f-a6f5-d49dd22673a6,Pagado
+31,55,Membresía,440.53,2025-11-20 21:47:59,Tarjeta,cdb9f25f-284e-4987-8d5a-49579c7224a5,Pendiente
+76,12,Membresía,188.9,2025-11-20 21:47:59,Cheque,f7979038-9f06-4ed6-92a9-0dfbe7b1af1e,Pagado
+25,61,Penalización,248.81,2025-11-20 21:47:59,Cheque,2834fde5-4d8f-4495-bb90-5ea1a812855b,Pagado
+49,24,Otro,426.94,2025-11-20 21:47:59,Transferencia,38266fa3-5055-4828-b20c-d2608fda1c41,Pagado
+4,6,Clase Adicional,196.77,2025-11-20 21:47:59,Cheque,98d21ee3-a7c5-4d2d-8f68-15a613282849,Anulado
+20,76,Membresía,470.32,2025-11-20 21:47:59,Efectivo,04f766d7-f11b-4edc-9d88-fad770dfbe4a,Anulado
+93,82,Otro,426.88,2025-11-20 21:47:59,Transferencia,52415983-7110-4413-8eb4-6d5e884049bd,Pendiente
+36,37,Otro,419.33,2025-11-20 21:47:59,Tarjeta,b4a5352b-b1b5-49d4-a3a7-cbed8201580d,Pagado
+37,63,Membresía,251.39,2025-11-20 21:47:59,Efectivo,1caf6f67-7b79-4acb-9c11-a0b569332d5b,Pendiente
+32,34,Membresía,425.01,2025-11-20 21:47:59,Efectivo,1626f661-bcaa-43db-9dab-3c500f96f672,Pendiente
+29,52,Clase Adicional,132.01,2025-11-20 21:47:59,Transferencia,2a69c5fa-03b0-46af-8746-f2b5ff3f2917,Pagado
+51,87,Membresía,384.44,2025-11-20 21:47:59,Transferencia,a41ad89a-31fd-4f1d-8d06-0bb3dbc8f31e,Anulado
+14,36,Clase Adicional,60.47,2025-11-20 21:47:59,Transferencia,33481e6b-9b23-4ca6-bca2-58808f757d15,Pendiente
+71,32,Clase Adicional,414.41,2025-11-20 21:47:59,Transferencia,09a1031a-96dd-4468-a83a-651eae5da6e1,Anulado
+62,65,Penalización,35.38,2025-11-20 21:47:59,Efectivo,3288bd7e-6d1d-491f-98d1-45080bb8661b,Pagado
+25,45,Otro,220.63,2025-11-20 21:47:59,Efectivo,0f882c7f-c283-49fd-a39a-130be86ecc1f,Anulado
+97,89,Clase Adicional,425.5,2025-11-20 21:47:59,Tarjeta,976ba990-1b2f-4e15-8850-970c710f6ea4,Anulado
+89,7,Otro,425.02,2025-11-20 21:47:59,Efectivo,b277414f-a371-40de-9009-ae2e33b94a17,Pendiente
+66,68,Penalización,54.74,2025-11-20 21:47:59,Efectivo,ea20e31e-da77-4786-add5-834ebf317526,Anulado
+35,14,Clase Adicional,162.07,2025-11-20 21:47:59,Efectivo,cf40921f-26c3-4b2a-b049-71e9ebd561f7,Pendiente
+35,66,Penalización,324.88,2025-11-20 21:47:59,Cheque,e65e5cb3-2597-476e-9f1a-390369ab3a65,Pagado
+69,87,Membresía,128.97,2025-11-20 21:47:59,Transferencia,5e1ffa7d-cc96-410b-9f47-480a404bda19,Anulado
+49,1,Membresía,176.99,2025-11-20 21:47:59,Tarjeta,bcf9e53f-e130-4940-aa98-b3814f99de76,Pendiente
+49,23,Clase Adicional,189.63,2025-11-20 21:47:59,Transferencia,03499aeb-10bd-4fe0-bbcb-3d84bf293634,Anulado
+12,92,Otro,446.13,2025-11-20 21:47:59,Efectivo,1c0d48c5-b1aa-4ce2-81c4-5cb9c128fad6,Anulado
+32,53,Membresía,173.02,2025-11-20 21:47:59,Tarjeta,ac460fb6-3216-45bb-8e55-5393677141c5,Pagado
+65,6,Otro,371.73,2025-11-20 21:47:59,Cheque,be2a5b89-2836-45f5-8181-da9219bd83e2,Pendiente
+73,99,Penalización,295.63,2025-11-20 21:47:59,Efectivo,2021846d-0e5f-4317-8ec9-476ccbb85ee5,Pagado
+14,41,Membresía,121.03,2025-11-20 21:47:59,Transferencia,8faa6b02-afc5-4ddc-a215-397078289fff,Pendiente
+40,48,Otro,175.62,2025-11-20 21:47:59,Tarjeta,958f75e6-43b1-4689-b458-b107be8bdd6a,Pagado
+21,84,Clase Adicional,122.58,2025-11-20 21:47:59,Transferencia,e74e98d9-6a0f-43a1-95bf-81d22e0ddccb,Pendiente
+42,46,Penalización,474.77,2025-11-20 21:47:59,Efectivo,57da1708-5712-45a1-804b-e5ae16d4208a,Pendiente
+69,73,Penalización,106.64,2025-11-20 21:47:59,Efectivo,ef4837bb-5d9c-4e6e-bc59-c7e0420cd0d5,Pendiente
+74,26,Otro,355.22,2025-11-20 21:47:59,Transferencia,625ad485-c86a-48cd-90fd-94f084120900,Anulado
+51,46,Otro,113.65,2025-11-20 21:47:59,Transferencia,a7ed2c1f-8728-446e-8aab-320f2eba657b,Pagado
+26,43,Otro,382.98,2025-11-20 21:47:59,Efectivo,645de694-715d-4dc7-84e2-21c4e01c55b9,Anulado
+3,59,Membresía,248.92,2025-11-20 21:47:59,Efectivo,01c67dbf-c298-4ee3-a042-c8e23bbddf42,Pendiente
+46,27,Membresía,392.99,2025-11-20 21:47:59,Efectivo,ecc0d570-94c3-4759-af07-7f43f54799ab,Anulado
+39,86,Otro,290.41,2025-11-20 21:47:59,Transferencia,5146f877-f46d-4612-89b5-10b8dd817057,Pendiente
+87,91,Membresía,480.38,2025-11-20 21:47:59,Transferencia,8bfbddbb-533b-40e8-a454-699a11cf505a,Anulado
+16,22,Clase Adicional,350.71,2025-11-20 21:47:59,Cheque,8129c115-38e6-41a0-80a9-a834caee7e55,Pagado
+36,71,Membresía,343.86,2025-11-20 21:47:59,Cheque,f32377cc-5c0c-4aeb-9f64-cbf7a792e76c,Pendiente
+4,66,Membresía,25.77,2025-11-20 21:47:59,Tarjeta,94ad5ba8-8468-4106-9765-f255b4825bb9,Pagado
+34,31,Membresía,454.05,2025-11-20 21:47:59,Cheque,c1187084-a63c-4205-9c02-811b927cbf88,Pagado
+52,22,Membresía,351.11,2025-11-20 21:47:59,Cheque,52b6f392-15c1-4390-ba00-9171ac00e143,Anulado
+37,15,Membresía,369.01,2025-11-20 21:47:59,Efectivo,a1cdb97b-c8af-473f-b10d-c70d6319f522,Pagado
+51,45,Otro,449.89,2025-11-20 21:47:59,Cheque,e46f642d-7a4c-4f5e-b32c-1c9a68e22c85,Anulado
+80,68,Otro,91.83,2025-11-20 21:47:59,Efectivo,907ebc06-168d-4195-bc7a-ea27eff22bd1,Anulado
+88,67,Membresía,455.57,2025-11-20 21:47:59,Tarjeta,c2614bb9-72a6-42ec-bab1-77f8f14eb228,Anulado
+26,71,Clase Adicional,438.92,2025-11-20 21:47:59,Cheque,b836bfc5-3531-41bb-8556-47058cdd517d,Pagado
+14,17,Clase Adicional,138.75,2025-11-20 21:47:59,Transferencia,7d86d027-a3d1-4178-a620-6354d469f1b7,Pendiente
+100,72,Clase Adicional,38.62,2025-11-20 21:47:59,Cheque,5e0278b6-24bb-4c5a-974f-b922b66e7575,Pagado
+99,1,Otro,269.78,2025-11-20 21:47:59,Transferencia,a3d55f59-7d88-42aa-867c-9911c5a6b00d,Anulado
+93,73,Otro,151.87,2025-11-20 21:47:59,Tarjeta,d6577bb7-37d5-4a6b-bb7a-19d9d38d69a7,Anulado
+87,7,Otro,285.98,2025-11-20 21:47:59,Tarjeta,edd1a95f-dbde-4dbf-86ec-ef9f7d3f1dce,Anulado
+46,6,Clase Adicional,12.29,2025-11-20 21:47:59,Tarjeta,3e1cb182-951c-46a7-8c0e-ad1f69be6715,Anulado
+11,92,Clase Adicional,13.33,2025-11-20 21:47:59,Cheque,c919f1a8-77cb-409e-ad15-19b50f0485a1,Pagado
+55,31,Membresía,357.76,2025-11-20 21:47:59,Transferencia,17e03c73-2649-47f5-a2d1-5a69c52fa4a4,Pagado
+36,11,Clase Adicional,359.77,2025-11-20 21:47:59,Cheque,a4744e9a-76d9-41b0-8692-5d4866a8740c,Pendiente
+69,87,Membresía,424.66,2025-11-20 21:47:59,Transferencia,ef5afb8b-936c-48b2-a17f-6dc5162b03ef,Pendiente
+96,18,Penalización,18.22,2025-11-20 21:47:59,Efectivo,52e27071-b91b-46d4-85c4-d9240fa627ff,Pagado
+73,20,Membresía,170.12,2025-11-20 21:47:59,Cheque,e4817fce-c1c1-48a4-8671-664928d04b9a,Anulado
+54,75,Membresía,419.11,2025-11-20 21:47:59,Tarjeta,cda677e8-2869-4831-bb32-a8fb22c01cd1,Pagado
+13,84,Penalización,261.91,2025-11-20 21:47:59,Tarjeta,6c686004-d45c-432f-b233-e255efd2f7a0,Anulado
+18,11,Clase Adicional,332.35,2025-11-20 21:47:59,Transferencia,17544940-835b-4e49-99ef-7dccb0d5f26f,Pendiente
+32,10,Penalización,186.68,2025-11-20 21:47:59,Transferencia,7d410997-daf7-4740-9af6-6e801c690600,Pagado
+20,47,Penalización,492.61,2025-11-20 21:47:59,Tarjeta,78030d71-fcfa-474e-89f7-8693e708c7a3,Pagado
+21,2,Membresía,469.46,2025-11-20 21:47:59,Cheque,021d22e2-ae24-48da-8aa3-fb413197daad,Pendiente
+58,100,Membresía,106.78,2025-11-20 21:47:59,Transferencia,0236dcfc-a16d-44a8-a465-5904d638499c,Anulado
+7,37,Clase Adicional,184.07,2025-11-20 21:47:59,Efectivo,b06a8815-5773-4800-bae7-a02f3ad39761,Anulado
+89,50,Penalización,337.61,2025-11-20 21:47:59,Cheque,6f4f5215-f8b6-4dae-b1c5-6fd89ad50da9,Pendiente
+92,57,Penalización,386.45,2025-11-20 21:47:59,Tarjeta,0c92c238-bc5b-4b21-b39e-3dc08baf3e32,Pagado
+96,70,Clase Adicional,272.18,2025-11-20 21:47:59,Efectivo,eb4d4fe7-113b-41b2-88ea-d7a965fce944,Pagado
+51,1,Membresía,299.65,2025-11-20 21:47:59,Transferencia,34401f6e-9822-43be-aea3-25a58dc21732,Anulado
+8,69,Clase Adicional,382.5,2025-11-20 21:47:59,Efectivo,afead164-32ec-4d65-bdbb-e4556cd1250b,Pagado
+99,69,Penalización,470.13,2025-11-20 21:47:59,Tarjeta,6114b45f-7972-42f0-92b3-0a6afe7dbc44,Pagado
+87,27,Clase Adicional,430.73,2025-11-20 21:47:59,Transferencia,73f2b4f2-c234-46d0-8afc-39f918087c4e,Pagado
+44,9,Otro,143.01,2025-11-20 21:47:59,Efectivo,5259fc4b-7d77-4997-84f5-c51a97fec3b5,Anulado
+22,46,Otro,194.18,2025-11-20 21:47:59,Transferencia,7caf06b6-28f3-499c-beed-d2cc225f735c,Anulado
+92,58,Otro,125.63,2025-11-20 21:47:59,Cheque,c3e9e2b9-5d5a-4336-bdce-b8e6c6aa365d,Pagado
+27,99,Otro,223.59,2025-11-20 21:47:59,Cheque,1e382666-d810-44e7-872a-b74eb439665d,Pendiente
+80,63,Otro,483.55,2025-11-20 21:47:59,Cheque,ea1351da-3a7a-45ff-a7ea-a195fdf4ece5,Anulado
+58,19,Otro,115.81,2025-11-20 21:47:59,Efectivo,c32950d1-945a-4eb3-957d-fc3e388db88e,Pendiente
+40,78,Clase Adicional,101.61,2025-11-20 21:47:59,Tarjeta,e9685fec-7516-4419-81b3-d6b688727517,Pagado
+18,14,Otro,192.76,2025-11-20 21:47:59,Efectivo,96e975cc-21f3-4301-8d3b-b0089ae388e4,Anulado
+77,63,Membresía,461.54,2025-11-20 21:47:59,Cheque,6c324fc2-c47a-4d4b-8ed8-201b55249df4,Pagado
+25,59,Otro,123.02,2025-11-20 21:47:59,Cheque,08afed25-4501-466b-98b1-d7dc61000fb0,Pagado
+21,1,Membresía,196.32,2025-11-20 21:47:59,Tarjeta,bdc3b690-87a5-447d-a89c-e131178ee422,Anulado
+48,19,Membresía,256.89,2025-11-20 21:47:59,Tarjeta,a0d40342-6bc8-4b93-9e35-13075fe6cf93,Anulado
+82,75,Otro,318.31,2025-11-20 21:47:59,Tarjeta,f1f00272-a3db-4f4c-9bc5-1bed26f4e19c,Pendiente
+85,21,Clase Adicional,234.15,2025-11-20 21:47:59,Tarjeta,b7f76939-f2d1-4539-b753-7aea475321aa,Anulado
+25,59,Otro,197.14,2025-11-20 21:47:59,Tarjeta,25320765-7977-4abf-b4be-8c64107a3482,Pendiente
+1,8,Penalización,207.17,2025-11-20 21:47:59,Efectivo,dd7d439e-3fa8-4382-8bac-6456bb9bf379,Pagado
+49,79,Clase Adicional,420.22,2025-11-20 21:47:59,Tarjeta,c7eb398a-0da9-4de7-bff6-75189636b217,Pagado
+99,15,Penalización,360.24,2025-11-20 21:47:59,Tarjeta,28826670-56aa-4473-89ee-5778ebe7abc3,Anulado
+59,64,Penalización,345.86,2025-11-20 21:47:59,Efectivo,f1ef6b66-f932-402e-8ced-741bd78caf97,Pagado
+68,66,Clase Adicional,484.31,2025-11-20 21:47:59,Efectivo,32c12680-6943-4e6e-af8c-9abad4b61e7e,Pendiente
+66,56,Clase Adicional,133.92,2025-11-20 21:47:59,Cheque,c49e7128-91d1-4b13-9da8-7ba67f1ba0f0,Pagado
+37,67,Otro,20.82,2025-11-20 21:47:59,Cheque,b9c045a8-ebac-4c3c-b200-9e98f8d009d5,Anulado
+58,62,Membresía,228.46,2025-11-20 21:47:59,Transferencia,79dfc02d-53f9-49d6-afa7-3e0628898794,Anulado
+37,33,Penalización,380.17,2025-11-20 21:47:59,Cheque,f1bc4e75-dd51-4e3a-aabd-e33637fc49c5,Anulado
+18,31,Clase Adicional,26.87,2025-11-20 21:47:59,Transferencia,fcebb8e3-c8b7-4c0e-ad16-0942bf823810,Pagado
+86,100,Penalización,277.9,2025-11-20 21:47:59,Tarjeta,719b4f4e-2ca7-4531-9242-f936294d4499,Pendiente
+9,93,Penalización,108.55,2025-11-20 21:47:59,Cheque,93c8af0d-ddae-4f93-a2c5-23fe4b4ef1fc,Pendiente
+98,69,Penalización,32.26,2025-11-20 21:47:59,Efectivo,b496bfea-5eb2-4bf1-9e21-8338b3263d1f,Pendiente
+24,69,Clase Adicional,387.11,2025-11-20 21:47:59,Efectivo,69d034b4-b194-4591-b48b-18345e95faf9,Pagado
+60,13,Penalización,196.62,2025-11-20 21:47:59,Efectivo,b923d4a5-7d82-4e3c-9c90-15e07dfe7bbb,Pendiente
+66,23,Clase Adicional,18.57,2025-11-20 21:47:59,Cheque,97e47509-a0ae-416d-a9e2-29fa8da0aedf,Pagado
+82,48,Otro,213.44,2025-11-20 21:47:59,Efectivo,bd515604-e2c5-45a7-a465-9f95d11fdac2,Anulado
+71,41,Membresía,418.85,2025-11-20 21:47:59,Cheque,b9f464ea-8bbe-478d-b851-bbf402157c05,Pendiente
+76,36,Penalización,136.99,2025-11-20 21:47:59,Cheque,08f00778-1fd5-4635-a76f-11213985e482,Pendiente
+28,27,Penalización,60.97,2025-11-20 21:47:59,Efectivo,4ef9fb62-cb1f-46a2-ad48-2c39d6040b18,Pendiente
+63,3,Penalización,171.33,2025-11-20 21:47:59,Transferencia,878dae0d-ef2d-449f-b065-3fdc3ec1a559,Pendiente
+12,20,Otro,355.57,2025-11-20 21:47:59,Cheque,2abf3b4d-ad12-4040-9dae-fd75de73b796,Anulado
+51,40,Clase Adicional,343.53,2025-11-20 21:47:59,Cheque,d591fefe-0bcd-4386-98ee-d0919fd1bdee,Anulado
+32,26,Otro,475.61,2025-11-20 21:47:59,Tarjeta,0106be83-fa4c-4e5b-b759-a837eb85aa83,Anulado
+21,68,Otro,269.23,2025-11-20 21:47:59,Tarjeta,2a7cc12d-d172-4d3d-9523-b4ae8f0538eb,Anulado
+93,54,Clase Adicional,454.31,2025-11-20 21:47:59,Transferencia,5e15978a-0783-4eb8-bf70-bc260ef91e71,Anulado
+80,5,Membresía,347.6,2025-11-20 21:47:59,Efectivo,b21df11c-1ccc-4ff9-92e7-c1937201299b,Anulado
+83,32,Clase Adicional,399.3,2025-11-20 21:47:59,Cheque,dc7cd6ce-3f78-4b80-bd3f-0d71c991e51c,Pendiente
+58,8,Penalización,279.93,2025-11-20 21:47:59,Transferencia,63e7f1be-c10e-438f-a5df-34b3d5f91467,Pagado
+5,1,Otro,397.88,2025-11-20 21:47:59,Efectivo,dbf80c4c-1a0c-497a-9b45-3c77e2d39f51,Anulado
+23,22,Otro,381.96,2025-11-20 21:47:59,Tarjeta,2925bac5-d817-4ca4-a7d4-cf29e5d9dde9,Pagado
+31,56,Membresía,319.11,2025-11-20 21:47:59,Cheque,403106e7-dc94-45d4-b1eb-8474e3e75131,Pagado
+12,30,Clase Adicional,138.43,2025-11-20 21:47:59,Tarjeta,6898c9fd-c8ee-4248-a58e-4566ad2eac61,Anulado
+23,73,Penalización,223.51,2025-11-20 21:47:59,Efectivo,f2735003-72ca-492a-9f20-689fd9b97e4c,Pendiente
+56,84,Membresía,367.02,2025-11-20 21:47:59,Transferencia,52f0715e-4cec-4bcf-9a78-315148be0426,Pagado
+13,92,Clase Adicional,198.47,2025-11-20 21:47:59,Tarjeta,ee86f008-dc9e-40ea-8700-70cf7b0db598,Pagado
+67,17,Otro,158.54,2025-11-20 21:47:59,Efectivo,44add698-9069-4f4b-8031-1ba3a4750caa,Pendiente
+95,37,Clase Adicional,481.33,2025-11-20 21:47:59,Transferencia,c442e288-0e82-4dd4-86be-e60e35eaf9c2,Anulado
+94,34,Clase Adicional,250.97,2025-11-20 21:47:59,Efectivo,7021436e-a0c6-4db6-8c3f-5fbd8cbb8ee6,Anulado
+89,89,Penalización,472.02,2025-11-20 21:47:59,Tarjeta,55361100-6725-4f24-9ba1-a97c68409ec9,Pendiente
+7,60,Otro,436.86,2025-11-20 21:47:59,Cheque,42b70913-79fd-4fc7-9d21-810b5c232e17,Pagado
+76,6,Clase Adicional,162.27,2025-11-20 21:47:59,Transferencia,09ecd1cf-404c-41fc-996c-49125e7312f2,Pendiente
+4,97,Membresía,398.91,2025-11-20 21:47:59,Cheque,697ca83c-b32c-458e-8f9d-ebc10f992f96,Pendiente
+42,16,Otro,158.12,2025-11-20 21:47:59,Tarjeta,63535759-87d8-44e7-8a9c-9aabc2bdbe09,Pendiente
+15,64,Otro,499.79,2025-11-20 21:47:59,Transferencia,5581f597-4a4a-4ef3-80a5-98e3af30260f,Pendiente
+46,30,Penalización,104.33,2025-11-20 21:47:59,Transferencia,dccbd929-1035-480f-98b8-590231b9cce2,Pendiente
+7,44,Penalización,401.13,2025-11-20 21:47:59,Tarjeta,15a30f7c-9ae9-4f7a-89ce-58f749f76e20,Anulado
+21,85,Membresía,123.68,2025-11-20 21:47:59,Efectivo,3949491f-f4c4-4596-bbd2-edb57d88825d,Anulado
+94,90,Membresía,170.55,2025-11-20 21:47:59,Tarjeta,abcffe43-7ae7-4341-ae26-a5a740bdc77e,Pagado
+62,21,Clase Adicional,386.77,2025-11-20 21:47:59,Cheque,47b5716f-1ae3-4b16-bba9-61ed4ecc7eee,Pagado
+49,93,Clase Adicional,207.9,2025-11-20 21:47:59,Transferencia,19e53696-685e-4bdb-b317-8c808490e603,Anulado
+44,13,Otro,100.56,2025-11-20 21:47:59,Cheque,00f436c5-8164-4e0a-bfe9-304ff1a7674b,Pendiente
+2,2,Penalización,486.35,2025-11-20 21:47:59,Efectivo,4efa7111-c987-46ec-b464-2d40912659b9,Pendiente
+29,20,Membresía,147.34,2025-11-20 21:47:59,Cheque,0004286a-860c-49a0-bfe3-decf5f9cd742,Pagado
+89,41,Penalización,177.41,2025-11-20 21:47:59,Efectivo,2e489f23-0d6c-40ae-aa83-810f5d5d48d9,Anulado
+29,22,Penalización,190.08,2025-11-20 21:47:59,Tarjeta,02150ac5-a15a-4c8e-ad44-2a7447c0d83b,Pendiente
+37,53,Clase Adicional,151.37,2025-11-20 21:47:59,Cheque,c7e572df-f2e8-4080-9cd1-f8900540971b,Anulado
+54,64,Penalización,242.5,2025-11-20 21:47:59,Transferencia,18489ede-ba26-4e06-9d1d-31f3a3798764,Pagado
+59,95,Membresía,222.13,2025-11-20 21:47:59,Efectivo,114f4069-2ebb-4443-abd6-18f87ba78807,Anulado
+93,46,Penalización,223.13,2025-11-20 21:47:59,Efectivo,2cc204e1-547e-41a9-96f8-4d9a995b3052,Anulado
+51,21,Clase Adicional,320.57,2025-11-20 21:47:59,Tarjeta,c3f3bedd-40f9-4a1a-abbd-723d354bb010,Anulado
+30,59,Penalización,141.88,2025-11-20 21:47:59,Transferencia,bf458f35-9bd6-460b-8b04-c3e87a1a7c8b,Pendiente
+66,37,Penalización,322.01,2025-11-20 21:47:59,Cheque,5d9dbf98-9e99-4a6e-b66d-d61448bad4b9,Pendiente
+23,12,Otro,235.47,2025-11-20 21:47:59,Tarjeta,798b0b01-03de-4135-8daa-e28acd4037d8,Pagado
+28,94,Penalización,69.15,2025-11-20 21:47:59,Transferencia,e0ef5eb1-97b0-4227-a063-89faba1ff361,Pagado
+80,96,Clase Adicional,228.39,2025-11-20 21:47:59,Efectivo,4d7c26c0-4367-4424-ba0d-4ea682f739cc,Anulado
+8,81,Membresía,82.74,2025-11-20 21:47:59,Tarjeta,434f0c02-f26e-4dff-ad12-c6553a48e8be,Anulado
+36,94,Penalización,204.63,2025-11-20 21:47:59,Tarjeta,e727192e-39ff-404b-a725-99c6b78162be,Pendiente
+68,49,Membresía,247.58,2025-11-20 21:47:59,Tarjeta,99fcdbd7-9a46-44c5-9a69-510ca4e3e900,Pendiente
+50,54,Membresía,447.48,2025-11-20 21:47:59,Efectivo,a48eb8e9-8005-49bb-8b5c-560e2d6d4138,Pendiente
+13,43,Otro,345.3,2025-11-20 21:47:59,Tarjeta,88522e9f-d929-4f8a-8a43-1a8fc538daa8,Pendiente
+36,62,Penalización,378.95,2025-11-20 21:47:59,Transferencia,ab7b8c6b-5bac-45ce-9d5c-589770f28e7a,Pendiente
+77,73,Otro,441.34,2025-11-20 21:47:59,Cheque,bf09fe4c-74bf-4db0-9337-52c13dee9b61,Pagado
+44,41,Otro,360.56,2025-11-20 21:47:59,Tarjeta,1da111cd-6c5d-46fa-95a9-470d3ce18de0,Anulado
+37,69,Penalización,60.93,2025-11-20 21:47:59,Tarjeta,ad68da4f-c1f2-455b-bca1-3ce2a4d4492e,Pendiente
+5,66,Penalización,190.77,2025-11-20 21:47:59,Transferencia,300378b4-8fe7-4e3a-84fc-7c8797120dc7,Pagado

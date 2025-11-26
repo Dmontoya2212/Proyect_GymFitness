@@ -1,0 +1,501 @@
+nombre;descripcion;precio_mensual;duracion_meses;clases_incluidas;acceso_areas_especiales;estado
+Elite 1;Acceso total a todas las áreas;119.45;24;9;1;0
+Premium 2;Plan diseñado para principiantes;27.55;18;12;0;1
+Premium 3;Acceso a áreas especiales y spa;95.42;2;2;0;0
+Elite 4;Plan diseñado para principiantes;107.25;13;17;1;0
+Plus 5;Acceso a áreas especiales y spa;100.71;15;16;1;0
+Diamond 6;Incluye clases grupales ilimitadas;90.26;5;20;1;0
+Diamond 7;Incluye clases grupales ilimitadas;31.1;11;6;1;1
+Max 8;Incluye clases grupales ilimitadas;99.66;1;18;0;1
+Gold 9;Membresía avanzada para atletas;48.56;1;5;1;0
+Pro 10;Perfecto para uso ocasional;50.73;7;1;1;0
+Diamond 11;Membresía avanzada para atletas;99.14;20;0;0;0
+Max 12;Plan diseñado para principiantes;91.73;12;4;1;1
+Silver 13;Plan económico con beneficios limitados;52.78;22;2;0;1
+Pro 14;Plan económico con beneficios limitados;55.82;18;12;0;0
+Elite 15;Acceso total a todas las áreas;119.92;21;4;0;1
+Plus 16;Ideal para entrenamiento de fuerza;34.2;6;20;0;0
+Diamond 17;Perfecto para uso ocasional;18.59;22;20;1;1
+Plus 18;Ideal para entrenamiento de fuerza;115.78;23;13;0;1
+Elite 19;Plan diseñado para principiantes;53.14;22;17;0;0
+Starter 20;Acceso al gimnasio y máquinas básicas;26.3;3;13;0;0
+Silver 21;Plan diseñado para principiantes;14.29;7;6;0;1
+Gold 22;Plan económico con beneficios limitados;18.81;2;20;0;0
+Diamond 23;Incluye clases grupales ilimitadas;49.55;6;20;0;0
+Starter 24;Acceso a áreas especiales y spa;19.32;8;19;0;1
+Premium 25;Ideal para entrenamiento de fuerza;97.86;18;0;1;0
+Diamond 26;Plan diseñado para principiantes;76.43;6;6;0;0
+Silver 27;Acceso al gimnasio y máquinas básicas;111.96;4;12;1;0
+Starter 28;Plan económico con beneficios limitados;33.72;3;19;1;1
+Silver 29;Incluye clases grupales ilimitadas;67.75;8;18;0;1
+Premium 30;Plan diseñado para principiantes;115.01;8;0;1;1
+Gold 31;Perfecto para uso ocasional;110.85;4;11;1;1
+Silver 32;Incluye clases grupales ilimitadas;61.28;14;1;0;1
+Diamond 33;Perfecto para uso ocasional;64.02;8;19;0;1
+Premium 34;Acceso total a todas las áreas;105.14;21;5;0;1
+Basic 35;Acceso al gimnasio y máquinas básicas;79.87;4;3;0;0
+Plus 36;Acceso al gimnasio y máquinas básicas;71.11;23;17;0;0
+Premium 37;Plan diseñado para principiantes;118.18;8;20;1;1
+Max 38;Incluye clases grupales ilimitadas;80.04;24;11;1;0
+Premium 39;Incluye entrenador personal mensual;67.63;6;3;0;0
+Basic 40;Acceso al gimnasio y máquinas básicas;41.78;16;0;0;1
+Premium 41;Incluye clases grupales ilimitadas;88.32;6;1;1;0
+Basic 42;Ideal para entrenamiento de fuerza;110.61;6;8;1;0
+Max 43;Plan económico con beneficios limitados;11.64;1;3;1;1
+Diamond 44;Incluye entrenador personal mensual;87.96;5;6;0;0
+Gold 45;Membresía avanzada para atletas;69.76;5;4;1;1
+Premium 46;Acceso total a todas las áreas;89.2;12;7;0;1
+Basic 47;Incluye clases grupales ilimitadas;46.13;19;19;1;0
+Elite 48;Plan diseñado para principiantes;40.47;15;18;0;0
+Pro 49;Membresía avanzada para atletas;25.18;16;11;1;1
+Pro 50;Ideal para entrenamiento de fuerza;110.83;10;14;1;0
+Starter 51;Acceso a áreas especiales y spa;20.09;3;10;1;1
+Starter 52;Incluye clases grupales ilimitadas;47.91;18;12;0;1
+Gold 53;Acceso total a todas las áreas;77.3;12;17;0;0
+Elite 54;Ideal para entrenamiento de fuerza;32.0;7;15;0;0
+Gold 55;Acceso total a todas las áreas;11.29;20;3;0;1
+Elite 56;Acceso a áreas especiales y spa;12.39;5;0;0;1
+Diamond 57;Plan económico con beneficios limitados;37.56;4;8;1;0
+Gold 58;Acceso al gimnasio y máquinas básicas;34.24;12;20;0;0
+Plus 59;Perfecto para uso ocasional;76.59;13;6;0;0
+Diamond 60;Perfecto para uso ocasional;17.77;10;15;0;0
+Basic 61;Membresía avanzada para atletas;49.39;14;10;0;1
+Max 62;Acceso total a todas las áreas;108.78;11;11;1;0
+Starter 63;Acceso a áreas especiales y spa;36.33;14;19;0;1
+Silver 64;Plan diseñado para principiantes;41.97;10;0;1;1
+Premium 65;Incluye entrenador personal mensual;64.22;16;1;0;1
+Starter 66;Plan económico con beneficios limitados;37.61;8;10;0;0
+Gold 67;Perfecto para uso ocasional;89.34;5;17;1;0
+Gold 68;Acceso total a todas las áreas;114.58;7;4;1;1
+Starter 69;Ideal para entrenamiento de fuerza;59.35;20;18;1;1
+Diamond 70;Membresía avanzada para atletas;114.38;18;10;1;0
+Basic 71;Acceso total a todas las áreas;118.45;8;10;1;1
+Premium 72;Ideal para entrenamiento de fuerza;111.86;12;15;0;0
+Elite 73;Plan diseñado para principiantes;66.48;2;1;1;0
+Diamond 74;Acceso total a todas las áreas;65.92;18;14;0;1
+Silver 75;Acceso a áreas especiales y spa;54.3;5;17;0;0
+Premium 76;Perfecto para uso ocasional;109.12;13;20;0;0
+Pro 77;Membresía avanzada para atletas;27.95;2;8;1;0
+Premium 78;Perfecto para uso ocasional;22.61;10;3;0;1
+Silver 79;Acceso a áreas especiales y spa;82.2;19;3;0;0
+Premium 80;Plan diseñado para principiantes;87.73;7;7;1;1
+Plus 81;Membresía avanzada para atletas;99.64;14;12;1;0
+Diamond 82;Acceso total a todas las áreas;65.8;24;17;0;0
+Starter 83;Plan diseñado para principiantes;76.32;15;6;1;1
+Diamond 84;Membresía avanzada para atletas;97.77;10;19;1;0
+Pro 85;Acceso a áreas especiales y spa;76.25;8;18;0;1
+Basic 86;Perfecto para uso ocasional;84.97;12;9;0;0
+Starter 87;Incluye clases grupales ilimitadas;111.71;9;7;0;1
+Gold 88;Membresía avanzada para atletas;61.01;6;17;0;1
+Max 89;Membresía avanzada para atletas;18.46;12;1;1;0
+Elite 90;Acceso total a todas las áreas;80.28;6;12;1;0
+Elite 91;Acceso total a todas las áreas;117.77;19;5;0;1
+Starter 92;Membresía avanzada para atletas;111.94;2;18;1;1
+Starter 93;Perfecto para uso ocasional;107.99;4;8;1;0
+Plus 94;Acceso al gimnasio y máquinas básicas;56.33;16;19;1;1
+Gold 95;Acceso al gimnasio y máquinas básicas;68.65;6;3;1;0
+Max 96;Acceso total a todas las áreas;88.91;8;9;1;1
+Starter 97;Perfecto para uso ocasional;81.07;6;3;0;0
+Elite 98;Acceso al gimnasio y máquinas básicas;11.32;2;9;1;1
+Pro 99;Ideal para entrenamiento de fuerza;103.47;5;9;0;1
+Gold 100;Incluye entrenador personal mensual;14.5;14;18;1;0
+Elite 101;Membresía avanzada para atletas;54.93;10;2;1;0
+Starter 102;Incluye entrenador personal mensual;118.03;10;1;1;1
+Elite 103;Membresía avanzada para atletas;51.8;10;9;1;1
+Max 104;Plan diseñado para principiantes;112.6;11;14;0;1
+Pro 105;Ideal para entrenamiento de fuerza;87.39;18;6;0;1
+Starter 106;Incluye clases grupales ilimitadas;56.38;19;2;0;0
+Starter 107;Membresía avanzada para atletas;108.26;7;6;0;0
+Max 108;Acceso total a todas las áreas;99.82;4;2;0;0
+Elite 109;Membresía avanzada para atletas;100.06;19;16;1;1
+Premium 110;Perfecto para uso ocasional;50.62;20;17;0;0
+Diamond 111;Plan económico con beneficios limitados;71.79;17;3;0;0
+Elite 112;Incluye clases grupales ilimitadas;58.12;17;18;0;0
+Basic 113;Incluye clases grupales ilimitadas;79.83;4;8;1;0
+Silver 114;Incluye entrenador personal mensual;37.37;8;15;1;0
+Max 115;Perfecto para uso ocasional;58.71;8;10;1;1
+Starter 116;Acceso a áreas especiales y spa;78.91;18;3;0;1
+Elite 117;Acceso a áreas especiales y spa;99.41;4;19;1;1
+Premium 118;Acceso al gimnasio y máquinas básicas;101.99;1;7;1;1
+Diamond 119;Membresía avanzada para atletas;71.95;4;5;1;1
+Plus 120;Membresía avanzada para atletas;79.51;4;10;1;1
+Starter 121;Acceso a áreas especiales y spa;93.53;9;18;1;1
+Pro 122;Acceso al gimnasio y máquinas básicas;20.33;15;1;0;1
+Gold 123;Incluye entrenador personal mensual;52.89;4;15;0;0
+Plus 124;Incluye entrenador personal mensual;74.44;4;12;0;1
+Starter 125;Ideal para entrenamiento de fuerza;69.17;21;7;0;1
+Silver 126;Membresía avanzada para atletas;10.29;13;12;1;0
+Diamond 127;Membresía avanzada para atletas;87.89;19;11;1;0
+Pro 128;Incluye clases grupales ilimitadas;12.51;24;0;1;0
+Diamond 129;Acceso total a todas las áreas;12.11;5;20;1;1
+Silver 130;Plan económico con beneficios limitados;19.36;8;16;1;0
+Plus 131;Membresía avanzada para atletas;22.45;7;6;1;0
+Diamond 132;Incluye clases grupales ilimitadas;41.95;11;10;0;1
+Premium 133;Ideal para entrenamiento de fuerza;13.54;1;3;0;0
+Elite 134;Acceso total a todas las áreas;73.6;1;13;1;0
+Plus 135;Membresía avanzada para atletas;79.57;15;0;0;0
+Diamond 136;Acceso a áreas especiales y spa;53.87;5;20;1;0
+Elite 137;Membresía avanzada para atletas;57.06;2;13;0;0
+Pro 138;Ideal para entrenamiento de fuerza;100.42;22;20;0;1
+Silver 139;Perfecto para uso ocasional;105.25;15;15;0;0
+Premium 140;Acceso a áreas especiales y spa;57.18;4;8;1;1
+Gold 141;Incluye entrenador personal mensual;114.58;19;4;1;0
+Elite 142;Acceso total a todas las áreas;82.66;23;12;1;0
+Plus 143;Ideal para entrenamiento de fuerza;42.85;21;4;0;1
+Pro 144;Plan económico con beneficios limitados;101.68;18;7;0;0
+Basic 145;Membresía avanzada para atletas;98.15;6;4;1;0
+Starter 146;Acceso al gimnasio y máquinas básicas;81.34;24;2;0;1
+Silver 147;Plan diseñado para principiantes;114.54;20;13;0;0
+Premium 148;Perfecto para uso ocasional;20.5;6;1;0;0
+Diamond 149;Ideal para entrenamiento de fuerza;90.14;14;15;0;1
+Plus 150;Plan económico con beneficios limitados;106.01;8;20;1;1
+Elite 151;Perfecto para uso ocasional;19.66;21;20;0;0
+Starter 152;Incluye clases grupales ilimitadas;87.45;13;2;1;0
+Pro 153;Plan diseñado para principiantes;88.83;3;3;0;1
+Gold 154;Ideal para entrenamiento de fuerza;65.17;23;18;1;0
+Elite 155;Incluye clases grupales ilimitadas;33.67;15;2;1;0
+Silver 156;Ideal para entrenamiento de fuerza;40.01;9;15;1;0
+Elite 157;Acceso a áreas especiales y spa;76.62;16;10;1;0
+Elite 158;Incluye entrenador personal mensual;101.33;24;8;1;1
+Starter 159;Ideal para entrenamiento de fuerza;92.68;7;19;1;1
+Silver 160;Incluye clases grupales ilimitadas;95.33;1;15;1;0
+Silver 161;Plan diseñado para principiantes;34.46;24;0;0;0
+Basic 162;Incluye entrenador personal mensual;117.44;12;18;0;0
+Basic 163;Incluye entrenador personal mensual;91.67;12;1;0;0
+Premium 164;Ideal para entrenamiento de fuerza;99.19;23;19;0;0
+Max 165;Perfecto para uso ocasional;83.94;14;15;1;1
+Plus 166;Acceso total a todas las áreas;39.9;23;12;0;0
+Elite 167;Incluye clases grupales ilimitadas;108.02;14;15;0;1
+Pro 168;Ideal para entrenamiento de fuerza;88.2;11;7;0;1
+Max 169;Acceso total a todas las áreas;15.46;8;12;1;0
+Max 170;Membresía avanzada para atletas;83.42;18;8;0;0
+Premium 171;Plan diseñado para principiantes;36.4;22;1;1;0
+Pro 172;Ideal para entrenamiento de fuerza;16.14;23;5;0;1
+Gold 173;Acceso total a todas las áreas;101.8;14;19;0;0
+Diamond 174;Perfecto para uso ocasional;42.08;23;16;1;1
+Gold 175;Incluye entrenador personal mensual;97.74;14;12;0;0
+Starter 176;Acceso total a todas las áreas;38.08;22;2;1;1
+Plus 177;Acceso a áreas especiales y spa;84.94;4;16;1;0
+Pro 178;Acceso total a todas las áreas;13.26;13;0;1;0
+Diamond 179;Acceso total a todas las áreas;80.51;8;5;1;1
+Elite 180;Acceso a áreas especiales y spa;36.1;3;3;0;0
+Diamond 181;Acceso total a todas las áreas;13.16;12;19;1;1
+Elite 182;Perfecto para uso ocasional;36.29;23;7;1;0
+Silver 183;Acceso a áreas especiales y spa;12.51;23;5;0;1
+Premium 184;Ideal para entrenamiento de fuerza;108.73;19;3;1;0
+Silver 185;Plan económico con beneficios limitados;54.19;12;12;1;1
+Elite 186;Perfecto para uso ocasional;73.8;16;12;0;1
+Diamond 187;Acceso al gimnasio y máquinas básicas;86.33;5;13;0;1
+Pro 188;Incluye clases grupales ilimitadas;107.13;4;12;1;1
+Max 189;Perfecto para uso ocasional;47.58;10;6;1;1
+Plus 190;Incluye entrenador personal mensual;50.12;8;18;0;1
+Diamond 191;Plan diseñado para principiantes;73.51;1;18;1;1
+Silver 192;Acceso a áreas especiales y spa;42.28;2;2;0;0
+Elite 193;Plan diseñado para principiantes;49.19;14;11;0;0
+Silver 194;Incluye clases grupales ilimitadas;36.34;19;13;0;1
+Silver 195;Acceso a áreas especiales y spa;47.26;1;10;0;1
+Elite 196;Perfecto para uso ocasional;16.57;8;14;0;1
+Premium 197;Ideal para entrenamiento de fuerza;96.77;13;19;1;1
+Premium 198;Incluye entrenador personal mensual;28.13;1;20;1;0
+Starter 199;Ideal para entrenamiento de fuerza;68.73;18;19;0;0
+Starter 200;Incluye entrenador personal mensual;67.68;12;9;0;1
+Premium 201;Perfecto para uso ocasional;110.17;2;7;0;0
+Basic 202;Ideal para entrenamiento de fuerza;10.23;16;16;0;1
+Basic 203;Incluye clases grupales ilimitadas;62.09;18;17;0;0
+Max 204;Acceso al gimnasio y máquinas básicas;59.89;14;15;1;0
+Plus 205;Perfecto para uso ocasional;42.36;22;12;1;0
+Max 206;Incluye entrenador personal mensual;112.98;14;17;0;1
+Pro 207;Incluye clases grupales ilimitadas;45.24;3;19;1;0
+Silver 208;Plan diseñado para principiantes;21.77;8;5;1;1
+Premium 209;Acceso al gimnasio y máquinas básicas;115.41;21;17;0;1
+Silver 210;Acceso al gimnasio y máquinas básicas;49.36;13;19;1;0
+Max 211;Incluye entrenador personal mensual;60.16;7;12;1;0
+Pro 212;Incluye entrenador personal mensual;71.32;11;6;1;1
+Premium 213;Ideal para entrenamiento de fuerza;65.18;9;13;0;1
+Silver 214;Ideal para entrenamiento de fuerza;98.12;3;14;0;0
+Max 215;Acceso al gimnasio y máquinas básicas;88.6;12;10;0;0
+Silver 216;Plan diseñado para principiantes;66.23;15;20;1;1
+Elite 217;Ideal para entrenamiento de fuerza;39.6;1;17;1;1
+Plus 218;Incluye clases grupales ilimitadas;29.31;4;7;1;0
+Pro 219;Membresía avanzada para atletas;102.41;18;9;0;1
+Diamond 220;Incluye clases grupales ilimitadas;67.39;6;6;0;1
+Pro 221;Acceso total a todas las áreas;39.49;7;2;1;1
+Gold 222;Acceso total a todas las áreas;76.16;1;1;1;1
+Premium 223;Plan económico con beneficios limitados;18.87;7;3;1;1
+Gold 224;Plan diseñado para principiantes;78.11;3;8;1;0
+Gold 225;Acceso total a todas las áreas;100.89;9;4;0;1
+Starter 226;Acceso al gimnasio y máquinas básicas;64.92;23;5;1;1
+Diamond 227;Plan diseñado para principiantes;104.55;2;17;1;0
+Basic 228;Plan diseñado para principiantes;108.85;15;18;0;1
+Plus 229;Ideal para entrenamiento de fuerza;81.63;7;13;0;0
+Premium 230;Perfecto para uso ocasional;87.24;22;12;1;1
+Elite 231;Perfecto para uso ocasional;13.95;13;10;0;0
+Max 232;Incluye clases grupales ilimitadas;90.43;13;4;1;0
+Max 233;Acceso al gimnasio y máquinas básicas;102.76;20;13;0;0
+Silver 234;Acceso a áreas especiales y spa;118.43;13;17;1;0
+Silver 235;Ideal para entrenamiento de fuerza;39.11;1;6;0;1
+Starter 236;Incluye clases grupales ilimitadas;56.51;14;20;1;1
+Plus 237;Acceso al gimnasio y máquinas básicas;105.42;8;2;0;0
+Max 238;Acceso a áreas especiales y spa;11.24;18;10;0;0
+Max 239;Acceso al gimnasio y máquinas básicas;112.63;3;12;0;0
+Starter 240;Ideal para entrenamiento de fuerza;63.81;22;6;0;0
+Gold 241;Acceso a áreas especiales y spa;20.26;15;6;0;1
+Silver 242;Membresía avanzada para atletas;81.01;22;11;1;0
+Diamond 243;Perfecto para uso ocasional;47.47;22;12;1;0
+Max 244;Ideal para entrenamiento de fuerza;37.3;11;12;0;1
+Max 245;Incluye clases grupales ilimitadas;86.29;12;12;0;0
+Plus 246;Acceso al gimnasio y máquinas básicas;57.77;19;3;1;0
+Max 247;Acceso al gimnasio y máquinas básicas;11.25;13;3;1;1
+Elite 248;Perfecto para uso ocasional;53.77;15;15;1;1
+Diamond 249;Acceso al gimnasio y máquinas básicas;67.34;19;13;0;1
+Pro 250;Plan diseñado para principiantes;90.06;11;2;1;1
+Pro 251;Plan económico con beneficios limitados;93.23;20;18;1;0
+Gold 252;Ideal para entrenamiento de fuerza;103.43;6;7;1;0
+Plus 253;Acceso al gimnasio y máquinas básicas;90.34;2;7;0;1
+Basic 254;Ideal para entrenamiento de fuerza;81.99;4;1;0;1
+Plus 255;Plan económico con beneficios limitados;98.58;21;13;0;0
+Basic 256;Incluye entrenador personal mensual;36.55;9;1;0;1
+Diamond 257;Acceso total a todas las áreas;38.52;15;17;1;1
+Starter 258;Acceso a áreas especiales y spa;15.02;11;10;0;1
+Basic 259;Plan económico con beneficios limitados;47.71;23;13;0;0
+Elite 260;Ideal para entrenamiento de fuerza;110.4;6;3;0;1
+Silver 261;Plan diseñado para principiantes;62.62;17;5;1;1
+Premium 262;Acceso total a todas las áreas;17.99;22;6;1;0
+Gold 263;Acceso al gimnasio y máquinas básicas;46.43;24;19;1;1
+Starter 264;Acceso total a todas las áreas;91.47;4;20;0;0
+Starter 265;Plan económico con beneficios limitados;20.69;15;20;0;0
+Starter 266;Perfecto para uso ocasional;51.31;22;17;1;1
+Starter 267;Acceso al gimnasio y máquinas básicas;70.78;22;8;1;0
+Basic 268;Plan económico con beneficios limitados;52.89;12;20;1;0
+Elite 269;Incluye clases grupales ilimitadas;103.86;22;13;1;1
+Basic 270;Acceso total a todas las áreas;44.22;14;9;0;0
+Starter 271;Ideal para entrenamiento de fuerza;89.59;21;4;0;0
+Basic 272;Perfecto para uso ocasional;65.51;23;7;1;0
+Premium 273;Membresía avanzada para atletas;41.87;6;20;0;0
+Diamond 274;Plan diseñado para principiantes;21.82;4;17;1;1
+Plus 275;Acceso total a todas las áreas;112.03;21;18;0;1
+Basic 276;Perfecto para uso ocasional;69.51;11;4;0;0
+Premium 277;Ideal para entrenamiento de fuerza;64.16;4;12;0;0
+Max 278;Plan diseñado para principiantes;36.05;23;20;1;0
+Plus 279;Incluye entrenador personal mensual;107.69;9;0;1;1
+Elite 280;Acceso al gimnasio y máquinas básicas;37.32;12;16;0;0
+Premium 281;Perfecto para uso ocasional;21.87;7;6;0;0
+Premium 282;Plan diseñado para principiantes;34.24;3;19;1;1
+Plus 283;Perfecto para uso ocasional;78.83;3;3;1;0
+Plus 284;Perfecto para uso ocasional;101.75;8;16;1;0
+Basic 285;Acceso a áreas especiales y spa;94.4;3;8;1;0
+Diamond 286;Perfecto para uso ocasional;14.78;14;7;0;1
+Basic 287;Ideal para entrenamiento de fuerza;29.52;7;13;1;0
+Starter 288;Acceso total a todas las áreas;82.45;19;16;1;1
+Plus 289;Ideal para entrenamiento de fuerza;105.93;24;14;0;0
+Plus 290;Plan económico con beneficios limitados;101.81;15;5;1;1
+Plus 291;Acceso total a todas las áreas;96.83;11;13;1;0
+Pro 292;Incluye entrenador personal mensual;38.08;23;3;1;1
+Pro 293;Incluye entrenador personal mensual;113.82;8;2;0;0
+Pro 294;Acceso al gimnasio y máquinas básicas;73.11;22;1;0;0
+Max 295;Perfecto para uso ocasional;99.35;8;7;0;1
+Pro 296;Acceso a áreas especiales y spa;31.88;19;19;0;1
+Basic 297;Plan económico con beneficios limitados;83.76;6;13;1;0
+Diamond 298;Incluye entrenador personal mensual;105.91;15;11;0;0
+Max 299;Plan económico con beneficios limitados;26.73;15;15;0;0
+Max 300;Ideal para entrenamiento de fuerza;36.6;12;15;1;0
+Diamond 301;Acceso total a todas las áreas;111.88;17;13;0;0
+Max 302;Incluye clases grupales ilimitadas;66.01;23;3;0;0
+Starter 303;Acceso total a todas las áreas;93.21;1;16;1;0
+Plus 304;Perfecto para uso ocasional;97.45;12;3;1;0
+Basic 305;Acceso al gimnasio y máquinas básicas;109.6;1;11;0;1
+Elite 306;Perfecto para uso ocasional;98.99;20;2;0;0
+Pro 307;Perfecto para uso ocasional;98.83;2;19;0;0
+Basic 308;Acceso total a todas las áreas;24.01;12;10;0;0
+Diamond 309;Acceso total a todas las áreas;116.58;23;7;0;0
+Basic 310;Incluye clases grupales ilimitadas;50.18;9;17;0;1
+Basic 311;Acceso a áreas especiales y spa;45.0;17;12;0;1
+Pro 312;Acceso al gimnasio y máquinas básicas;77.91;10;8;0;0
+Pro 313;Incluye entrenador personal mensual;106.53;6;8;0;1
+Plus 314;Acceso al gimnasio y máquinas básicas;33.55;14;3;1;0
+Silver 315;Acceso a áreas especiales y spa;47.48;19;6;0;1
+Max 316;Acceso al gimnasio y máquinas básicas;46.07;3;13;0;0
+Gold 317;Acceso al gimnasio y máquinas básicas;19.72;2;9;0;0
+Plus 318;Acceso a áreas especiales y spa;65.29;14;12;0;0
+Gold 319;Acceso total a todas las áreas;24.07;16;2;0;1
+Premium 320;Plan económico con beneficios limitados;79.13;16;14;0;1
+Starter 321;Membresía avanzada para atletas;87.39;1;5;0;0
+Elite 322;Incluye entrenador personal mensual;41.34;14;9;0;1
+Silver 323;Acceso al gimnasio y máquinas básicas;49.48;11;8;0;1
+Gold 324;Plan diseñado para principiantes;71.74;17;10;0;0
+Gold 325;Membresía avanzada para atletas;72.44;1;20;0;1
+Diamond 326;Acceso al gimnasio y máquinas básicas;59.6;5;17;1;0
+Premium 327;Ideal para entrenamiento de fuerza;25.99;17;8;1;0
+Starter 328;Plan diseñado para principiantes;46.13;8;6;0;0
+Diamond 329;Plan económico con beneficios limitados;115.46;16;4;0;0
+Silver 330;Acceso a áreas especiales y spa;100.35;5;17;0;1
+Plus 331;Incluye entrenador personal mensual;10.49;4;6;0;0
+Starter 332;Acceso total a todas las áreas;19.08;12;9;0;0
+Gold 333;Incluye entrenador personal mensual;60.28;4;19;1;0
+Pro 334;Ideal para entrenamiento de fuerza;20.91;6;8;0;1
+Elite 335;Incluye entrenador personal mensual;105.89;18;6;1;1
+Gold 336;Membresía avanzada para atletas;106.03;5;1;1;0
+Gold 337;Acceso a áreas especiales y spa;91.93;10;14;1;1
+Elite 338;Ideal para entrenamiento de fuerza;87.36;15;6;0;0
+Max 339;Ideal para entrenamiento de fuerza;30.46;16;1;1;0
+Pro 340;Incluye entrenador personal mensual;108.89;16;3;0;1
+Max 341;Acceso total a todas las áreas;102.62;8;19;1;1
+Premium 342;Acceso total a todas las áreas;87.31;15;12;0;1
+Diamond 343;Perfecto para uso ocasional;72.41;1;15;0;1
+Premium 344;Incluye entrenador personal mensual;10.72;17;15;1;1
+Silver 345;Acceso al gimnasio y máquinas básicas;56.26;17;10;1;1
+Pro 346;Acceso total a todas las áreas;70.56;2;2;0;1
+Diamond 347;Incluye entrenador personal mensual;26.01;3;9;1;1
+Basic 348;Ideal para entrenamiento de fuerza;25.39;1;12;0;0
+Premium 349;Acceso total a todas las áreas;45.95;20;14;0;1
+Gold 350;Ideal para entrenamiento de fuerza;30.45;22;0;1;0
+Pro 351;Plan diseñado para principiantes;12.02;21;19;1;1
+Pro 352;Perfecto para uso ocasional;15.63;20;4;1;1
+Elite 353;Perfecto para uso ocasional;72.17;2;16;1;0
+Silver 354;Plan económico con beneficios limitados;86.98;20;19;1;1
+Max 355;Plan económico con beneficios limitados;117.18;16;11;0;0
+Max 356;Perfecto para uso ocasional;115.15;15;10;0;1
+Plus 357;Plan diseñado para principiantes;81.23;24;20;0;0
+Elite 358;Incluye clases grupales ilimitadas;102.01;6;2;1;0
+Max 359;Acceso total a todas las áreas;38.86;18;0;1;1
+Plus 360;Incluye clases grupales ilimitadas;38.65;24;20;0;1
+Basic 361;Membresía avanzada para atletas;62.14;21;6;0;1
+Starter 362;Plan diseñado para principiantes;50.91;22;16;0;0
+Silver 363;Ideal para entrenamiento de fuerza;97.0;12;13;1;1
+Diamond 364;Ideal para entrenamiento de fuerza;97.77;20;11;0;0
+Starter 365;Incluye entrenador personal mensual;39.02;1;20;1;0
+Max 366;Perfecto para uso ocasional;11.87;20;17;0;0
+Diamond 367;Acceso al gimnasio y máquinas básicas;32.14;8;20;0;0
+Diamond 368;Acceso total a todas las áreas;105.89;23;14;1;0
+Elite 369;Incluye entrenador personal mensual;39.83;16;11;0;0
+Premium 370;Acceso total a todas las áreas;89.02;11;14;1;0
+Elite 371;Incluye entrenador personal mensual;72.98;10;17;1;1
+Plus 372;Plan económico con beneficios limitados;101.12;5;5;1;1
+Basic 373;Plan diseñado para principiantes;51.85;1;15;1;0
+Starter 374;Acceso a áreas especiales y spa;103.27;21;10;1;1
+Silver 375;Acceso al gimnasio y máquinas básicas;119.57;10;9;0;0
+Elite 376;Acceso a áreas especiales y spa;25.68;24;7;0;1
+Diamond 377;Acceso a áreas especiales y spa;109.21;10;16;1;1
+Silver 378;Plan económico con beneficios limitados;20.63;16;7;0;1
+Silver 379;Perfecto para uso ocasional;28.7;9;1;1;0
+Premium 380;Incluye clases grupales ilimitadas;37.36;3;3;0;0
+Gold 381;Membresía avanzada para atletas;103.4;21;12;0;0
+Gold 382;Acceso total a todas las áreas;65.61;10;1;1;0
+Basic 383;Plan económico con beneficios limitados;37.0;3;4;1;0
+Starter 384;Incluye clases grupales ilimitadas;58.86;12;20;0;0
+Pro 385;Perfecto para uso ocasional;93.67;22;1;1;0
+Silver 386;Acceso a áreas especiales y spa;89.91;4;6;0;0
+Elite 387;Acceso a áreas especiales y spa;78.63;14;8;0;1
+Elite 388;Incluye entrenador personal mensual;100.97;21;5;0;1
+Pro 389;Perfecto para uso ocasional;29.94;5;5;0;1
+Pro 390;Membresía avanzada para atletas;101.13;1;16;0;1
+Basic 391;Perfecto para uso ocasional;115.45;12;15;0;1
+Pro 392;Incluye clases grupales ilimitadas;117.57;14;15;1;1
+Basic 393;Acceso total a todas las áreas;76.16;17;8;1;1
+Elite 394;Incluye clases grupales ilimitadas;60.29;16;4;1;0
+Silver 395;Incluye entrenador personal mensual;66.55;18;19;0;1
+Pro 396;Incluye entrenador personal mensual;85.98;21;12;0;0
+Gold 397;Acceso total a todas las áreas;96.05;5;9;1;1
+Max 398;Perfecto para uso ocasional;117.26;15;15;0;1
+Elite 399;Incluye clases grupales ilimitadas;83.85;15;18;0;0
+Silver 400;Ideal para entrenamiento de fuerza;16.43;21;20;1;1
+Gold 401;Ideal para entrenamiento de fuerza;99.58;6;16;1;0
+Max 402;Acceso total a todas las áreas;71.97;21;19;0;0
+Starter 403;Acceso al gimnasio y máquinas básicas;110.08;5;13;1;0
+Premium 404;Acceso a áreas especiales y spa;98.47;4;17;0;0
+Plus 405;Acceso al gimnasio y máquinas básicas;25.39;1;15;1;0
+Basic 406;Plan diseñado para principiantes;48.07;19;5;0;0
+Diamond 407;Perfecto para uso ocasional;61.03;15;6;1;1
+Premium 408;Acceso al gimnasio y máquinas básicas;88.73;4;19;0;0
+Plus 409;Acceso al gimnasio y máquinas básicas;110.78;7;9;1;1
+Max 410;Incluye entrenador personal mensual;113.28;21;0;0;1
+Diamond 411;Ideal para entrenamiento de fuerza;81.11;21;0;0;1
+Silver 412;Membresía avanzada para atletas;50.88;12;4;1;1
+Max 413;Acceso al gimnasio y máquinas básicas;55.61;3;16;0;0
+Plus 414;Perfecto para uso ocasional;70.0;7;20;1;1
+Elite 415;Acceso a áreas especiales y spa;82.99;16;4;0;1
+Elite 416;Acceso total a todas las áreas;62.31;1;18;1;0
+Gold 417;Membresía avanzada para atletas;43.28;1;5;0;1
+Basic 418;Incluye entrenador personal mensual;16.34;13;1;1;0
+Plus 419;Acceso al gimnasio y máquinas básicas;38.82;8;12;0;0
+Silver 420;Acceso al gimnasio y máquinas básicas;107.0;21;3;1;1
+Elite 421;Perfecto para uso ocasional;72.75;12;19;0;0
+Starter 422;Acceso total a todas las áreas;63.05;1;2;1;1
+Premium 423;Plan diseñado para principiantes;10.95;5;19;1;0
+Max 424;Ideal para entrenamiento de fuerza;24.9;14;5;1;1
+Diamond 425;Acceso a áreas especiales y spa;113.19;17;18;0;1
+Silver 426;Membresía avanzada para atletas;64.98;12;3;1;0
+Pro 427;Incluye clases grupales ilimitadas;24.66;17;0;0;1
+Diamond 428;Ideal para entrenamiento de fuerza;69.76;18;6;1;0
+Pro 429;Incluye clases grupales ilimitadas;54.53;3;15;0;0
+Diamond 430;Ideal para entrenamiento de fuerza;48.71;18;11;0;0
+Premium 431;Incluye entrenador personal mensual;71.98;22;2;1;1
+Diamond 432;Plan diseñado para principiantes;81.65;3;11;1;0
+Gold 433;Acceso total a todas las áreas;108.58;4;18;1;0
+Basic 434;Plan diseñado para principiantes;105.65;10;13;1;1
+Basic 435;Plan económico con beneficios limitados;71.13;5;6;1;0
+Pro 436;Ideal para entrenamiento de fuerza;108.71;23;13;1;0
+Pro 437;Plan económico con beneficios limitados;28.24;19;19;0;0
+Diamond 438;Acceso a áreas especiales y spa;91.53;15;16;0;0
+Max 439;Ideal para entrenamiento de fuerza;17.85;17;17;1;1
+Silver 440;Acceso a áreas especiales y spa;113.33;13;10;0;1
+Max 441;Acceso al gimnasio y máquinas básicas;108.89;9;18;0;1
+Premium 442;Plan económico con beneficios limitados;20.47;23;17;0;0
+Diamond 443;Acceso al gimnasio y máquinas básicas;66.95;19;18;1;0
+Premium 444;Membresía avanzada para atletas;84.83;21;7;0;1
+Silver 445;Incluye clases grupales ilimitadas;25.78;2;9;1;0
+Basic 446;Acceso a áreas especiales y spa;48.37;13;20;0;1
+Max 447;Acceso al gimnasio y máquinas básicas;61.35;6;12;1;1
+Silver 448;Perfecto para uso ocasional;99.47;19;20;1;1
+Basic 449;Incluye clases grupales ilimitadas;100.53;23;7;1;1
+Gold 450;Plan diseñado para principiantes;78.44;20;9;1;0
+Premium 451;Incluye clases grupales ilimitadas;105.14;3;18;1;1
+Diamond 452;Acceso a áreas especiales y spa;96.9;9;12;1;0
+Gold 453;Ideal para entrenamiento de fuerza;26.56;19;8;0;0
+Gold 454;Incluye entrenador personal mensual;13.39;16;14;1;1
+Premium 455;Plan diseñado para principiantes;21.22;24;12;0;1
+Silver 456;Incluye entrenador personal mensual;33.54;20;8;1;1
+Silver 457;Acceso al gimnasio y máquinas básicas;88.2;22;3;0;1
+Starter 458;Plan diseñado para principiantes;17.87;4;9;0;0
+Premium 459;Perfecto para uso ocasional;63.24;10;2;0;0
+Premium 460;Incluye clases grupales ilimitadas;105.44;23;16;0;0
+Premium 461;Perfecto para uso ocasional;22.91;5;3;1;1
+Pro 462;Acceso total a todas las áreas;22.33;22;13;1;0
+Plus 463;Plan diseñado para principiantes;100.4;7;12;0;1
+Premium 464;Perfecto para uso ocasional;14.58;5;20;1;0
+Starter 465;Plan diseñado para principiantes;48.46;4;4;0;0
+Basic 466;Incluye entrenador personal mensual;113.98;7;9;0;1
+Starter 467;Incluye clases grupales ilimitadas;83.89;2;18;0;1
+Plus 468;Plan diseñado para principiantes;98.22;7;7;0;0
+Plus 469;Incluye clases grupales ilimitadas;87.24;12;7;0;1
+Plus 470;Incluye entrenador personal mensual;53.18;16;17;1;1
+Silver 471;Incluye entrenador personal mensual;63.19;10;20;0;1
+Silver 472;Plan diseñado para principiantes;12.54;13;15;1;0
+Starter 473;Acceso total a todas las áreas;88.83;14;19;1;0
+Pro 474;Acceso total a todas las áreas;104.66;23;7;1;1
+Diamond 475;Incluye clases grupales ilimitadas;77.87;14;20;1;1
+Basic 476;Acceso total a todas las áreas;53.03;9;9;1;0
+Max 477;Acceso al gimnasio y máquinas básicas;115.66;12;3;0;1
+Diamond 478;Plan económico con beneficios limitados;55.42;18;20;0;0
+Plus 479;Ideal para entrenamiento de fuerza;44.96;7;15;1;0
+Max 480;Plan económico con beneficios limitados;82.71;23;14;0;1
+Max 481;Membresía avanzada para atletas;85.51;10;16;1;1
+Silver 482;Plan económico con beneficios limitados;103.51;20;8;0;1
+Premium 483;Plan económico con beneficios limitados;97.35;22;15;1;0
+Elite 484;Perfecto para uso ocasional;75.28;8;15;0;0
+Pro 485;Acceso a áreas especiales y spa;56.9;14;15;1;1
+Gold 486;Acceso a áreas especiales y spa;110.19;16;19;0;1
+Starter 487;Perfecto para uso ocasional;85.68;15;6;0;0
+Pro 488;Acceso a áreas especiales y spa;111.42;16;0;1;1
+Max 489;Ideal para entrenamiento de fuerza;20.37;15;2;1;1
+Diamond 490;Acceso al gimnasio y máquinas básicas;90.27;12;2;1;0
+Plus 491;Acceso al gimnasio y máquinas básicas;105.36;20;0;1;1
+Diamond 492;Incluye clases grupales ilimitadas;78.71;24;19;0;1
+Gold 493;Incluye clases grupales ilimitadas;111.33;14;8;1;1
+Diamond 494;Acceso total a todas las áreas;71.19;19;4;1;0
+Basic 495;Acceso total a todas las áreas;22.57;5;13;0;1
+Basic 496;Acceso total a todas las áreas;48.13;6;15;1;0
+Silver 497;Acceso total a todas las áreas;77.66;9;6;0;1
+Plus 498;Membresía avanzada para atletas;82.78;16;14;0;0
+Silver 499;Plan económico con beneficios limitados;71.96;19;5;1;1
+Silver 500;Ideal para entrenamiento de fuerza;38.84;15;1;0;0

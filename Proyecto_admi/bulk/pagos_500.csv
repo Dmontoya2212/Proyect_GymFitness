@@ -1,0 +1,501 @@
+socio_id,socio_membresia_id,tipo_pago,monto,fecha_pago,metodo_pago,numero_recibo,estado
+166,134,Otro,105.46,2023-12-26 00:00:00,Transferencia,a6323dd3-5de,Pendiente
+83,47,Membresía,100.96,2023-06-05 00:00:00,Cheque,b83ae326-cbf,Pendiente
+138,37,Clase Adicional,89.13,2023-12-12 00:00:00,Transferencia,40c30955-4d4,Pagado
+5,117,Membresía,90.91,2023-12-30 00:00:00,Efectivo,06994306-a22,Anulado
+2,31,Clase Adicional,24.24,2023-10-30 00:00:00,Efectivo,5aea7547-2c8,Anulado
+144,156,Otro,170.7,2024-05-22 00:00:00,Efectivo,b1f4aebc-b73,Pendiente
+139,130,Penalización,5.15,2024-10-15 00:00:00,Efectivo,4cf7d88c-4f2,Pendiente
+92,148,Otro,146.83,2024-03-23 00:00:00,Transferencia,e4627763-3f3,Pagado
+113,184,Clase Adicional,130.8,2023-04-11 00:00:00,Transferencia,0380c8f5-692,Pagado
+12,50,Penalización,109.12,2023-11-23 00:00:00,Efectivo,8167d495-3ec,Anulado
+128,8,Membresía,127.62,2023-08-19 00:00:00,Efectivo,95da89ca-184,Pagado
+163,89,Clase Adicional,46.38,2024-01-12 00:00:00,Transferencia,b32f3fc0-456,Anulado
+176,19,Membresía,153.01,2023-12-30 00:00:00,Transferencia,add326aa-e3d,Pagado
+71,30,Penalización,101.62,2024-08-01 00:00:00,Cheque,bf6c1ba1-4f4,Pendiente
+20,200,Otro,90.05,2024-09-06 00:00:00,Efectivo,7cbfe1f9-0c6,Pendiente
+82,34,Penalización,78.7,2024-10-04 00:00:00,Tarjeta,040b3fe9-6c7,Pagado
+100,100,Clase Adicional,155.66,2024-06-03 00:00:00,Transferencia,af55de2e-c4b,Pendiente
+174,160,Penalización,145.73,2023-07-29 00:00:00,Transferencia,60bec398-c4a,Pagado
+132,172,Clase Adicional,152.07,2024-09-04 00:00:00,Cheque,5658e141-9cc,Pagado
+124,170,Otro,9.29,2023-09-21 00:00:00,Efectivo,dabe0262-d9b,Pendiente
+185,89,Membresía,133.99,2024-10-08 00:00:00,Cheque,7ea7bcec-8ce,Pendiente
+72,65,Penalización,138.67,2023-01-11 00:00:00,Efectivo,acac8322-905,Pagado
+46,153,Otro,85.25,2023-01-26 00:00:00,Cheque,77b541a1-79b,Pendiente
+53,133,Clase Adicional,49.08,2023-06-07 00:00:00,Efectivo,61b7b84f-8ca,Pagado
+161,131,Penalización,22.63,2023-06-20 00:00:00,Efectivo,20d16853-311,Pagado
+123,195,Clase Adicional,73.22,2024-11-04 00:00:00,Transferencia,446186e5-fae,Anulado
+40,83,Clase Adicional,18.22,2024-01-11 00:00:00,Efectivo,de24ba80-234,Anulado
+169,126,Clase Adicional,194.39,2023-09-04 00:00:00,Transferencia,f77f3673-7d2,Pagado
+56,106,Otro,34.12,2023-10-05 00:00:00,Transferencia,339956ec-7ab,Pendiente
+111,156,Membresía,94.7,2023-10-20 00:00:00,Cheque,67b8d5d5-d28,Anulado
+45,165,Membresía,49.69,2024-04-30 00:00:00,Efectivo,3820a719-9be,Anulado
+158,183,Penalización,86.82,2024-02-18 00:00:00,Tarjeta,07659f01-5e7,Pagado
+55,168,Membresía,124.33,2024-05-26 00:00:00,Transferencia,2c460f16-25a,Anulado
+154,14,Otro,116.43,2023-03-14 00:00:00,Tarjeta,66772e3c-0c9,Anulado
+57,141,Clase Adicional,29.95,2024-07-21 00:00:00,Efectivo,9fbcfd2b-e4d,Anulado
+78,67,Membresía,164.76,2023-09-22 00:00:00,Transferencia,034e2071-5e7,Pendiente
+56,103,Membresía,129.21,2023-03-31 00:00:00,Cheque,e5cdc94a-9c9,Pagado
+121,159,Clase Adicional,80.14,2024-04-24 00:00:00,Cheque,cd37d2e2-dcc,Pagado
+49,24,Penalización,120.31,2023-07-19 00:00:00,Efectivo,d54b70cb-97d,Anulado
+182,183,Membresía,104.45,2024-03-31 00:00:00,Tarjeta,6c6ff4c2-f71,Anulado
+160,131,Penalización,112.98,2023-05-14 00:00:00,Transferencia,09ef5d67-256,Pendiente
+86,86,Clase Adicional,177.97,2023-07-03 00:00:00,Tarjeta,ecbe1663-ae4,Anulado
+122,110,Otro,144.24,2024-05-07 00:00:00,Tarjeta,86c24ba3-761,Anulado
+125,19,Otro,91.13,2023-07-02 00:00:00,Efectivo,4d856119-0d1,Anulado
+43,151,Clase Adicional,23.65,2023-09-12 00:00:00,Transferencia,d052e7f0-385,Pendiente
+49,76,Membresía,138.53,2024-04-06 00:00:00,Efectivo,cdee8441-f9a,Anulado
+121,127,Membresía,144.99,2023-10-30 00:00:00,Cheque,7553dafb-927,Pendiente
+185,91,Clase Adicional,74.52,2023-02-16 00:00:00,Efectivo,69f6bdc8-093,Pendiente
+86,13,Membresía,55.44,2023-05-27 00:00:00,Tarjeta,05532015-00d,Pagado
+69,166,Penalización,130.63,2024-08-25 00:00:00,Cheque,3124271a-843,Anulado
+11,97,Penalización,170.12,2023-10-15 00:00:00,Transferencia,314084d4-f7e,Anulado
+166,165,Otro,140.59,2024-07-28 00:00:00,Tarjeta,6f5bd5c0-3cf,Pendiente
+92,147,Membresía,78.69,2024-09-28 00:00:00,Tarjeta,59f99c1a-82a,Pendiente
+132,119,Clase Adicional,78.54,2023-10-17 00:00:00,Cheque,ed084d00-6e8,Pagado
+186,48,Membresía,95.24,2024-06-14 00:00:00,Transferencia,bf3213eb-5cf,Anulado
+64,173,Clase Adicional,155.61,2023-10-24 00:00:00,Cheque,6328fc8b-d84,Pendiente
+5,141,Otro,117.8,2024-03-09 00:00:00,Cheque,27079269-094,Anulado
+183,110,Clase Adicional,113.42,2024-05-12 00:00:00,Efectivo,b6678f58-9c7,Pendiente
+195,46,Penalización,156.04,2023-01-19 00:00:00,Cheque,ea3e0c8e-f61,Anulado
+40,33,Otro,174.37,2023-03-18 00:00:00,Transferencia,d37affd5-9be,Pendiente
+29,115,Clase Adicional,6.96,2023-01-01 00:00:00,Cheque,0a64704a-238,Pendiente
+116,36,Otro,106.45,2023-03-09 00:00:00,Transferencia,963a9340-871,Pagado
+102,126,Penalización,169.58,2024-01-30 00:00:00,Tarjeta,2e54d968-ecd,Anulado
+5,82,Membresía,115.13,2024-03-05 00:00:00,Cheque,5904d58e-5d7,Pagado
+154,181,Otro,129.97,2024-09-04 00:00:00,Cheque,f9324f16-968,Anulado
+73,99,Membresía,111.83,2024-10-22 00:00:00,Tarjeta,1b2cb86c-2ca,Pagado
+146,80,Clase Adicional,79.63,2024-03-20 00:00:00,Efectivo,8379ae48-eef,Anulado
+60,34,Otro,119.6,2024-10-06 00:00:00,Transferencia,7821b8de-466,Pendiente
+96,37,Otro,105.62,2023-08-22 00:00:00,Efectivo,48c0440d-3d8,Anulado
+193,105,Clase Adicional,13.7,2024-08-25 00:00:00,Cheque,3185fcbb-896,Pendiente
+15,2,Otro,51.27,2024-06-05 00:00:00,Efectivo,f29a99d9-dd8,Pagado
+162,194,Otro,43.27,2023-01-22 00:00:00,Efectivo,fe961c64-74e,Pagado
+16,154,Penalización,53.41,2024-09-26 00:00:00,Efectivo,669df5c5-c85,Anulado
+38,9,Membresía,16.94,2023-01-19 00:00:00,Transferencia,b9277cec-351,Pendiente
+41,134,Otro,9.0,2023-04-14 00:00:00,Efectivo,16cda6a7-359,Pendiente
+12,70,Clase Adicional,176.5,2023-06-19 00:00:00,Tarjeta,4ba38f20-4c3,Pendiente
+50,47,Otro,157.07,2024-05-04 00:00:00,Transferencia,3f64d326-dc5,Pagado
+95,89,Otro,85.6,2023-11-13 00:00:00,Cheque,c1522454-f2d,Pagado
+127,63,Otro,39.33,2024-04-26 00:00:00,Cheque,c78693c9-512,Pagado
+183,179,Penalización,123.9,2023-07-01 00:00:00,Transferencia,41629c7e-d26,Anulado
+54,178,Penalización,166.34,2024-01-20 00:00:00,Transferencia,b9fb895c-86f,Pagado
+117,97,Membresía,199.99,2023-02-01 00:00:00,Transferencia,db4a4d72-ede,Anulado
+180,186,Membresía,74.3,2024-02-20 00:00:00,Transferencia,bbe596a7-5ba,Pagado
+36,47,Penalización,139.03,2023-09-19 00:00:00,Tarjeta,78f5c835-e52,Pagado
+40,179,Clase Adicional,120.27,2024-04-09 00:00:00,Efectivo,8cab84f8-641,Anulado
+89,150,Penalización,9.89,2023-05-17 00:00:00,Tarjeta,63566c83-827,Pagado
+46,9,Clase Adicional,100.49,2024-11-29 00:00:00,Tarjeta,2176c723-ea9,Anulado
+13,121,Membresía,86.05,2024-08-25 00:00:00,Transferencia,eb4201ae-49d,Pendiente
+38,178,Penalización,101.13,2024-09-18 00:00:00,Transferencia,fe710cb1-a38,Pendiente
+128,20,Membresía,76.19,2023-07-14 00:00:00,Efectivo,dc94d10f-5cf,Anulado
+19,133,Clase Adicional,123.41,2023-01-29 00:00:00,Transferencia,96f58f93-e6f,Pendiente
+25,43,Membresía,95.39,2024-01-11 00:00:00,Efectivo,f476a3ce-dba,Anulado
+51,6,Otro,102.57,2023-11-08 00:00:00,Transferencia,c57f7dd9-038,Pendiente
+200,70,Membresía,116.26,2024-02-25 00:00:00,Cheque,d1be996d-915,Pendiente
+17,135,Otro,140.51,2023-06-17 00:00:00,Tarjeta,e141a4b0-663,Anulado
+40,161,Membresía,137.22,2023-11-13 00:00:00,Tarjeta,2a7eabb8-e98,Pendiente
+153,4,Membresía,186.4,2023-06-21 00:00:00,Efectivo,f3ac0e9f-f65,Pendiente
+105,66,Membresía,60.46,2023-03-27 00:00:00,Tarjeta,b9ea84c0-d7a,Pendiente
+97,31,Penalización,23.76,2023-09-24 00:00:00,Tarjeta,f7e61e5e-3a4,Pendiente
+39,36,Clase Adicional,144.79,2023-12-21 00:00:00,Tarjeta,4640d34e-17e,Pagado
+55,93,Penalización,88.11,2023-08-01 00:00:00,Tarjeta,58aff2c5-c2b,Pendiente
+172,159,Clase Adicional,118.09,2023-09-29 00:00:00,Transferencia,8f1db68b-3e7,Pendiente
+153,124,Penalización,23.72,2024-06-19 00:00:00,Transferencia,62122dc9-c7c,Anulado
+183,99,Penalización,94.63,2023-05-06 00:00:00,Tarjeta,da56a00c-dc9,Pendiente
+105,49,Otro,140.65,2023-06-06 00:00:00,Efectivo,f7191203-465,Pendiente
+159,93,Clase Adicional,130.47,2023-02-26 00:00:00,Cheque,316ce5c1-d32,Pendiente
+58,162,Otro,92.49,2023-05-29 00:00:00,Transferencia,cee1900e-d26,Pendiente
+50,111,Membresía,99.64,2024-11-02 00:00:00,Tarjeta,c284aba3-8ee,Pendiente
+47,135,Clase Adicional,52.05,2023-07-22 00:00:00,Tarjeta,474f8113-5a1,Pagado
+75,169,Membresía,189.85,2023-01-04 00:00:00,Efectivo,ab3ce21b-f4d,Anulado
+175,159,Clase Adicional,102.14,2023-01-12 00:00:00,Efectivo,540e83f7-cbb,Anulado
+159,51,Clase Adicional,91.66,2023-11-08 00:00:00,Transferencia,eba058ee-dd7,Pendiente
+97,173,Membresía,193.42,2023-08-11 00:00:00,Cheque,40d8772a-72d,Anulado
+13,125,Otro,35.17,2023-08-16 00:00:00,Efectivo,327c62d0-56c,Pendiente
+154,86,Penalización,38.8,2023-07-03 00:00:00,Cheque,b2527ce2-5d8,Pagado
+171,14,Otro,160.45,2024-07-05 00:00:00,Transferencia,273863b1-fdf,Pagado
+141,12,Clase Adicional,54.85,2024-09-30 00:00:00,Transferencia,3d4920cc-885,Anulado
+102,26,Otro,57.79,2023-03-10 00:00:00,Transferencia,a963a233-b72,Pagado
+10,172,Penalización,181.3,2024-08-03 00:00:00,Tarjeta,73e77233-10d,Pagado
+37,140,Penalización,194.7,2023-04-03 00:00:00,Tarjeta,9fdcc591-d52,Anulado
+2,167,Clase Adicional,42.88,2023-01-21 00:00:00,Cheque,faa9cdbf-8f5,Pendiente
+135,167,Membresía,93.61,2024-01-05 00:00:00,Efectivo,9cf354ce-307,Pendiente
+145,198,Clase Adicional,168.09,2024-07-01 00:00:00,Efectivo,c638592f-e36,Anulado
+144,51,Membresía,79.62,2024-05-31 00:00:00,Cheque,01f092e3-8e2,Anulado
+53,161,Penalización,126.5,2024-02-17 00:00:00,Cheque,e6471531-78e,Anulado
+154,131,Membresía,34.18,2023-09-29 00:00:00,Cheque,4fe71952-d01,Pendiente
+71,101,Otro,115.52,2024-11-22 00:00:00,Efectivo,f658d048-1b2,Anulado
+177,51,Membresía,30.75,2024-05-22 00:00:00,Transferencia,313b85d5-b63,Pagado
+61,83,Otro,125.21,2024-01-14 00:00:00,Cheque,a47d35ec-c28,Anulado
+69,91,Clase Adicional,195.63,2024-07-15 00:00:00,Cheque,762c861f-513,Pagado
+60,119,Clase Adicional,158.49,2024-09-02 00:00:00,Cheque,0187e9c3-22f,Pendiente
+24,108,Penalización,74.37,2024-02-13 00:00:00,Cheque,6e2e1e8e-8a6,Pendiente
+20,108,Membresía,66.28,2023-11-26 00:00:00,Efectivo,9a960f00-432,Anulado
+181,132,Penalización,18.62,2024-08-06 00:00:00,Transferencia,6831c26c-060,Pendiente
+70,174,Membresía,99.89,2024-10-14 00:00:00,Tarjeta,7597f121-305,Anulado
+65,56,Penalización,9.28,2024-01-04 00:00:00,Tarjeta,03de7009-031,Pendiente
+71,165,Clase Adicional,70.75,2024-01-28 00:00:00,Efectivo,372210fc-8c6,Anulado
+197,129,Clase Adicional,98.09,2023-03-29 00:00:00,Tarjeta,c4909401-304,Pagado
+98,140,Clase Adicional,155.5,2024-04-08 00:00:00,Efectivo,74d23e6e-55a,Pendiente
+8,16,Otro,20.87,2024-11-26 00:00:00,Transferencia,f37bccd6-a15,Pendiente
+14,119,Clase Adicional,154.35,2024-03-12 00:00:00,Tarjeta,706f79b4-f3d,Pagado
+154,148,Otro,63.17,2023-08-15 00:00:00,Cheque,f35f2edc-375,Pendiente
+77,51,Penalización,15.06,2023-01-26 00:00:00,Transferencia,76654724-ab7,Pendiente
+184,126,Clase Adicional,55.33,2023-07-29 00:00:00,Efectivo,a2a62229-fc3,Anulado
+118,1,Membresía,186.82,2023-12-12 00:00:00,Efectivo,2ec6e32c-e46,Pagado
+41,122,Otro,95.95,2023-06-14 00:00:00,Cheque,f82bc9d6-230,Pendiente
+79,57,Clase Adicional,50.26,2024-11-21 00:00:00,Cheque,3287b60a-e9b,Pagado
+124,195,Clase Adicional,36.68,2023-05-11 00:00:00,Cheque,84cca498-5a1,Anulado
+11,64,Membresía,170.84,2024-01-17 00:00:00,Transferencia,defd72d8-b5e,Anulado
+126,1,Penalización,94.71,2024-10-06 00:00:00,Transferencia,440ffc6a-e71,Anulado
+133,18,Clase Adicional,15.39,2023-07-14 00:00:00,Transferencia,481f16d7-99c,Pendiente
+44,78,Penalización,151.23,2023-11-09 00:00:00,Tarjeta,b847282c-b85,Pendiente
+64,58,Membresía,177.38,2023-01-21 00:00:00,Cheque,dc8a7f8f-cdd,Pendiente
+151,3,Clase Adicional,124.42,2024-11-03 00:00:00,Cheque,552af20b-cbb,Anulado
+149,73,Clase Adicional,138.56,2023-11-01 00:00:00,Cheque,5ceea860-397,Pagado
+194,99,Penalización,97.8,2024-02-11 00:00:00,Tarjeta,b8af04a2-06e,Pendiente
+36,20,Membresía,67.02,2024-05-30 00:00:00,Cheque,c16c4f6a-71b,Anulado
+114,129,Clase Adicional,111.14,2024-10-08 00:00:00,Efectivo,0c66575c-228,Pagado
+166,31,Membresía,62.7,2023-03-24 00:00:00,Tarjeta,04228f42-fd9,Anulado
+127,173,Membresía,59.52,2024-10-17 00:00:00,Tarjeta,4eff6bae-dde,Pendiente
+79,32,Penalización,71.74,2024-07-05 00:00:00,Cheque,8c8abf75-69a,Pendiente
+74,144,Membresía,71.03,2023-07-29 00:00:00,Cheque,b37ac542-6be,Pendiente
+64,196,Membresía,193.58,2023-07-25 00:00:00,Cheque,6182791e-d6b,Pagado
+38,84,Otro,173.94,2024-02-04 00:00:00,Transferencia,5c922501-a52,Pagado
+85,164,Penalización,9.38,2024-01-01 00:00:00,Cheque,3adf2134-eaa,Pendiente
+106,115,Clase Adicional,151.3,2023-03-16 00:00:00,Transferencia,0f09204d-ddc,Pagado
+5,159,Otro,55.76,2023-09-28 00:00:00,Cheque,f2776247-651,Pendiente
+52,117,Clase Adicional,137.32,2023-01-13 00:00:00,Cheque,f6bbaf17-e84,Anulado
+86,34,Clase Adicional,149.25,2024-10-08 00:00:00,Transferencia,7fb5ae39-00c,Anulado
+11,175,Otro,180.76,2024-11-03 00:00:00,Efectivo,d0ab237e-8cf,Pagado
+63,29,Penalización,12.95,2024-05-03 00:00:00,Transferencia,bc49d981-c9b,Pendiente
+163,170,Membresía,156.29,2024-07-12 00:00:00,Efectivo,cb055c06-e7e,Anulado
+183,190,Membresía,163.57,2023-07-17 00:00:00,Cheque,6c36259a-f36,Anulado
+123,115,Penalización,26.33,2023-03-01 00:00:00,Transferencia,e60e0798-2f1,Pendiente
+104,88,Otro,14.75,2024-05-25 00:00:00,Transferencia,6230f76f-4d2,Anulado
+174,192,Clase Adicional,126.68,2023-06-01 00:00:00,Cheque,e850b4c4-110,Anulado
+91,89,Penalización,188.48,2023-03-23 00:00:00,Tarjeta,81597b8e-113,Pendiente
+178,141,Otro,5.33,2023-01-09 00:00:00,Efectivo,e44f4e21-f44,Pagado
+163,68,Otro,14.05,2023-01-10 00:00:00,Tarjeta,e547664f-f38,Anulado
+168,9,Membresía,98.38,2023-01-29 00:00:00,Transferencia,d04064f1-25a,Anulado
+10,77,Penalización,169.31,2024-06-13 00:00:00,Efectivo,d7a3cc0b-323,Pendiente
+43,23,Otro,68.0,2023-04-27 00:00:00,Cheque,11b2a7dc-2cf,Anulado
+49,155,Membresía,146.67,2024-03-20 00:00:00,Efectivo,adde0d0c-b3e,Pagado
+8,81,Penalización,144.52,2023-12-06 00:00:00,Transferencia,0c21e507-896,Anulado
+50,2,Penalización,180.46,2023-01-25 00:00:00,Cheque,1074c6fa-6df,Pendiente
+190,102,Membresía,150.81,2023-08-28 00:00:00,Transferencia,81512127-2d2,Pendiente
+118,176,Membresía,152.48,2023-05-08 00:00:00,Cheque,8b6033d2-b31,Pendiente
+196,59,Clase Adicional,173.17,2023-09-05 00:00:00,Transferencia,2875d385-67a,Anulado
+76,129,Membresía,166.86,2024-07-13 00:00:00,Tarjeta,447304a0-059,Anulado
+40,33,Membresía,39.2,2023-02-04 00:00:00,Cheque,13ff4c5e-747,Pagado
+132,57,Otro,158.32,2024-03-05 00:00:00,Cheque,c30e90e2-ac7,Anulado
+111,74,Penalización,197.14,2024-11-19 00:00:00,Tarjeta,c36952ee-000,Anulado
+49,156,Penalización,126.19,2023-06-10 00:00:00,Transferencia,d1e7bd22-882,Pendiente
+99,161,Otro,6.24,2024-10-03 00:00:00,Transferencia,b86ca99f-ae2,Anulado
+46,195,Penalización,132.87,2023-06-30 00:00:00,Efectivo,07d79f86-34f,Pagado
+144,41,Otro,58.26,2024-02-18 00:00:00,Cheque,72f0d807-c59,Pagado
+115,155,Otro,42.34,2023-05-19 00:00:00,Transferencia,d37cbd57-6a9,Anulado
+49,60,Clase Adicional,104.44,2023-08-13 00:00:00,Cheque,573bf22f-6a7,Pendiente
+149,62,Otro,173.54,2024-08-02 00:00:00,Efectivo,cf7b050e-9b5,Pagado
+145,173,Membresía,175.04,2023-08-07 00:00:00,Tarjeta,00f53244-c6d,Pendiente
+35,59,Clase Adicional,33.96,2024-06-24 00:00:00,Transferencia,3dd2dea0-730,Pagado
+6,165,Membresía,11.02,2023-01-15 00:00:00,Transferencia,2ec250a5-79f,Anulado
+131,111,Otro,47.12,2023-11-08 00:00:00,Tarjeta,8eb4af06-07c,Pagado
+9,123,Clase Adicional,191.29,2024-04-28 00:00:00,Efectivo,0748cc67-0cd,Pendiente
+101,194,Clase Adicional,126.43,2023-05-26 00:00:00,Transferencia,9e2b6513-59e,Pagado
+147,16,Otro,102.34,2024-09-08 00:00:00,Cheque,0e3f4ab3-3b4,Anulado
+156,39,Clase Adicional,193.65,2023-09-17 00:00:00,Efectivo,23abb823-614,Pagado
+169,84,Membresía,63.07,2023-09-22 00:00:00,Transferencia,f90efc40-c16,Anulado
+27,191,Clase Adicional,20.68,2023-11-05 00:00:00,Transferencia,8907f1d7-a6d,Pagado
+153,149,Membresía,111.61,2023-02-06 00:00:00,Transferencia,50ce8c66-0a4,Pendiente
+123,168,Penalización,33.88,2024-05-25 00:00:00,Efectivo,8a1c1eff-d17,Pagado
+35,161,Otro,38.14,2024-10-18 00:00:00,Transferencia,842aae37-20e,Anulado
+114,38,Clase Adicional,31.93,2023-04-28 00:00:00,Efectivo,05509456-4f5,Pendiente
+61,169,Otro,162.54,2024-08-17 00:00:00,Cheque,98a4d325-883,Pendiente
+30,124,Clase Adicional,45.59,2023-05-28 00:00:00,Transferencia,ed06f758-fac,Pagado
+151,164,Otro,193.67,2024-10-12 00:00:00,Tarjeta,d5fbcc9c-686,Pagado
+16,193,Otro,133.18,2024-06-10 00:00:00,Efectivo,4f2f5951-3be,Anulado
+42,141,Penalización,134.09,2024-07-04 00:00:00,Tarjeta,7190e7a7-c58,Anulado
+86,105,Otro,175.08,2024-08-31 00:00:00,Efectivo,2a14d472-819,Pagado
+196,52,Membresía,83.81,2023-10-16 00:00:00,Tarjeta,6ab02e4f-469,Pendiente
+98,58,Membresía,143.67,2024-09-16 00:00:00,Cheque,56dce8f1-20e,Pagado
+71,170,Membresía,78.4,2024-07-09 00:00:00,Efectivo,a53541fd-db3,Pagado
+186,113,Membresía,186.8,2023-03-29 00:00:00,Efectivo,3edd2713-add,Anulado
+102,23,Membresía,179.25,2024-08-27 00:00:00,Cheque,6489faa8-316,Anulado
+166,138,Clase Adicional,120.65,2023-01-17 00:00:00,Efectivo,754b2db0-541,Anulado
+50,140,Membresía,183.67,2024-09-15 00:00:00,Cheque,bf7efc43-08b,Anulado
+74,167,Penalización,138.36,2024-06-06 00:00:00,Cheque,a47dff4a-68e,Pagado
+57,23,Membresía,27.64,2024-01-29 00:00:00,Efectivo,4fd5079f-6e0,Pagado
+175,19,Membresía,189.77,2024-09-12 00:00:00,Cheque,94551f9f-65b,Anulado
+49,147,Otro,124.91,2023-11-20 00:00:00,Efectivo,1fe6a1e0-2d4,Pendiente
+79,37,Penalización,10.62,2023-05-26 00:00:00,Cheque,9dd3500d-492,Pendiente
+173,178,Clase Adicional,23.93,2023-07-16 00:00:00,Efectivo,8677cc38-150,Pagado
+183,48,Otro,37.23,2023-07-09 00:00:00,Transferencia,26a8dd40-58c,Pendiente
+160,115,Otro,12.38,2023-02-20 00:00:00,Transferencia,05664b6b-23d,Anulado
+161,173,Otro,132.57,2024-02-10 00:00:00,Cheque,8d83fd6f-8ee,Pendiente
+23,175,Membresía,18.39,2024-01-03 00:00:00,Cheque,0ba8b35b-ca5,Pagado
+98,149,Clase Adicional,17.13,2023-01-13 00:00:00,Cheque,94b79faa-b0e,Pendiente
+152,80,Clase Adicional,5.91,2023-01-06 00:00:00,Cheque,4dd70c63-860,Pagado
+61,167,Clase Adicional,33.82,2024-04-18 00:00:00,Cheque,67f1a534-c45,Anulado
+7,62,Membresía,143.65,2023-01-27 00:00:00,Efectivo,f482be48-ac5,Pagado
+95,162,Penalización,82.18,2024-04-27 00:00:00,Transferencia,834db775-43c,Pendiente
+187,182,Otro,162.11,2023-08-20 00:00:00,Cheque,6c2984ea-7fe,Pendiente
+20,105,Otro,73.9,2023-09-13 00:00:00,Transferencia,efc560b7-71e,Pagado
+96,33,Clase Adicional,96.84,2023-05-24 00:00:00,Tarjeta,1339d31f-c57,Pendiente
+12,17,Membresía,146.35,2024-04-09 00:00:00,Tarjeta,089402d6-566,Pagado
+175,159,Clase Adicional,115.78,2024-01-03 00:00:00,Transferencia,3183d78b-104,Pendiente
+150,55,Clase Adicional,102.44,2023-03-14 00:00:00,Tarjeta,a8cf0fe4-7f6,Anulado
+20,184,Otro,97.66,2024-03-28 00:00:00,Efectivo,8fcae086-e65,Pendiente
+42,114,Penalización,68.9,2024-01-12 00:00:00,Efectivo,cf157255-849,Pagado
+171,88,Membresía,68.01,2024-07-20 00:00:00,Transferencia,1af4601f-52b,Pagado
+139,165,Membresía,191.47,2024-04-14 00:00:00,Cheque,efa4ca3f-d77,Pendiente
+198,25,Clase Adicional,175.58,2023-12-31 00:00:00,Transferencia,13be4c7c-461,Pagado
+58,182,Clase Adicional,199.38,2024-04-13 00:00:00,Efectivo,aec83874-1dc,Anulado
+24,99,Penalización,29.74,2024-11-02 00:00:00,Efectivo,ef4ae858-b6b,Pagado
+1,26,Membresía,105.14,2024-06-30 00:00:00,Transferencia,6d35c4fe-e6f,Pendiente
+83,74,Otro,12.53,2023-01-18 00:00:00,Transferencia,79d45c46-afe,Pendiente
+70,86,Otro,103.23,2023-12-30 00:00:00,Tarjeta,b0064c1a-9ab,Anulado
+49,84,Penalización,134.0,2023-12-17 00:00:00,Cheque,248c8cbe-255,Pagado
+71,195,Otro,87.9,2023-02-27 00:00:00,Cheque,37733fee-057,Pagado
+131,41,Clase Adicional,134.23,2024-07-26 00:00:00,Efectivo,d755f926-df6,Pagado
+103,184,Penalización,188.14,2023-06-27 00:00:00,Efectivo,298b3961-158,Pendiente
+27,116,Membresía,37.14,2024-01-11 00:00:00,Tarjeta,d1569b76-01d,Anulado
+151,193,Clase Adicional,58.69,2023-07-08 00:00:00,Efectivo,75218c77-856,Pendiente
+38,126,Otro,90.43,2023-11-22 00:00:00,Efectivo,f0db0b7c-256,Anulado
+177,19,Clase Adicional,107.15,2024-10-02 00:00:00,Efectivo,06e4ed3a-b3f,Pagado
+97,68,Penalización,101.88,2024-07-25 00:00:00,Tarjeta,96891b7e-fc5,Pagado
+58,162,Membresía,86.98,2023-07-25 00:00:00,Efectivo,7fc69647-cea,Pendiente
+44,108,Penalización,103.09,2024-11-11 00:00:00,Transferencia,9bac4bb4-e4b,Pagado
+147,151,Membresía,41.14,2023-05-13 00:00:00,Efectivo,b303c642-1a1,Pendiente
+64,198,Penalización,197.61,2024-02-24 00:00:00,Cheque,ad2bda16-d36,Anulado
+142,126,Otro,130.8,2024-09-28 00:00:00,Efectivo,f681a998-c55,Anulado
+81,162,Otro,7.76,2024-08-26 00:00:00,Transferencia,2c7e86fa-acb,Pagado
+31,7,Clase Adicional,112.57,2024-10-13 00:00:00,Transferencia,5fe9f7e0-776,Pagado
+191,46,Penalización,135.24,2024-09-18 00:00:00,Tarjeta,9e4aaa06-234,Pendiente
+86,75,Otro,40.58,2023-05-28 00:00:00,Efectivo,0fb3ce9e-60d,Pendiente
+154,166,Membresía,49.71,2023-11-22 00:00:00,Transferencia,d738a04e-f31,Pendiente
+152,185,Otro,180.9,2024-06-22 00:00:00,Efectivo,7bcb8c86-ab3,Anulado
+92,4,Otro,71.21,2024-04-20 00:00:00,Efectivo,5ba1d2cb-c6a,Anulado
+130,102,Membresía,69.6,2023-04-16 00:00:00,Cheque,66d2d50c-6e9,Pendiente
+121,112,Otro,78.03,2023-10-17 00:00:00,Efectivo,9387b2b0-58f,Anulado
+161,70,Otro,131.97,2023-01-23 00:00:00,Efectivo,8f37a374-f6c,Anulado
+89,69,Membresía,11.45,2024-11-12 00:00:00,Transferencia,83a9184c-28d,Pagado
+130,172,Clase Adicional,50.52,2023-03-16 00:00:00,Tarjeta,c9c1c837-ef1,Pendiente
+155,194,Otro,49.03,2023-05-07 00:00:00,Cheque,6834c044-49d,Pagado
+73,126,Penalización,196.04,2024-09-13 00:00:00,Tarjeta,4144d5a2-ee6,Pagado
+131,78,Membresía,50.2,2024-10-02 00:00:00,Tarjeta,7ae66bb6-431,Pendiente
+183,1,Otro,30.35,2024-02-18 00:00:00,Tarjeta,e58db2a0-7f4,Anulado
+96,166,Otro,53.78,2024-04-21 00:00:00,Transferencia,ea6c1463-c2a,Pagado
+198,97,Penalización,138.78,2023-11-30 00:00:00,Tarjeta,1ad88d0a-855,Anulado
+87,163,Otro,87.65,2023-04-28 00:00:00,Tarjeta,2bfced76-6c7,Anulado
+196,79,Otro,141.3,2024-07-19 00:00:00,Tarjeta,67739f07-7f5,Pagado
+60,47,Otro,31.25,2024-01-15 00:00:00,Tarjeta,2ef7946a-f77,Pagado
+41,98,Membresía,122.6,2024-02-16 00:00:00,Transferencia,d1d8176c-553,Pendiente
+135,168,Penalización,106.42,2023-02-16 00:00:00,Transferencia,804824d2-cf3,Pendiente
+33,193,Penalización,65.15,2024-07-12 00:00:00,Transferencia,6e801241-808,Anulado
+54,147,Membresía,70.16,2024-05-14 00:00:00,Tarjeta,5abecf76-edc,Anulado
+147,123,Otro,66.52,2023-08-19 00:00:00,Cheque,06aa99eb-15f,Pendiente
+155,89,Otro,141.35,2023-03-13 00:00:00,Tarjeta,89dce4c1-10f,Anulado
+158,76,Membresía,16.02,2024-08-26 00:00:00,Tarjeta,9f920b23-bda,Anulado
+199,105,Otro,104.47,2023-03-30 00:00:00,Transferencia,6fae93ad-f7b,Pagado
+27,86,Membresía,51.3,2024-06-30 00:00:00,Transferencia,68d5e85a-9d7,Anulado
+140,69,Otro,159.72,2024-07-28 00:00:00,Efectivo,05acabfb-772,Pagado
+95,10,Membresía,38.63,2023-07-30 00:00:00,Tarjeta,a4f1c807-835,Pendiente
+29,154,Penalización,111.9,2023-03-02 00:00:00,Cheque,814d4791-229,Pagado
+68,127,Membresía,68.85,2023-09-15 00:00:00,Cheque,ab1a2645-d9f,Anulado
+174,143,Membresía,110.34,2024-02-16 00:00:00,Cheque,272457b4-3ce,Pagado
+81,156,Otro,192.73,2024-07-14 00:00:00,Cheque,4c8337fe-b1f,Pagado
+142,37,Otro,5.76,2024-06-14 00:00:00,Transferencia,803d7f67-a20,Anulado
+200,80,Membresía,23.45,2023-10-23 00:00:00,Tarjeta,a4e26cfb-e9d,Anulado
+25,177,Membresía,55.73,2023-11-06 00:00:00,Cheque,ed1a4397-9bf,Pendiente
+156,107,Clase Adicional,184.32,2023-03-09 00:00:00,Efectivo,827dce40-034,Pagado
+45,106,Membresía,82.85,2023-04-11 00:00:00,Efectivo,eed8d47b-9a7,Pendiente
+125,87,Otro,179.2,2023-12-01 00:00:00,Cheque,cbfab38e-e1a,Pendiente
+17,161,Otro,121.86,2023-12-18 00:00:00,Tarjeta,d872008e-515,Pendiente
+143,18,Otro,98.76,2023-12-18 00:00:00,Cheque,2e85d675-f77,Pagado
+34,20,Clase Adicional,115.59,2023-04-30 00:00:00,Cheque,3cfc07ca-20d,Pagado
+115,65,Otro,171.96,2024-10-14 00:00:00,Cheque,5e70783b-b68,Anulado
+73,110,Otro,100.31,2023-06-07 00:00:00,Efectivo,c26d1ea2-5ee,Pagado
+43,52,Otro,38.98,2023-09-15 00:00:00,Cheque,d8686c53-416,Pendiente
+73,23,Penalización,154.46,2023-04-18 00:00:00,Transferencia,d8fc1ade-9ca,Pagado
+129,157,Otro,79.22,2023-05-29 00:00:00,Cheque,c97ae228-b3c,Anulado
+82,42,Membresía,177.33,2023-04-06 00:00:00,Tarjeta,976d704a-406,Pendiente
+32,136,Membresía,75.43,2023-06-10 00:00:00,Cheque,790dc86a-6d9,Anulado
+148,159,Clase Adicional,58.83,2024-09-19 00:00:00,Tarjeta,8fb74b68-d38,Pendiente
+121,94,Penalización,15.62,2024-10-27 00:00:00,Tarjeta,c744fb47-395,Pagado
+110,98,Membresía,193.49,2024-02-11 00:00:00,Cheque,8308b3e0-f38,Pagado
+35,124,Penalización,142.79,2023-06-11 00:00:00,Efectivo,9ef862ba-fbf,Pendiente
+175,3,Otro,188.26,2023-05-13 00:00:00,Cheque,439ec2e0-e30,Pagado
+92,58,Clase Adicional,63.39,2024-10-23 00:00:00,Tarjeta,e5caea32-ca2,Anulado
+127,68,Penalización,60.76,2024-09-15 00:00:00,Transferencia,35506b7f-b39,Pendiente
+128,159,Penalización,74.68,2023-03-31 00:00:00,Efectivo,b10a3b34-ef6,Pendiente
+168,113,Clase Adicional,39.67,2024-11-11 00:00:00,Efectivo,fb19df4c-992,Anulado
+71,35,Clase Adicional,88.84,2024-02-26 00:00:00,Efectivo,956e8c42-550,Anulado
+186,24,Membresía,100.27,2024-01-25 00:00:00,Efectivo,4936b8c4-8a5,Pagado
+31,66,Membresía,68.12,2024-03-29 00:00:00,Cheque,b996f067-4eb,Pendiente
+114,173,Otro,196.42,2024-02-01 00:00:00,Efectivo,a2763ca8-952,Pagado
+132,57,Otro,29.4,2023-01-25 00:00:00,Tarjeta,a4cbb959-13d,Pendiente
+163,48,Membresía,113.54,2024-07-17 00:00:00,Tarjeta,47fdbf25-a1a,Pendiente
+51,91,Clase Adicional,106.29,2023-04-12 00:00:00,Tarjeta,50775fc2-ae5,Pagado
+105,76,Membresía,184.7,2024-09-12 00:00:00,Tarjeta,8532a830-56f,Pendiente
+102,186,Clase Adicional,175.75,2024-05-30 00:00:00,Transferencia,a95676e5-f47,Pendiente
+70,15,Clase Adicional,5.73,2023-11-20 00:00:00,Efectivo,cedde6ba-f18,Pagado
+159,170,Otro,58.7,2024-03-17 00:00:00,Tarjeta,5d3f3cf2-a0d,Pagado
+93,11,Otro,155.63,2023-11-17 00:00:00,Efectivo,499067f6-88a,Pendiente
+190,19,Membresía,73.4,2023-02-20 00:00:00,Efectivo,34cf2b23-04f,Pagado
+124,65,Membresía,131.63,2024-09-07 00:00:00,Tarjeta,67a5d881-14e,Anulado
+177,91,Penalización,149.02,2024-01-21 00:00:00,Cheque,5dc50ac3-dc7,Anulado
+66,98,Otro,80.89,2024-03-17 00:00:00,Transferencia,dd41a448-1cc,Pagado
+76,70,Clase Adicional,129.94,2024-03-21 00:00:00,Cheque,3278497d-c39,Pagado
+48,85,Otro,185.24,2023-02-05 00:00:00,Efectivo,006b97aa-36b,Pagado
+179,159,Membresía,41.03,2023-04-26 00:00:00,Cheque,5657d866-846,Pendiente
+119,126,Penalización,187.17,2023-11-03 00:00:00,Tarjeta,1313a724-c93,Anulado
+117,108,Membresía,42.27,2024-05-12 00:00:00,Tarjeta,33e9add5-f62,Pagado
+170,29,Penalización,115.13,2023-01-30 00:00:00,Efectivo,a5ab0035-61e,Pendiente
+170,168,Otro,178.18,2023-03-30 00:00:00,Tarjeta,94bbeb1f-095,Pendiente
+39,71,Otro,23.82,2024-02-13 00:00:00,Efectivo,64c0dc47-f6d,Pendiente
+129,107,Membresía,173.76,2023-01-01 00:00:00,Transferencia,46dce8e6-8b0,Pagado
+42,2,Otro,162.62,2023-09-17 00:00:00,Tarjeta,aac5648e-d73,Pendiente
+136,133,Otro,46.99,2023-10-21 00:00:00,Tarjeta,90ad65ea-a77,Anulado
+30,26,Otro,121.96,2023-10-30 00:00:00,Tarjeta,742d3599-49d,Pendiente
+176,26,Penalización,196.82,2023-05-05 00:00:00,Cheque,7207698f-e19,Pendiente
+61,76,Penalización,59.99,2024-11-22 00:00:00,Cheque,9a21f2de-0b9,Anulado
+91,35,Clase Adicional,113.44,2024-11-29 00:00:00,Tarjeta,5d3300b1-ad9,Pagado
+160,196,Membresía,19.17,2024-05-25 00:00:00,Cheque,57a31223-ea6,Pendiente
+177,79,Penalización,70.41,2023-01-26 00:00:00,Efectivo,038e2db1-a13,Pendiente
+39,193,Otro,160.38,2024-08-09 00:00:00,Cheque,03c49338-1a5,Anulado
+112,113,Membresía,138.98,2023-10-23 00:00:00,Transferencia,4944ea62-cac,Anulado
+142,16,Clase Adicional,38.05,2024-04-20 00:00:00,Transferencia,86a90c37-c57,Pagado
+143,48,Membresía,53.18,2024-05-22 00:00:00,Efectivo,09e2cd32-626,Anulado
+96,141,Otro,65.49,2023-03-23 00:00:00,Tarjeta,48a18ba1-ee9,Pagado
+24,59,Membresía,80.27,2023-06-24 00:00:00,Transferencia,50d19276-e12,Anulado
+56,69,Membresía,25.84,2023-11-02 00:00:00,Tarjeta,02cfb1a3-c18,Pagado
+32,160,Otro,142.73,2023-07-29 00:00:00,Transferencia,e5419e2b-4b0,Anulado
+61,34,Otro,6.37,2024-05-20 00:00:00,Transferencia,f4ef48de-fee,Anulado
+193,130,Clase Adicional,54.9,2023-12-30 00:00:00,Efectivo,39a05246-28c,Anulado
+105,20,Otro,10.77,2024-08-16 00:00:00,Tarjeta,4384119f-c80,Anulado
+69,97,Otro,99.91,2024-04-17 00:00:00,Tarjeta,fc1e353a-b97,Anulado
+136,162,Membresía,141.8,2023-12-04 00:00:00,Transferencia,e2a9ae90-11c,Pagado
+10,62,Membresía,121.58,2024-03-25 00:00:00,Cheque,b5db3fca-dbc,Pendiente
+122,137,Otro,101.07,2024-03-25 00:00:00,Transferencia,ff7e4226-5ca,Pagado
+71,117,Membresía,76.0,2023-10-23 00:00:00,Efectivo,ca638e4e-3f6,Anulado
+162,77,Penalización,74.73,2023-08-28 00:00:00,Efectivo,9c76c060-6ce,Pendiente
+60,117,Membresía,108.62,2024-09-26 00:00:00,Tarjeta,6f450c9e-2a5,Anulado
+120,19,Clase Adicional,32.95,2024-02-06 00:00:00,Transferencia,2787be30-a5d,Pendiente
+166,163,Otro,82.07,2024-04-25 00:00:00,Cheque,61a97347-d04,Anulado
+56,10,Penalización,67.54,2023-09-21 00:00:00,Efectivo,f4abb448-2ba,Pendiente
+4,179,Membresía,183.13,2023-11-23 00:00:00,Transferencia,7535e2a5-35b,Anulado
+26,126,Membresía,53.12,2023-03-15 00:00:00,Efectivo,8ace8617-2ce,Pagado
+148,176,Penalización,153.99,2023-02-14 00:00:00,Cheque,24c9ffae-a79,Pagado
+147,117,Membresía,133.63,2023-12-26 00:00:00,Transferencia,1026d94a-6db,Pendiente
+50,107,Clase Adicional,146.69,2024-06-24 00:00:00,Efectivo,0f719625-e5a,Anulado
+102,35,Clase Adicional,130.99,2024-01-16 00:00:00,Tarjeta,bf248abe-727,Pagado
+26,126,Membresía,161.41,2023-09-14 00:00:00,Cheque,b2f9883a-dfd,Anulado
+194,103,Membresía,37.96,2023-03-16 00:00:00,Tarjeta,87e11944-402,Pendiente
+79,56,Clase Adicional,102.12,2024-07-12 00:00:00,Cheque,4a058dcb-532,Anulado
+84,65,Clase Adicional,39.91,2023-01-29 00:00:00,Tarjeta,26c67c58-cb0,Pendiente
+157,20,Clase Adicional,6.55,2024-03-21 00:00:00,Tarjeta,f29caada-d10,Pendiente
+13,46,Otro,9.99,2024-08-03 00:00:00,Transferencia,6b6c0450-9b1,Pendiente
+155,50,Penalización,176.47,2024-01-14 00:00:00,Transferencia,5853828e-ba5,Pendiente
+175,179,Otro,194.78,2023-12-23 00:00:00,Cheque,8e400589-9ac,Pagado
+84,56,Penalización,153.31,2024-01-11 00:00:00,Cheque,6f18eff0-942,Anulado
+118,125,Penalización,159.76,2024-06-10 00:00:00,Efectivo,5c131fdb-d3d,Pendiente
+28,29,Clase Adicional,127.61,2023-11-07 00:00:00,Tarjeta,282598db-4b7,Anulado
+33,165,Membresía,70.51,2023-03-01 00:00:00,Tarjeta,bc21555f-196,Pagado
+40,51,Penalización,23.78,2023-07-30 00:00:00,Tarjeta,ccebd29e-7ea,Pagado
+29,21,Otro,188.31,2024-04-26 00:00:00,Transferencia,d0d7fbb1-cd5,Pendiente
+168,90,Otro,145.52,2024-08-10 00:00:00,Tarjeta,5508baae-fd5,Pagado
+82,106,Otro,124.62,2024-11-11 00:00:00,Transferencia,f755a27c-75d,Pendiente
+181,164,Otro,99.65,2023-07-22 00:00:00,Cheque,1a667366-dc9,Pagado
+116,171,Membresía,53.49,2024-08-26 00:00:00,Cheque,69fc726b-69b,Pendiente
+106,196,Otro,77.35,2024-06-29 00:00:00,Cheque,b802339a-d3c,Anulado
+77,41,Membresía,129.49,2024-09-04 00:00:00,Efectivo,2c3ff430-1cd,Pendiente
+22,84,Clase Adicional,110.95,2024-07-29 00:00:00,Efectivo,08e79f31-1b7,Anulado
+155,75,Otro,11.09,2024-06-24 00:00:00,Efectivo,94d51ee5-c1c,Anulado
+52,74,Penalización,64.91,2023-09-02 00:00:00,Cheque,cf58b543-a7c,Pendiente
+17,127,Penalización,39.92,2024-11-24 00:00:00,Efectivo,492d5886-c6f,Pendiente
+32,187,Penalización,167.68,2023-02-19 00:00:00,Tarjeta,ddf8daa1-fdd,Pendiente
+46,167,Clase Adicional,126.59,2024-09-24 00:00:00,Transferencia,9d2ed3d1-770,Pendiente
+93,88,Clase Adicional,26.36,2023-08-05 00:00:00,Efectivo,bb70c918-af9,Anulado
+155,67,Clase Adicional,172.68,2023-09-05 00:00:00,Transferencia,b2e76fdc-880,Pagado
+103,85,Otro,199.64,2024-09-11 00:00:00,Efectivo,3fb1293a-cca,Anulado
+50,39,Membresía,44.57,2023-01-08 00:00:00,Transferencia,ddcde72c-737,Pagado
+72,178,Clase Adicional,40.16,2023-07-18 00:00:00,Efectivo,5f23aeb7-96e,Pendiente
+86,106,Penalización,73.74,2024-08-06 00:00:00,Tarjeta,f5c92b45-c3f,Pendiente
+116,143,Clase Adicional,111.69,2023-06-06 00:00:00,Tarjeta,3b53993f-7f5,Pagado
+25,6,Clase Adicional,10.91,2023-04-27 00:00:00,Efectivo,615921c9-93f,Pendiente
+24,88,Clase Adicional,97.48,2024-09-29 00:00:00,Tarjeta,186c8d6a-e5d,Anulado
+62,187,Penalización,77.93,2023-05-01 00:00:00,Cheque,eb6570cd-264,Pagado
+117,138,Clase Adicional,196.31,2023-04-05 00:00:00,Efectivo,999d8a76-b0d,Pendiente
+109,88,Otro,91.76,2024-10-07 00:00:00,Cheque,0d327532-506,Pendiente
+72,137,Membresía,77.26,2024-06-30 00:00:00,Transferencia,90df00c0-d71,Anulado
+95,2,Membresía,28.94,2024-03-10 00:00:00,Cheque,5f00e0f6-02d,Anulado
+79,21,Penalización,123.95,2023-01-23 00:00:00,Efectivo,19a52787-4dd,Anulado
+72,26,Otro,157.68,2024-01-25 00:00:00,Efectivo,4a5aa1a2-f28,Pagado
+23,41,Clase Adicional,150.24,2024-09-23 00:00:00,Tarjeta,7b78519c-5cb,Pagado
+191,3,Otro,142.48,2024-07-17 00:00:00,Cheque,c54bf813-3c2,Pagado
+135,69,Otro,54.18,2023-07-31 00:00:00,Efectivo,31d09c7b-cc3,Pagado
+119,48,Membresía,89.43,2023-05-07 00:00:00,Transferencia,1bbe4d13-721,Anulado
+176,33,Membresía,195.99,2023-09-30 00:00:00,Transferencia,ee42f689-427,Anulado
+163,74,Clase Adicional,126.26,2024-04-16 00:00:00,Efectivo,9a757907-0fe,Anulado
+54,15,Membresía,155.88,2024-03-15 00:00:00,Efectivo,0f61f749-c8f,Pendiente
+83,191,Penalización,39.8,2023-07-13 00:00:00,Tarjeta,230b5137-5d2,Pagado
+87,145,Otro,49.29,2024-04-28 00:00:00,Tarjeta,6905d62c-c77,Pagado
+94,9,Otro,152.76,2023-02-25 00:00:00,Cheque,e379e7a3-c5b,Pagado
+4,93,Penalización,124.35,2023-03-13 00:00:00,Cheque,9c206dff-91a,Pagado
+150,180,Penalización,176.82,2024-05-22 00:00:00,Transferencia,72b771d8-4b3,Pendiente
+147,46,Otro,57.79,2023-06-27 00:00:00,Efectivo,343b67d1-f1e,Anulado
+141,123,Otro,90.02,2024-06-27 00:00:00,Efectivo,daa19371-67d,Pagado
+174,58,Otro,87.91,2023-11-27 00:00:00,Tarjeta,54d72c51-4d1,Pendiente
+176,96,Otro,169.93,2023-09-08 00:00:00,Tarjeta,b02e4544-063,Pendiente
+141,181,Clase Adicional,42.27,2024-10-04 00:00:00,Tarjeta,8eff7a49-8f3,Pendiente
+158,113,Otro,147.07,2024-05-16 00:00:00,Efectivo,c34535c4-f9e,Pendiente
+57,198,Membresía,59.39,2024-11-27 00:00:00,Transferencia,18398f79-790,Anulado
+139,125,Clase Adicional,68.71,2024-09-20 00:00:00,Tarjeta,ebdf4e45-3cf,Pagado
+138,41,Clase Adicional,59.37,2024-01-04 00:00:00,Tarjeta,39cc262c-4bd,Pendiente
+189,74,Membresía,150.87,2024-07-07 00:00:00,Cheque,3ac6c656-eae,Pendiente
+141,45,Otro,105.66,2024-08-08 00:00:00,Efectivo,828ae5bc-bd0,Pendiente
+116,52,Otro,35.83,2023-01-29 00:00:00,Transferencia,2b921e4a-746,Anulado
+138,180,Membresía,70.56,2023-01-31 00:00:00,Efectivo,eaacf702-358,Anulado
+177,198,Membresía,31.74,2023-05-26 00:00:00,Transferencia,5ef3ec6c-0d1,Anulado
+1,48,Membresía,84.46,2023-10-24 00:00:00,Efectivo,9a7245d9-4a5,Anulado
+11,57,Clase Adicional,51.03,2023-08-30 00:00:00,Cheque,a326462e-efa,Pendiente
+2,20,Clase Adicional,96.04,2023-04-14 00:00:00,Tarjeta,d5a8d669-57d,Anulado
+134,137,Penalización,191.06,2024-02-24 00:00:00,Efectivo,294bda53-816,Anulado
+35,123,Penalización,63.56,2024-02-06 00:00:00,Cheque,14512e09-49a,Pendiente
+13,105,Membresía,162.1,2023-03-14 00:00:00,Cheque,1a6e0ec5-2ed,Anulado
+148,199,Clase Adicional,150.78,2023-12-29 00:00:00,Transferencia,e894daaf-4ed,Anulado
+152,188,Membresía,182.48,2023-09-14 00:00:00,Cheque,2f79ef4e-84b,Pendiente
+61,192,Penalización,175.12,2024-02-06 00:00:00,Tarjeta,3a0bb255-e64,Pendiente
+183,107,Clase Adicional,46.97,2023-01-15 00:00:00,Efectivo,64e43b5a-744,Anulado
+27,178,Otro,16.0,2024-10-26 00:00:00,Transferencia,09167ded-076,Pagado
+189,77,Otro,26.5,2024-01-01 00:00:00,Cheque,18097333-42e,Anulado
+56,70,Membresía,106.98,2023-07-16 00:00:00,Efectivo,35004106-5df,Pagado
+65,3,Membresía,180.51,2024-09-25 00:00:00,Cheque,f717601c-ecc,Anulado
+88,88,Membresía,41.26,2023-09-14 00:00:00,Efectivo,883cbcaa-aec,Pagado
+185,6,Otro,164.49,2024-01-18 00:00:00,Tarjeta,b26c430f-5b4,Pagado
+130,129,Otro,182.88,2024-04-07 00:00:00,Transferencia,aecb95d7-8ee,Pagado
+86,168,Clase Adicional,113.96,2024-04-30 00:00:00,Efectivo,5a316222-bd7,Anulado
+177,63,Membresía,101.04,2024-03-17 00:00:00,Transferencia,e6e7a1b3-545,Anulado
+164,93,Clase Adicional,150.11,2024-11-04 00:00:00,Cheque,d78a1b42-de2,Pagado
+128,97,Membresía,96.45,2023-02-17 00:00:00,Efectivo,5725fede-2da,Pagado
+18,109,Otro,142.79,2024-06-14 00:00:00,Transferencia,4b60014a-82b,Pendiente
+102,72,Membresía,177.76,2024-08-13 00:00:00,Tarjeta,e6b4adb8-0b5,Pendiente
+135,7,Penalización,112.87,2024-11-13 00:00:00,Tarjeta,d0546528-724,Pendiente
+103,168,Penalización,126.79,2023-01-05 00:00:00,Efectivo,dc83f96c-3eb,Anulado
+76,100,Otro,91.28,2023-02-18 00:00:00,Transferencia,274233f4-38b,Pendiente
+81,180,Penalización,9.38,2023-06-24 00:00:00,Cheque,17fe0c6e-d10,Pagado
+135,26,Clase Adicional,141.37,2023-04-15 00:00:00,Transferencia,4ccc9c67-42d,Anulado
+35,69,Penalización,157.0,2024-03-20 00:00:00,Cheque,ca0e23fd-2a9,Pagado
+198,183,Clase Adicional,103.27,2023-11-02 00:00:00,Cheque,f81682ef-7fc,Anulado
+48,175,Otro,9.45,2024-08-16 00:00:00,Efectivo,94f7a0cd-eec,Pagado
+115,86,Otro,6.98,2024-06-26 00:00:00,Transferencia,1d9c4463-b0b,Anulado
+72,109,Clase Adicional,93.64,2023-07-11 00:00:00,Cheque,9f0397ee-0ce,Anulado
+21,73,Penalización,133.58,2023-08-30 00:00:00,Cheque,0ef4f3cd-2fe,Pagado
+56,113,Membresía,76.48,2023-02-09 00:00:00,Efectivo,8846e99f-35f,Anulado
+148,29,Clase Adicional,68.94,2023-10-17 00:00:00,Transferencia,2ba1924e-3bf,Pagado
+134,64,Penalización,10.52,2023-07-20 00:00:00,Transferencia,b60c523e-51a,Anulado
+51,166,Clase Adicional,186.71,2023-11-14 00:00:00,Efectivo,1ae7614e-128,Pendiente
+49,180,Otro,109.34,2024-05-07 00:00:00,Cheque,6da5e6c6-65f,Pagado
+38,40,Clase Adicional,137.2,2024-07-20 00:00:00,Transferencia,7a65440c-741,Pagado

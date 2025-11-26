@@ -1,0 +1,501 @@
+socio_id,horario_id,fecha_reserva,fecha_clase,estado,fecha_cancelacion,observaciones
+42,29,2025-11-20 20:44:14,2026-01-06,Confirmada,,Sin comentarios
+90,53,2025-11-20 20:44:14,2025-11-28,NoAsistió,,Cancelado por lluvia
+56,25,2025-11-20 20:44:14,2026-01-12,NoAsistió,,Cancelado por lluvia
+100,74,2025-11-20 20:44:14,2025-11-30,Confirmada,2025-12-02,Cambio de clase
+11,36,2025-11-20 20:44:14,2025-12-09,NoAsistió,,Sin comentarios
+37,90,2025-11-20 20:44:14,2026-01-03,Confirmada,,Cambio de hora
+41,24,2025-11-20 20:44:14,2025-12-10,Confirmada,,Sin comentarios
+34,19,2025-11-20 20:44:14,2025-11-29,Asistió,2026-01-07,Cancelado por lluvia
+46,51,2025-11-20 20:44:14,2026-01-03,NoAsistió,2026-01-08,Cambio de clase
+22,6,2025-11-20 20:44:14,2026-01-02,NoAsistió,2025-12-29,Cancelado por lluvia
+56,16,2025-11-20 20:44:14,2026-01-12,NoAsistió,,Sin comentarios
+85,7,2025-11-20 20:44:14,2025-12-11,Confirmada,2025-12-05,Sin comentarios
+50,52,2025-11-20 20:44:14,2025-12-24,NoAsistió,,Cancelado por lluvia
+27,13,2025-11-20 20:44:14,2026-01-15,Confirmada,2026-01-10,Cambio de clase
+55,46,2025-11-20 20:44:14,2025-11-22,NoAsistió,2025-12-01,Cambio de hora
+89,24,2025-11-20 20:44:14,2025-12-16,NoAsistió,2026-01-01,Cancelado por lluvia
+41,51,2025-11-20 20:44:14,2026-01-11,Asistió,,Sin comentarios
+35,12,2025-11-20 20:44:14,2025-12-11,Cancelada,,Cambio de hora
+66,49,2025-11-20 20:44:14,2025-12-03,Cancelada,,Cambio de hora
+24,96,2025-11-20 20:44:14,2025-11-30,Asistió,2025-12-22,Cancelado por lluvia
+3,87,2025-11-20 20:44:14,2025-11-29,Asistió,,Cambio de clase
+12,59,2025-11-20 20:44:14,2026-01-15,NoAsistió,2026-01-10,Cambio de hora
+25,5,2025-11-20 20:44:14,2025-12-05,Cancelada,,Sin comentarios
+38,68,2025-11-20 20:44:14,2025-12-02,NoAsistió,2025-12-18,Sin comentarios
+59,68,2025-11-20 20:44:14,2025-11-21,Cancelada,2025-12-29,Cambio de clase
+54,23,2025-11-20 20:44:14,2025-11-21,Confirmada,,Cambio de clase
+54,63,2025-11-20 20:44:14,2025-12-26,Confirmada,2026-01-09,Sin comentarios
+82,87,2025-11-20 20:44:14,2025-12-05,Confirmada,2026-01-01,Cancelado por lluvia
+36,53,2025-11-20 20:44:14,2025-11-24,NoAsistió,,Cambio de clase
+19,35,2025-11-20 20:44:14,2025-11-30,NoAsistió,2025-12-17,Cambio de hora
+46,32,2025-11-20 20:44:14,2026-01-17,Cancelada,,Cancelado por lluvia
+24,32,2025-11-20 20:44:14,2025-12-31,NoAsistió,,Cambio de hora
+52,12,2025-11-20 20:44:14,2026-01-07,NoAsistió,2025-12-20,Sin comentarios
+82,27,2025-11-20 20:44:14,2026-01-03,Asistió,,Cancelado por lluvia
+17,59,2025-11-20 20:44:14,2026-01-11,Asistió,,Cambio de hora
+22,90,2025-11-20 20:44:14,2025-12-22,NoAsistió,,Sin comentarios
+26,24,2025-11-20 20:44:14,2026-01-19,Cancelada,,Cambio de clase
+16,47,2025-11-20 20:44:14,2026-01-12,Cancelada,,Cambio de clase
+90,93,2025-11-20 20:44:14,2026-01-09,NoAsistió,2025-11-26,Sin comentarios
+57,62,2025-11-20 20:44:14,2025-11-23,NoAsistió,,Sin comentarios
+38,36,2025-11-20 20:44:14,2026-01-10,Cancelada,2026-01-15,Sin comentarios
+58,95,2025-11-20 20:44:14,2025-12-27,Cancelada,,Cambio de clase
+37,80,2025-11-20 20:44:14,2025-12-23,Confirmada,,Cambio de hora
+100,17,2025-11-20 20:44:14,2025-12-30,Asistió,,Cambio de clase
+8,100,2025-11-20 20:44:14,2025-12-15,NoAsistió,2026-01-10,Cambio de clase
+7,59,2025-11-20 20:44:14,2026-01-05,Asistió,,Cancelado por lluvia
+41,39,2025-11-20 20:44:14,2025-12-07,Asistió,2025-12-24,Sin comentarios
+81,29,2025-11-20 20:44:14,2025-12-03,Confirmada,2025-11-22,Sin comentarios
+51,62,2025-11-20 20:44:14,2025-12-18,Confirmada,2025-12-23,Cambio de clase
+32,40,2025-11-20 20:44:14,2026-01-06,NoAsistió,2025-12-16,Cambio de hora
+29,75,2025-11-20 20:44:14,2025-12-14,Asistió,2025-12-05,Sin comentarios
+33,79,2025-11-20 20:44:14,2025-12-06,Confirmada,2025-12-01,Cambio de clase
+47,52,2025-11-20 20:44:14,2025-12-27,Asistió,2025-12-07,Cambio de hora
+47,78,2025-11-20 20:44:14,2025-12-24,NoAsistió,2025-12-01,Cambio de hora
+88,87,2025-11-20 20:44:14,2025-12-30,Confirmada,,Cambio de clase
+67,21,2025-11-20 20:44:14,2025-12-23,NoAsistió,2025-11-26,Sin comentarios
+88,69,2025-11-20 20:44:14,2025-12-16,NoAsistió,,Sin comentarios
+86,13,2025-11-20 20:44:14,2025-12-08,NoAsistió,,Cambio de hora
+33,64,2025-11-20 20:44:14,2025-12-22,Confirmada,2025-12-23,Sin comentarios
+39,61,2025-11-20 20:44:14,2025-11-29,NoAsistió,2025-11-25,Sin comentarios
+82,86,2025-11-20 20:44:14,2025-12-04,NoAsistió,,Cancelado por lluvia
+23,37,2025-11-20 20:44:14,2025-11-30,NoAsistió,,Cambio de hora
+32,96,2025-11-20 20:44:14,2025-11-27,Cancelada,,Cancelado por lluvia
+73,89,2025-11-20 20:44:14,2025-11-26,Cancelada,2025-12-03,Cambio de clase
+80,48,2025-11-20 20:44:14,2025-12-26,Confirmada,,Sin comentarios
+96,67,2025-11-20 20:44:14,2026-01-11,Cancelada,,Cambio de hora
+62,6,2025-11-20 20:44:14,2025-12-30,NoAsistió,2025-12-11,Cambio de clase
+87,4,2025-11-20 20:44:14,2025-12-11,Cancelada,2025-12-11,Sin comentarios
+76,78,2025-11-20 20:44:14,2025-12-02,Cancelada,2025-12-17,Sin comentarios
+83,57,2025-11-20 20:44:14,2025-12-12,Cancelada,2025-12-10,Cambio de clase
+15,85,2025-11-20 20:44:14,2025-12-11,Cancelada,2025-12-12,Cambio de clase
+78,29,2025-11-20 20:44:14,2025-12-02,NoAsistió,,Cancelado por lluvia
+9,76,2025-11-20 20:44:14,2026-01-12,Asistió,,Cambio de hora
+81,91,2025-11-20 20:44:14,2026-01-07,NoAsistió,,Cambio de clase
+72,11,2025-11-20 20:44:14,2026-01-06,NoAsistió,,Sin comentarios
+2,54,2025-11-20 20:44:14,2025-12-16,Asistió,2026-01-19,Cancelado por lluvia
+25,2,2025-11-20 20:44:14,2026-01-14,Cancelada,,Cancelado por lluvia
+66,41,2025-11-20 20:44:14,2025-12-27,Cancelada,2025-11-30,Cambio de clase
+71,80,2025-11-20 20:44:14,2025-12-18,NoAsistió,2026-01-16,Cambio de clase
+37,70,2025-11-20 20:44:14,2025-12-19,Confirmada,2025-11-28,Cambio de hora
+23,25,2025-11-20 20:44:14,2026-01-14,Asistió,,Cancelado por lluvia
+30,37,2025-11-20 20:44:14,2026-01-10,Confirmada,2025-12-12,Sin comentarios
+75,91,2025-11-20 20:44:14,2025-12-21,NoAsistió,,Cambio de hora
+75,69,2025-11-20 20:44:14,2025-12-22,NoAsistió,,Cancelado por lluvia
+85,92,2025-11-20 20:44:14,2026-01-12,Cancelada,2025-11-27,Cambio de clase
+99,100,2025-11-20 20:44:14,2026-01-11,Asistió,,Cambio de hora
+98,22,2025-11-20 20:44:14,2026-01-01,Confirmada,2025-12-17,Cambio de clase
+77,93,2025-11-20 20:44:14,2026-01-09,Cancelada,,Cambio de clase
+46,40,2025-11-20 20:44:14,2026-01-08,Cancelada,2025-12-26,Cambio de hora
+42,67,2025-11-20 20:44:14,2026-01-08,Confirmada,2025-12-25,Sin comentarios
+37,86,2025-11-20 20:44:14,2026-01-04,NoAsistió,2025-12-08,Cambio de hora
+35,83,2025-11-20 20:44:14,2026-01-07,Confirmada,,Cancelado por lluvia
+6,92,2025-11-20 20:44:14,2025-12-12,Asistió,,Cambio de hora
+78,9,2025-11-20 20:44:14,2025-12-26,NoAsistió,2025-11-30,Cambio de clase
+24,72,2025-11-20 20:44:14,2026-01-12,Cancelada,,Cambio de hora
+86,70,2025-11-20 20:44:14,2025-12-04,Cancelada,,Cambio de clase
+88,63,2025-11-20 20:44:14,2025-11-28,Cancelada,2026-01-15,Cambio de clase
+9,48,2025-11-20 20:44:14,2025-12-31,Cancelada,2026-01-02,Cambio de hora
+94,29,2025-11-20 20:44:14,2025-12-11,NoAsistió,2026-01-02,Cambio de hora
+85,94,2025-11-20 20:44:14,2026-01-19,Asistió,2026-01-02,Cambio de hora
+52,71,2025-11-20 20:44:14,2025-12-30,Cancelada,2026-01-02,Sin comentarios
+39,72,2025-11-20 20:44:14,2026-01-12,NoAsistió,2025-12-20,Cancelado por lluvia
+88,20,2025-11-20 20:44:14,2025-11-30,Cancelada,,Cancelado por lluvia
+16,84,2025-11-20 20:44:14,2025-12-28,Cancelada,,Sin comentarios
+21,73,2025-11-20 20:44:14,2025-12-13,Confirmada,,Cambio de hora
+14,15,2025-11-20 20:44:14,2026-01-19,NoAsistió,2025-12-17,Cambio de clase
+23,73,2025-11-20 20:44:14,2025-11-26,Asistió,2025-12-15,Sin comentarios
+38,13,2025-11-20 20:44:14,2025-12-05,Cancelada,2026-01-07,Sin comentarios
+42,86,2025-11-20 20:44:14,2025-12-16,Asistió,,Cambio de hora
+97,66,2025-11-20 20:44:14,2025-12-25,NoAsistió,,Cambio de hora
+38,76,2025-11-20 20:44:14,2025-12-05,Asistió,2025-12-07,Sin comentarios
+13,27,2025-11-20 20:44:14,2026-01-04,Asistió,,Cambio de clase
+12,39,2025-11-20 20:44:14,2025-12-14,Asistió,2025-12-14,Cancelado por lluvia
+8,30,2025-11-20 20:44:14,2026-01-07,Confirmada,,Sin comentarios
+94,53,2025-11-20 20:44:14,2025-11-29,Confirmada,,Cambio de hora
+31,94,2025-11-20 20:44:14,2025-12-30,Confirmada,2025-11-25,Cambio de hora
+88,15,2025-11-20 20:44:14,2026-01-04,Cancelada,,Cancelado por lluvia
+10,9,2025-11-20 20:44:14,2026-01-12,Asistió,2025-11-23,Cambio de hora
+90,50,2025-11-20 20:44:14,2026-01-14,Asistió,2026-01-01,Cancelado por lluvia
+11,80,2025-11-20 20:44:14,2025-12-02,NoAsistió,,Cancelado por lluvia
+63,21,2025-11-20 20:44:14,2026-01-02,NoAsistió,,Cancelado por lluvia
+48,11,2025-11-20 20:44:14,2025-11-22,Confirmada,,Cancelado por lluvia
+1,29,2025-11-20 20:44:14,2025-12-23,Confirmada,2026-01-13,Cancelado por lluvia
+18,97,2025-11-20 20:44:14,2025-12-02,Cancelada,2025-12-16,Cambio de hora
+87,49,2025-11-20 20:44:14,2025-12-09,Asistió,2025-12-06,Cambio de hora
+4,59,2025-11-20 20:44:14,2025-12-25,NoAsistió,2025-12-22,Cambio de clase
+38,63,2025-11-20 20:44:14,2026-01-12,NoAsistió,2025-12-25,Cancelado por lluvia
+41,70,2025-11-20 20:44:14,2025-12-31,NoAsistió,,Cancelado por lluvia
+88,25,2025-11-20 20:44:14,2025-12-10,Confirmada,,Cambio de clase
+58,32,2025-11-20 20:44:14,2025-12-08,Confirmada,,Cambio de clase
+81,59,2025-11-20 20:44:14,2026-01-02,Cancelada,2025-12-09,Cambio de hora
+11,16,2025-11-20 20:44:14,2025-12-23,NoAsistió,2026-01-18,Cambio de hora
+39,48,2025-11-20 20:44:14,2026-01-08,Confirmada,2025-12-11,Cancelado por lluvia
+2,65,2025-11-20 20:44:14,2026-01-12,NoAsistió,,Sin comentarios
+98,61,2025-11-20 20:44:14,2025-12-20,Asistió,,Sin comentarios
+97,96,2025-11-20 20:44:14,2025-11-25,Cancelada,,Cancelado por lluvia
+52,64,2025-11-20 20:44:14,2025-12-26,Asistió,2025-12-31,Sin comentarios
+44,24,2025-11-20 20:44:14,2026-01-17,Asistió,,Sin comentarios
+1,8,2025-11-20 20:44:14,2025-12-14,Confirmada,,Cambio de clase
+100,64,2025-11-20 20:44:14,2026-01-14,Asistió,2025-12-29,Cambio de clase
+41,4,2025-11-20 20:44:14,2026-01-01,Asistió,2025-11-24,Sin comentarios
+40,32,2025-11-20 20:44:14,2026-01-15,Asistió,,Cambio de hora
+51,82,2025-11-20 20:44:14,2026-01-14,Cancelada,2025-12-08,Sin comentarios
+5,65,2025-11-20 20:44:14,2026-01-02,Confirmada,,Cambio de clase
+57,2,2025-11-20 20:44:14,2026-01-07,Cancelada,2026-01-02,Cancelado por lluvia
+29,27,2025-11-20 20:44:14,2026-01-03,Asistió,,Cancelado por lluvia
+80,55,2025-11-20 20:44:14,2026-01-14,NoAsistió,,Cancelado por lluvia
+36,99,2025-11-20 20:44:14,2026-01-01,Confirmada,,Sin comentarios
+82,10,2025-11-20 20:44:14,2025-12-09,Asistió,,Cambio de clase
+14,22,2025-11-20 20:44:14,2025-11-23,Cancelada,2026-01-11,Sin comentarios
+99,39,2025-11-20 20:44:14,2025-12-26,Asistió,2026-01-18,Sin comentarios
+33,80,2025-11-20 20:44:14,2026-01-09,NoAsistió,2026-01-05,Cambio de clase
+11,16,2025-11-20 20:44:14,2026-01-18,Cancelada,,Cancelado por lluvia
+69,10,2025-11-20 20:44:14,2025-12-12,Confirmada,2025-11-23,Cambio de hora
+98,85,2025-11-20 20:44:14,2026-01-14,Confirmada,,Cambio de clase
+73,82,2025-11-20 20:44:14,2025-12-02,Cancelada,2025-12-01,Cancelado por lluvia
+95,19,2025-11-20 20:44:14,2026-01-09,Cancelada,,Cambio de clase
+73,67,2025-11-20 20:44:14,2026-01-11,Cancelada,2025-12-16,Cambio de hora
+89,26,2025-11-20 20:44:14,2026-01-16,Asistió,2025-12-20,Cambio de hora
+9,19,2025-11-20 20:44:14,2025-11-26,NoAsistió,,Sin comentarios
+22,59,2025-11-20 20:44:14,2026-01-10,NoAsistió,2026-01-02,Sin comentarios
+19,36,2025-11-20 20:44:14,2026-01-05,Cancelada,2025-12-10,Cambio de clase
+81,45,2025-11-20 20:44:14,2025-12-03,NoAsistió,2026-01-15,Cambio de clase
+99,38,2025-11-20 20:44:14,2026-01-07,Confirmada,,Sin comentarios
+92,16,2025-11-20 20:44:14,2026-01-01,Cancelada,,Sin comentarios
+78,91,2025-11-20 20:44:14,2025-12-23,Cancelada,,Cambio de hora
+63,36,2025-11-20 20:44:14,2026-01-02,Asistió,,Cambio de hora
+5,88,2025-11-20 20:44:14,2025-12-14,NoAsistió,2025-12-01,Cancelado por lluvia
+72,54,2025-11-20 20:44:14,2025-12-31,Asistió,2025-12-02,Sin comentarios
+44,29,2025-11-20 20:44:14,2025-12-25,Asistió,,Sin comentarios
+38,83,2025-11-20 20:44:14,2026-01-13,Asistió,2026-01-02,Sin comentarios
+70,66,2025-11-20 20:44:14,2026-01-05,Asistió,2026-01-18,Cambio de hora
+31,49,2025-11-20 20:44:14,2025-12-20,NoAsistió,2026-01-06,Cancelado por lluvia
+24,41,2025-11-20 20:44:14,2025-12-07,Asistió,,Cambio de clase
+37,4,2025-11-20 20:44:14,2025-12-23,Asistió,2025-11-24,Cambio de clase
+93,97,2025-11-20 20:44:14,2025-12-15,Asistió,,Cambio de hora
+83,75,2025-11-20 20:44:14,2026-01-12,Asistió,,Sin comentarios
+60,84,2025-11-20 20:44:14,2025-12-14,Asistió,2025-12-23,Sin comentarios
+93,72,2025-11-20 20:44:14,2025-12-08,Cancelada,,Cambio de clase
+40,73,2025-11-20 20:44:14,2025-12-12,Cancelada,2026-01-18,Cancelado por lluvia
+82,40,2025-11-20 20:44:14,2026-01-05,Cancelada,,Cambio de clase
+78,88,2025-11-20 20:44:14,2026-01-08,NoAsistió,2025-12-28,Cambio de clase
+79,25,2025-11-20 20:44:14,2025-12-18,Confirmada,,Cancelado por lluvia
+80,3,2025-11-20 20:44:14,2026-01-05,Asistió,,Cambio de clase
+6,26,2025-11-20 20:44:14,2025-11-25,Confirmada,2026-01-16,Cambio de hora
+39,43,2025-11-20 20:44:14,2025-12-08,NoAsistió,2025-12-21,Cancelado por lluvia
+77,46,2025-11-20 20:44:14,2025-12-22,NoAsistió,,Cancelado por lluvia
+50,23,2025-11-20 20:44:14,2025-12-27,NoAsistió,,Cambio de clase
+74,67,2025-11-20 20:44:14,2025-12-07,Asistió,,Sin comentarios
+21,42,2025-11-20 20:44:14,2026-01-09,NoAsistió,,Sin comentarios
+37,61,2025-11-20 20:44:14,2025-12-14,Cancelada,,Cancelado por lluvia
+57,8,2025-11-20 20:44:14,2026-01-08,Cancelada,,Cancelado por lluvia
+88,52,2025-11-20 20:44:14,2025-12-03,Cancelada,,Cancelado por lluvia
+3,46,2025-11-20 20:44:14,2026-01-15,Cancelada,,Cancelado por lluvia
+92,14,2025-11-20 20:44:14,2025-12-12,Cancelada,,Cambio de clase
+6,18,2025-11-20 20:44:14,2025-12-13,Asistió,,Cancelado por lluvia
+67,41,2025-11-20 20:44:14,2025-11-25,NoAsistió,,Cancelado por lluvia
+32,28,2025-11-20 20:44:14,2026-01-19,Cancelada,,Cambio de hora
+85,8,2025-11-20 20:44:14,2025-12-10,Confirmada,,Cambio de clase
+19,24,2025-11-20 20:44:14,2025-12-25,Asistió,2025-11-24,Cancelado por lluvia
+53,97,2025-11-20 20:44:14,2026-01-07,Asistió,,Cambio de hora
+46,13,2025-11-20 20:44:14,2026-01-07,NoAsistió,,Sin comentarios
+73,25,2025-11-20 20:44:14,2025-12-18,NoAsistió,2025-12-20,Cambio de hora
+97,82,2025-11-20 20:44:14,2026-01-12,Cancelada,2025-12-04,Cambio de clase
+39,11,2025-11-20 20:44:14,2025-12-05,NoAsistió,2025-12-25,Cancelado por lluvia
+55,15,2025-11-20 20:44:14,2026-01-15,NoAsistió,2026-01-03,Cambio de hora
+18,75,2025-11-20 20:44:14,2026-01-18,NoAsistió,2026-01-09,Cambio de clase
+7,5,2025-11-20 20:44:14,2025-12-02,Asistió,,Cancelado por lluvia
+96,35,2025-11-20 20:44:14,2025-11-23,Cancelada,,Cambio de clase
+76,57,2025-11-20 20:44:14,2025-12-08,NoAsistió,,Cambio de hora
+13,69,2025-11-20 20:44:14,2025-12-06,NoAsistió,2026-01-13,Cancelado por lluvia
+15,36,2025-11-20 20:44:14,2025-12-08,Cancelada,,Cancelado por lluvia
+64,40,2025-11-20 20:44:14,2025-12-28,Confirmada,2026-01-09,Cambio de clase
+58,42,2025-11-20 20:44:14,2025-11-26,Asistió,2025-11-25,Sin comentarios
+64,47,2025-11-20 20:44:14,2026-01-03,NoAsistió,,Cancelado por lluvia
+49,58,2025-11-20 20:44:14,2025-12-26,Confirmada,2025-11-29,Cancelado por lluvia
+5,16,2025-11-20 20:44:14,2025-12-01,Cancelada,,Sin comentarios
+44,30,2025-11-20 20:44:14,2025-12-03,Confirmada,2025-12-10,Cambio de hora
+67,6,2025-11-20 20:44:14,2025-12-18,Asistió,,Cancelado por lluvia
+10,27,2025-11-20 20:44:14,2025-12-13,Cancelada,2026-01-10,Sin comentarios
+15,6,2025-11-20 20:44:14,2025-12-10,Confirmada,,Cancelado por lluvia
+7,79,2025-11-20 20:44:14,2025-11-24,Cancelada,2025-12-26,Sin comentarios
+64,6,2025-11-20 20:44:14,2025-12-13,Confirmada,2025-11-30,Cambio de hora
+94,65,2025-11-20 20:44:14,2025-12-15,Cancelada,,Cambio de clase
+9,23,2025-11-20 20:44:14,2025-11-28,NoAsistió,,Cancelado por lluvia
+25,77,2025-11-20 20:44:14,2025-12-13,Asistió,2026-01-05,Cambio de hora
+88,54,2025-11-20 20:44:14,2026-01-10,Asistió,,Sin comentarios
+74,59,2025-11-20 20:44:14,2025-12-26,Cancelada,2025-11-29,Cambio de hora
+71,79,2025-11-20 20:44:14,2025-12-13,Asistió,,Cambio de hora
+11,38,2025-11-20 20:44:14,2025-11-23,Confirmada,2025-12-31,Sin comentarios
+3,93,2025-11-20 20:44:14,2026-01-17,NoAsistió,2025-12-07,Cancelado por lluvia
+36,11,2025-11-20 20:44:14,2025-12-03,NoAsistió,,Cambio de hora
+76,31,2025-11-20 20:44:14,2025-11-23,Cancelada,,Cambio de hora
+74,42,2025-11-20 20:44:14,2026-01-16,Cancelada,2025-11-26,Cancelado por lluvia
+72,86,2025-11-20 20:44:14,2025-12-13,NoAsistió,2025-12-16,Cambio de hora
+71,64,2025-11-20 20:44:14,2025-12-13,Cancelada,,Cambio de clase
+52,92,2025-11-20 20:44:14,2025-11-21,NoAsistió,2025-11-27,Cancelado por lluvia
+93,82,2025-11-20 20:44:14,2025-12-03,Asistió,,Cambio de clase
+29,49,2025-11-20 20:44:14,2025-11-26,NoAsistió,,Sin comentarios
+69,33,2025-11-20 20:44:14,2025-12-13,Asistió,,Sin comentarios
+69,30,2025-11-20 20:44:14,2026-01-05,Cancelada,2025-12-02,Cancelado por lluvia
+1,19,2025-11-20 20:44:14,2025-12-13,Confirmada,2025-11-26,Cambio de clase
+85,34,2025-11-20 20:44:14,2025-11-22,NoAsistió,2025-12-30,Cancelado por lluvia
+53,25,2025-11-20 20:44:14,2026-01-14,Cancelada,,Cambio de hora
+88,83,2025-11-20 20:44:14,2025-11-29,Asistió,,Cambio de clase
+20,95,2025-11-20 20:44:14,2026-01-05,Confirmada,2025-11-25,Cambio de clase
+56,32,2025-11-20 20:44:14,2025-12-10,Confirmada,,Sin comentarios
+7,10,2025-11-20 20:44:14,2025-12-04,Asistió,2025-12-06,Cambio de clase
+18,66,2025-11-20 20:44:14,2025-11-30,Cancelada,,Cambio de hora
+52,84,2025-11-20 20:44:14,2025-12-26,Cancelada,,Cancelado por lluvia
+90,40,2025-11-20 20:44:14,2025-12-12,Confirmada,2025-12-21,Cambio de hora
+78,13,2025-11-20 20:44:14,2026-01-15,Confirmada,,Sin comentarios
+62,9,2025-11-20 20:44:14,2025-12-08,Confirmada,2026-01-10,Cambio de clase
+28,81,2025-11-20 20:44:14,2025-12-05,Confirmada,2025-12-27,Cancelado por lluvia
+8,71,2025-11-20 20:44:14,2025-12-18,Cancelada,2025-12-05,Cancelado por lluvia
+11,89,2025-11-20 20:44:14,2025-12-25,Cancelada,,Cambio de clase
+25,66,2025-11-20 20:44:14,2025-12-23,NoAsistió,,Cambio de clase
+90,16,2025-11-20 20:44:14,2025-12-29,Asistió,2026-01-13,Sin comentarios
+68,12,2025-11-20 20:44:14,2025-11-24,Confirmada,2026-01-06,Cambio de clase
+94,18,2025-11-20 20:44:14,2025-12-05,Asistió,,Cancelado por lluvia
+46,69,2025-11-20 20:44:14,2026-01-15,Confirmada,2025-12-04,Cambio de clase
+11,94,2025-11-20 20:44:14,2025-12-06,Cancelada,,Sin comentarios
+75,15,2025-11-20 20:44:14,2025-11-30,NoAsistió,,Cambio de hora
+70,44,2025-11-20 20:44:14,2026-01-04,Cancelada,2025-12-07,Sin comentarios
+94,48,2025-11-20 20:44:14,2025-12-06,Asistió,,Sin comentarios
+84,89,2025-11-20 20:44:14,2025-11-25,Cancelada,2025-12-28,Cambio de clase
+23,58,2025-11-20 20:44:14,2025-12-06,Asistió,2026-01-17,Cambio de clase
+61,77,2025-11-20 20:44:14,2026-01-10,Confirmada,,Cancelado por lluvia
+81,77,2025-11-20 20:44:14,2026-01-03,Asistió,,Cancelado por lluvia
+46,83,2025-11-20 20:44:14,2026-01-09,Cancelada,,Sin comentarios
+33,62,2025-11-20 20:44:14,2025-12-09,NoAsistió,2026-01-19,Cambio de clase
+4,11,2025-11-20 20:44:14,2025-12-11,Asistió,,Cambio de clase
+51,57,2025-11-20 20:44:14,2026-01-15,NoAsistió,2026-01-12,Cambio de clase
+93,86,2025-11-20 20:44:14,2025-12-02,Cancelada,,Cancelado por lluvia
+48,77,2025-11-20 20:44:14,2025-12-11,NoAsistió,2025-12-01,Cambio de clase
+94,48,2025-11-20 20:44:14,2026-01-01,Asistió,2025-11-29,Sin comentarios
+95,52,2025-11-20 20:44:14,2025-12-25,Confirmada,,Cambio de clase
+19,27,2025-11-20 20:44:14,2025-12-23,Confirmada,2026-01-16,Sin comentarios
+26,98,2025-11-20 20:44:14,2025-12-02,NoAsistió,,Sin comentarios
+80,95,2025-11-20 20:44:14,2025-12-04,Asistió,,Cambio de hora
+53,63,2025-11-20 20:44:14,2025-12-02,Asistió,,Cancelado por lluvia
+95,1,2025-11-20 20:44:14,2025-11-24,Confirmada,2025-12-17,Cambio de clase
+16,76,2025-11-20 20:44:14,2025-11-28,Cancelada,2025-11-23,Cancelado por lluvia
+34,47,2025-11-20 20:44:14,2025-11-26,Asistió,,Cancelado por lluvia
+1,34,2025-11-20 20:44:14,2026-01-02,Confirmada,2025-12-07,Cambio de hora
+73,93,2025-11-20 20:44:14,2025-12-22,Confirmada,,Cancelado por lluvia
+33,37,2025-11-20 20:44:14,2026-01-13,Cancelada,,Cambio de clase
+5,19,2025-11-20 20:44:14,2025-12-15,Cancelada,2025-12-21,Cambio de clase
+16,58,2025-11-20 20:44:14,2025-11-30,Cancelada,,Cancelado por lluvia
+4,39,2025-11-20 20:44:14,2025-11-27,Confirmada,2025-11-29,Sin comentarios
+49,54,2025-11-20 20:44:14,2026-01-08,Asistió,,Cancelado por lluvia
+44,56,2025-11-20 20:44:14,2025-12-24,NoAsistió,2025-12-23,Sin comentarios
+84,4,2025-11-20 20:44:14,2025-11-30,Confirmada,2025-12-17,Cambio de clase
+70,70,2025-11-20 20:44:14,2025-12-31,Asistió,2025-12-09,Cancelado por lluvia
+31,94,2025-11-20 20:44:14,2025-12-10,Confirmada,2026-01-08,Cancelado por lluvia
+97,74,2025-11-20 20:44:14,2025-12-16,Asistió,2026-01-19,Cancelado por lluvia
+76,34,2025-11-20 20:44:14,2026-01-16,NoAsistió,2026-01-12,Sin comentarios
+52,8,2025-11-20 20:44:14,2026-01-11,Cancelada,2025-11-28,Sin comentarios
+65,95,2025-11-20 20:44:14,2025-12-03,NoAsistió,2025-12-22,Cambio de clase
+92,24,2025-11-20 20:44:14,2026-01-01,Asistió,,Cambio de hora
+48,48,2025-11-20 20:44:14,2025-12-11,Confirmada,,Cancelado por lluvia
+27,5,2025-11-20 20:44:14,2025-12-28,NoAsistió,,Cancelado por lluvia
+7,84,2025-11-20 20:44:14,2025-12-29,Confirmada,,Cambio de hora
+91,37,2025-11-20 20:44:14,2025-11-20,Asistió,,Sin comentarios
+68,63,2025-11-20 20:44:14,2026-01-17,Confirmada,,Sin comentarios
+20,33,2025-11-20 20:44:14,2025-12-07,Confirmada,2025-12-22,Cancelado por lluvia
+91,93,2025-11-20 20:44:14,2025-12-03,Cancelada,2025-12-21,Sin comentarios
+23,14,2025-11-20 20:44:14,2025-12-03,Cancelada,2025-12-06,Cancelado por lluvia
+95,1,2025-11-20 20:44:14,2025-12-04,Asistió,2025-12-11,Cancelado por lluvia
+34,72,2025-11-20 20:44:14,2025-12-11,Cancelada,2025-12-29,Cambio de hora
+68,25,2025-11-20 20:44:14,2025-12-06,Cancelada,2025-11-26,Sin comentarios
+17,40,2025-11-20 20:44:14,2025-11-25,Confirmada,2025-12-02,Cancelado por lluvia
+12,12,2025-11-20 20:44:14,2026-01-12,NoAsistió,,Cancelado por lluvia
+18,81,2025-11-20 20:44:14,2025-12-19,Confirmada,2025-12-01,Sin comentarios
+11,96,2025-11-20 20:44:14,2026-01-08,NoAsistió,2025-12-22,Cambio de clase
+10,68,2025-11-20 20:44:14,2025-12-13,NoAsistió,,Cambio de clase
+3,66,2025-11-20 20:44:14,2025-12-20,Cancelada,,Cancelado por lluvia
+6,69,2025-11-20 20:44:14,2025-12-12,Confirmada,2025-12-17,Cancelado por lluvia
+26,52,2025-11-20 20:44:14,2025-12-04,Confirmada,,Sin comentarios
+29,28,2025-11-20 20:44:14,2025-12-24,NoAsistió,,Cancelado por lluvia
+29,19,2025-11-20 20:44:14,2026-01-03,Cancelada,,Cambio de hora
+18,12,2025-11-20 20:44:14,2026-01-05,NoAsistió,,Sin comentarios
+2,7,2025-11-20 20:44:14,2025-11-29,Confirmada,,Cambio de clase
+30,10,2025-11-20 20:44:14,2025-12-10,Cancelada,2026-01-07,Cambio de hora
+27,10,2025-11-20 20:44:14,2026-01-06,Asistió,,Cancelado por lluvia
+3,76,2025-11-20 20:44:14,2025-12-14,Confirmada,2025-12-03,Cambio de clase
+59,30,2025-11-20 20:44:14,2025-12-05,Confirmada,2025-12-04,Cambio de hora
+5,55,2025-11-20 20:44:14,2026-01-14,Confirmada,,Cancelado por lluvia
+37,94,2025-11-20 20:44:14,2025-12-25,Asistió,,Cancelado por lluvia
+79,27,2025-11-20 20:44:14,2025-11-25,NoAsistió,2026-01-06,Cambio de clase
+50,18,2025-11-20 20:44:14,2025-11-21,Confirmada,2025-12-04,Cambio de clase
+47,54,2025-11-20 20:44:14,2025-12-11,Asistió,,Cambio de hora
+46,49,2025-11-20 20:44:14,2026-01-07,Cancelada,2025-12-21,Sin comentarios
+57,16,2025-11-20 20:44:14,2026-01-04,Confirmada,2025-12-25,Cambio de clase
+84,8,2025-11-20 20:44:14,2026-01-03,Asistió,,Cambio de hora
+19,39,2025-11-20 20:44:14,2025-12-19,NoAsistió,,Cancelado por lluvia
+51,80,2025-11-20 20:44:14,2025-11-25,NoAsistió,,Cambio de hora
+93,58,2025-11-20 20:44:14,2025-12-18,Confirmada,,Cancelado por lluvia
+93,32,2025-11-20 20:44:14,2025-11-21,Asistió,,Cambio de hora
+20,66,2025-11-20 20:44:14,2025-12-21,Confirmada,,Cambio de clase
+68,24,2025-11-20 20:44:14,2025-12-26,Asistió,,Cambio de hora
+74,69,2025-11-20 20:44:14,2025-11-21,NoAsistió,2025-11-25,Sin comentarios
+76,29,2025-11-20 20:44:14,2025-12-11,Cancelada,,Cambio de clase
+67,57,2025-11-20 20:44:14,2025-12-30,NoAsistió,,Sin comentarios
+78,53,2025-11-20 20:44:14,2026-01-10,Confirmada,2026-01-14,Cancelado por lluvia
+34,78,2025-11-20 20:44:14,2025-12-21,Confirmada,,Cambio de clase
+12,91,2025-11-20 20:44:14,2025-11-29,Confirmada,,Cambio de clase
+14,71,2025-11-20 20:44:14,2025-12-19,Confirmada,,Cambio de clase
+98,40,2025-11-20 20:44:14,2026-01-15,NoAsistió,2026-01-18,Cancelado por lluvia
+65,76,2025-11-20 20:44:14,2025-12-29,Asistió,,Sin comentarios
+55,20,2025-11-20 20:44:14,2025-11-23,Cancelada,2025-12-17,Cancelado por lluvia
+22,91,2025-11-20 20:44:14,2025-12-06,Cancelada,,Cambio de hora
+88,42,2025-11-20 20:44:14,2025-12-21,Confirmada,,Cancelado por lluvia
+3,18,2025-11-20 20:44:14,2025-11-26,NoAsistió,2025-12-30,Cambio de hora
+65,36,2025-11-20 20:44:14,2025-11-21,Cancelada,2026-01-14,Cambio de hora
+96,67,2025-11-20 20:44:14,2026-01-04,Cancelada,,Cancelado por lluvia
+57,41,2025-11-20 20:44:14,2025-12-09,Asistió,,Cambio de hora
+28,68,2025-11-20 20:44:14,2026-01-01,Cancelada,,Cambio de clase
+79,47,2025-11-20 20:44:14,2025-12-22,Confirmada,2026-01-18,Sin comentarios
+39,67,2025-11-20 20:44:14,2025-12-20,Cancelada,,Cambio de clase
+89,90,2025-11-20 20:44:14,2025-12-24,Confirmada,2026-01-08,Cambio de hora
+91,33,2025-11-20 20:44:14,2025-12-11,NoAsistió,,Cancelado por lluvia
+5,74,2025-11-20 20:44:14,2025-12-06,NoAsistió,,Cambio de hora
+15,13,2025-11-20 20:44:14,2026-01-07,Confirmada,,Cancelado por lluvia
+52,94,2025-11-20 20:44:14,2025-12-07,Asistió,,Cancelado por lluvia
+87,53,2025-11-20 20:44:14,2025-12-07,NoAsistió,,Cambio de hora
+74,98,2025-11-20 20:44:14,2026-01-05,Cancelada,2026-01-11,Cancelado por lluvia
+94,63,2025-11-20 20:44:14,2025-12-31,Asistió,2025-12-19,Cancelado por lluvia
+41,15,2025-11-20 20:44:14,2026-01-08,Asistió,2025-12-06,Cambio de hora
+15,28,2025-11-20 20:44:14,2025-12-09,Cancelada,,Cambio de clase
+97,21,2025-11-20 20:44:14,2025-12-30,NoAsistió,2026-01-06,Cancelado por lluvia
+61,64,2025-11-20 20:44:14,2025-11-29,Confirmada,2026-01-11,Cambio de hora
+3,25,2025-11-20 20:44:14,2025-11-25,Asistió,2025-12-01,Cambio de clase
+70,43,2025-11-20 20:44:14,2026-01-17,Confirmada,2026-01-03,Sin comentarios
+47,45,2025-11-20 20:44:14,2025-12-18,Cancelada,2025-12-20,Cambio de hora
+32,27,2025-11-20 20:44:14,2025-12-24,Asistió,2026-01-17,Cancelado por lluvia
+21,87,2025-11-20 20:44:14,2026-01-09,Confirmada,2026-01-08,Sin comentarios
+1,11,2025-11-20 20:44:14,2026-01-08,Cancelada,,Cambio de clase
+71,28,2025-11-20 20:44:14,2025-11-26,Confirmada,,Sin comentarios
+83,11,2025-11-20 20:44:14,2026-01-10,NoAsistió,2025-12-16,Cambio de clase
+68,41,2025-11-20 20:44:14,2026-01-03,Cancelada,,Cancelado por lluvia
+90,93,2025-11-20 20:44:14,2025-11-24,Confirmada,2025-11-27,Cambio de clase
+15,25,2025-11-20 20:44:14,2025-11-28,Asistió,2025-12-03,Cambio de clase
+89,2,2025-11-20 20:44:14,2025-11-26,Asistió,2026-01-05,Cancelado por lluvia
+32,54,2025-11-20 20:44:14,2026-01-08,Asistió,,Cambio de hora
+40,13,2025-11-20 20:44:14,2025-12-20,NoAsistió,2025-12-26,Cancelado por lluvia
+6,25,2025-11-20 20:44:14,2025-11-27,Cancelada,,Sin comentarios
+81,64,2025-11-20 20:44:14,2025-11-21,Confirmada,,Cambio de clase
+36,6,2025-11-20 20:44:14,2025-12-07,Cancelada,,Cancelado por lluvia
+29,49,2025-11-20 20:44:14,2025-12-09,Confirmada,2025-12-18,Cambio de clase
+6,90,2025-11-20 20:44:14,2026-01-13,NoAsistió,,Sin comentarios
+25,28,2025-11-20 20:44:14,2025-12-09,Cancelada,,Cancelado por lluvia
+74,18,2025-11-20 20:44:14,2026-01-16,NoAsistió,2026-01-16,Cancelado por lluvia
+34,43,2025-11-20 20:44:14,2026-01-16,Confirmada,2025-12-19,Cancelado por lluvia
+55,13,2025-11-20 20:44:14,2026-01-10,Cancelada,,Cambio de clase
+96,4,2025-11-20 20:44:14,2025-12-02,Cancelada,,Cambio de hora
+96,93,2025-11-20 20:44:14,2026-01-11,Cancelada,2025-12-06,Sin comentarios
+99,39,2025-11-20 20:44:14,2025-12-30,Confirmada,,Cambio de hora
+80,26,2025-11-20 20:44:14,2025-11-30,Asistió,,Cambio de hora
+49,79,2025-11-20 20:44:14,2025-12-29,Cancelada,,Cambio de hora
+84,62,2025-11-20 20:44:14,2025-11-24,Asistió,,Cancelado por lluvia
+90,33,2025-11-20 20:44:14,2025-12-27,Confirmada,,Cambio de hora
+77,39,2025-11-20 20:44:14,2025-12-24,Cancelada,2025-12-05,Cambio de clase
+67,95,2025-11-20 20:44:14,2025-11-21,Asistió,2025-12-30,Sin comentarios
+95,65,2025-11-20 20:44:14,2026-01-01,NoAsistió,2025-12-21,Cambio de hora
+37,98,2025-11-20 20:44:14,2025-11-29,NoAsistió,2025-11-22,Cambio de clase
+39,97,2025-11-20 20:44:14,2025-12-23,Asistió,2025-12-27,Cancelado por lluvia
+65,67,2025-11-20 20:44:14,2025-12-07,NoAsistió,2026-01-13,Sin comentarios
+60,18,2025-11-20 20:44:14,2025-12-13,Asistió,2025-11-23,Cambio de hora
+97,33,2025-11-20 20:44:14,2025-12-28,Asistió,2026-01-08,Cambio de hora
+93,48,2025-11-20 20:44:14,2026-01-15,Asistió,,Sin comentarios
+95,2,2025-11-20 20:44:14,2025-12-26,Cancelada,2026-01-13,Sin comentarios
+35,76,2025-11-20 20:44:14,2025-11-21,NoAsistió,2026-01-14,Sin comentarios
+28,56,2025-11-20 20:44:14,2026-01-18,Asistió,2026-01-16,Cancelado por lluvia
+20,20,2025-11-20 20:44:14,2026-01-12,Asistió,2025-11-30,Cambio de clase
+29,48,2025-11-20 20:44:14,2025-12-15,Cancelada,,Sin comentarios
+53,91,2025-11-20 20:44:14,2025-11-25,NoAsistió,,Sin comentarios
+57,88,2025-11-20 20:44:14,2025-11-25,NoAsistió,,Sin comentarios
+28,71,2025-11-20 20:44:14,2025-12-14,Asistió,2026-01-01,Cancelado por lluvia
+13,45,2025-11-20 20:44:14,2026-01-01,Asistió,,Cancelado por lluvia
+89,25,2025-11-20 20:44:14,2026-01-03,NoAsistió,2026-01-19,Cancelado por lluvia
+43,4,2025-11-20 20:44:14,2025-12-29,Asistió,2025-11-21,Sin comentarios
+75,10,2025-11-20 20:44:14,2026-01-01,Confirmada,2025-12-29,Cambio de clase
+56,42,2025-11-20 20:44:14,2025-11-21,Confirmada,,Sin comentarios
+71,45,2025-11-20 20:44:14,2025-12-02,Asistió,,Sin comentarios
+35,84,2025-11-20 20:44:14,2026-01-15,Asistió,,Cancelado por lluvia
+5,18,2025-11-20 20:44:14,2026-01-05,Confirmada,2025-12-01,Cancelado por lluvia
+95,50,2025-11-20 20:44:14,2026-01-11,Cancelada,2025-12-18,Cambio de hora
+99,1,2025-11-20 20:44:14,2026-01-03,Confirmada,,Cambio de clase
+27,88,2025-11-20 20:44:14,2026-01-06,Cancelada,2026-01-07,Sin comentarios
+33,36,2025-11-20 20:44:14,2025-12-13,Cancelada,,Sin comentarios
+73,57,2025-11-20 20:44:14,2025-11-26,Asistió,,Cambio de hora
+16,20,2025-11-20 20:44:14,2026-01-10,Asistió,2025-12-09,Cambio de hora
+63,65,2025-11-20 20:44:14,2025-12-03,Confirmada,2025-12-20,Sin comentarios
+92,32,2025-11-20 20:44:14,2025-11-21,NoAsistió,2025-12-31,Sin comentarios
+53,78,2025-11-20 20:44:14,2026-01-16,Confirmada,2025-11-23,Sin comentarios
+32,75,2025-11-20 20:44:14,2026-01-05,NoAsistió,2026-01-18,Cambio de clase
+25,69,2025-11-20 20:44:14,2025-11-28,Confirmada,2025-11-26,Cancelado por lluvia
+100,48,2025-11-20 20:44:14,2025-12-27,Asistió,,Sin comentarios
+17,61,2025-11-20 20:44:14,2025-12-01,Asistió,,Cancelado por lluvia
+6,63,2025-11-20 20:44:14,2025-12-19,NoAsistió,2026-01-09,Cancelado por lluvia
+79,97,2025-11-20 20:44:14,2026-01-13,Confirmada,2025-12-02,Cancelado por lluvia
+52,26,2025-11-20 20:44:14,2026-01-04,NoAsistió,2025-12-14,Cancelado por lluvia
+96,66,2025-11-20 20:44:14,2025-12-09,NoAsistió,2026-01-08,Cambio de clase
+15,26,2025-11-20 20:44:14,2025-12-10,Confirmada,,Cancelado por lluvia
+85,70,2025-11-20 20:44:14,2026-01-01,NoAsistió,2025-12-03,Cambio de clase
+27,22,2025-11-20 20:44:14,2025-12-17,Asistió,,Cambio de hora
+96,98,2025-11-20 20:44:14,2025-11-26,Cancelada,,Sin comentarios
+4,89,2025-11-20 20:44:14,2025-12-18,Asistió,,Cambio de clase
+92,52,2025-11-20 20:44:14,2025-12-03,Cancelada,2026-01-05,Cancelado por lluvia
+73,35,2025-11-20 20:44:14,2025-12-29,NoAsistió,,Cambio de hora
+81,35,2025-11-20 20:44:14,2025-11-23,Confirmada,2025-12-02,Cambio de hora
+65,49,2025-11-20 20:44:14,2025-11-22,Cancelada,,Cambio de clase
+25,25,2025-11-20 20:44:14,2025-12-18,Confirmada,,Sin comentarios
+76,73,2025-11-20 20:44:14,2025-12-22,Asistió,2026-01-14,Cancelado por lluvia
+92,35,2025-11-20 20:44:14,2025-11-26,Confirmada,,Sin comentarios
+41,8,2025-11-20 20:44:14,2026-01-06,Confirmada,,Sin comentarios
+31,5,2025-11-20 20:44:14,2025-12-08,Cancelada,2025-11-30,Cambio de clase
+56,22,2025-11-20 20:44:14,2025-12-16,Confirmada,,Cambio de clase
+13,99,2025-11-20 20:44:14,2026-01-07,NoAsistió,2026-01-18,Cambio de hora
+7,90,2025-11-20 20:44:14,2025-11-27,Cancelada,,Cambio de clase
+19,81,2025-11-20 20:44:14,2025-12-17,Confirmada,2025-12-24,Cambio de clase
+74,31,2025-11-20 20:44:14,2025-11-21,Asistió,,Cancelado por lluvia
+10,56,2025-11-20 20:44:14,2026-01-16,Cancelada,,Cambio de clase
+43,44,2025-11-20 20:44:14,2025-12-16,Confirmada,2026-01-11,Cancelado por lluvia
+58,3,2025-11-20 20:44:14,2025-12-19,NoAsistió,,Cancelado por lluvia
+92,85,2025-11-20 20:44:14,2025-12-22,Confirmada,,Cambio de hora
+85,69,2025-11-20 20:44:14,2025-11-23,Confirmada,2025-12-13,Sin comentarios
+43,35,2025-11-20 20:44:14,2026-01-08,Cancelada,2025-12-03,Cancelado por lluvia
+30,77,2025-11-20 20:44:14,2025-12-05,Confirmada,2025-12-04,Cambio de clase
+50,69,2025-11-20 20:44:14,2026-01-15,NoAsistió,2026-01-03,Cambio de clase
+93,59,2025-11-20 20:44:14,2025-11-26,Confirmada,2026-01-07,Cambio de hora
+86,91,2025-11-20 20:44:14,2025-11-21,Asistió,,Cancelado por lluvia
+93,41,2025-11-20 20:44:14,2026-01-02,Confirmada,,Cambio de clase
+17,21,2025-11-20 20:44:14,2025-12-26,Cancelada,2025-11-26,Cambio de hora
+98,9,2025-11-20 20:44:14,2025-11-24,Confirmada,2026-01-14,Cambio de clase
+6,53,2025-11-20 20:44:14,2026-01-19,Confirmada,2026-01-14,Cambio de clase
+36,61,2025-11-20 20:44:14,2026-01-01,Asistió,2026-01-01,Cambio de clase
+67,60,2025-11-20 20:44:14,2025-12-17,NoAsistió,,Cambio de hora
+3,79,2025-11-20 20:44:14,2026-01-11,Cancelada,,Cambio de hora
+22,95,2025-11-20 20:44:14,2025-12-20,Cancelada,,Cambio de hora
+78,6,2025-11-20 20:44:14,2025-11-22,Confirmada,,Cancelado por lluvia
+49,95,2025-11-20 20:44:14,2025-12-17,Asistió,,Cancelado por lluvia
+28,3,2025-11-20 20:44:14,2025-12-08,Confirmada,2025-11-28,Sin comentarios
+75,67,2025-11-20 20:44:14,2025-12-05,Cancelada,2025-12-24,Cambio de clase
+49,18,2025-11-20 20:44:14,2026-01-09,Confirmada,,Sin comentarios
+73,70,2025-11-20 20:44:14,2025-12-13,Cancelada,,Cancelado por lluvia
+15,51,2025-11-20 20:44:14,2025-12-29,Asistió,2025-12-25,Cambio de hora
+82,6,2025-11-20 20:44:14,2025-11-28,Asistió,2025-12-27,Cancelado por lluvia
+4,52,2025-11-20 20:44:14,2025-11-22,NoAsistió,,Cambio de hora
+7,53,2025-11-20 20:44:14,2026-01-05,Asistió,,Cancelado por lluvia
+87,43,2025-11-20 20:44:14,2025-11-24,Asistió,,Sin comentarios
+75,45,2025-11-20 20:44:14,2025-12-19,Cancelada,2025-12-16,Cambio de clase
+48,40,2025-11-20 20:44:14,2025-12-23,NoAsistió,,Cancelado por lluvia
+75,61,2025-11-20 20:44:14,2026-01-16,Confirmada,,Cambio de clase
+46,21,2025-11-20 20:44:14,2025-12-07,Confirmada,2025-12-24,Cancelado por lluvia
+14,71,2025-11-20 20:44:14,2026-01-10,Asistió,2025-12-30,Sin comentarios
+73,72,2025-11-20 20:44:14,2026-01-17,Confirmada,,Cancelado por lluvia
+20,8,2025-11-20 20:44:14,2025-11-29,Confirmada,2025-12-20,Cancelado por lluvia
+89,10,2025-11-20 20:44:14,2025-12-16,Confirmada,,Sin comentarios
