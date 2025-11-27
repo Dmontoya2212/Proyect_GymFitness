@@ -20,9 +20,8 @@ GO
 USE GymFitness;
 GO
 
--- =============================================
--- TABLA: Socio
--- =============================================
+-- Socio
+--Registra los datos personales, contacto y estado de cada miembro inscrito en el gimnasio.
 CREATE TABLE Socio (
     socio_id INT IDENTITY(1,1) PRIMARY KEY,
     numero_socio VARCHAR(20) NOT NULL UNIQUE,
@@ -38,9 +37,8 @@ CREATE TABLE Socio (
 );
 GO
 
--- =============================================
--- TABLA: Membresia
--- =============================================
+-- Membresia
+--Define los tipos de membres�as disponibles, sus precios, duraci�n y beneficios incluidos.
 CREATE TABLE Membresia (
     membresia_id INT IDENTITY(1,1) PRIMARY KEY,
     nombre VARCHAR(50) NOT NULL UNIQUE,
@@ -53,9 +51,8 @@ CREATE TABLE Membresia (
 );
 GO
 
--- =============================================
--- TABLA: Socios_Membresias
--- =============================================
+-- Socios_Membresias
+--Controla qu� membres�a tiene cada socio, su vigencia, estado y precio pagado.
 CREATE TABLE Socios_Membresias (
     socio_membresia_id INT IDENTITY(1,1) PRIMARY KEY,
     socio_id INT NOT NULL,
@@ -75,9 +72,8 @@ CREATE TABLE Socios_Membresias (
 );
 GO
 
--- =============================================
--- TABLA: Entrenador
--- =============================================
+-- Entrenador
+--Almacena la informaci�n general de los entrenadores, su especialidad y situaci�n laboral.
 CREATE TABLE Entrenador (
     entrenador_id INT IDENTITY(1,1) PRIMARY KEY,
     codigo_entrenador VARCHAR(20) NOT NULL UNIQUE,
@@ -93,9 +89,8 @@ CREATE TABLE Entrenador (
 );
 GO
 
--- =============================================
--- TABLA: Clase
--- =============================================
+-- Clase: 
+--Contiene el cat�logo de clases ofrecidas, con su descripci�n, duraci�n, nivel y capacidad.
 CREATE TABLE Clase (
     clase_id INT IDENTITY(1,1) PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL UNIQUE,
@@ -107,9 +102,8 @@ CREATE TABLE Clase (
 );
 GO
 
--- =============================================
--- TABLA: Horario_Clase
--- =============================================
+-- Horario_Clase
+--Establece los horarios semanales de cada clase, el entrenador asignado y los cupos disponibles.
 CREATE TABLE Horario_Clase (
     horario_id INT IDENTITY(1,1) PRIMARY KEY,
     clase_id INT NOT NULL,
@@ -131,9 +125,8 @@ CREATE TABLE Horario_Clase (
 );
 GO
 
--- =============================================
--- TABLA: Reserva
--- =============================================
+-- Reserva
+--Registra las reservas que hacen los socios para asistir a una clase programada.
 CREATE TABLE Reserva (
     reserva_id INT IDENTITY(1,1) PRIMARY KEY,
     socio_id INT NOT NULL,
@@ -152,9 +145,8 @@ CREATE TABLE Reserva (
 );
 GO
 
--- =============================================
--- TABLA: UsuarioSistema
--- =============================================
+-- UsuarioSistema
+--Administra los usuarios del sistema, sus roles, credenciales y v�nculo con socios o entrenadores.
 CREATE TABLE UsuarioSistema (
     usuario_id INT IDENTITY(1,1) PRIMARY KEY,
     nombre_usuario VARCHAR(50) NOT NULL UNIQUE,
@@ -180,9 +172,8 @@ CREATE TABLE UsuarioSistema (
 );
 GO
 
--- =============================================
--- TABLA: Asistencia (sin cascadas m�ltiples)
--- =============================================
+-- Asistencia
+--Lleva el registro de asistencia de los socios a las clases reservadas.
 CREATE TABLE Asistencia (
     asistencia_id INT IDENTITY(1,1) PRIMARY KEY,
     reserva_id INT NOT NULL,
@@ -204,9 +195,8 @@ CREATE TABLE Asistencia (
 );
 GO
 
--- =============================================
--- TABLA: Pago (sin cascadas m�ltiples)
--- =============================================
+-- Pago
+--Guarda los pagos realizados por los socios, ya sea por membres�as, clases adicionales u otros cargos.
 CREATE TABLE Pago (
     pago_id INT IDENTITY(1,1) PRIMARY KEY,
     socio_id INT NOT NULL,
@@ -225,3 +215,15 @@ CREATE TABLE Pago (
         ON DELETE SET NULL ON UPDATE NO ACTION
 );
 GO
+	
+
+--Verificar las tablas 
+SELECT * FROM Membresia;
+SELECT * FROM Entrenador;
+SELECT * FROM Clase;
+SELECT * FROM Reserva;
+SELECT * FROM Asistencia;
+SELECT * FROM Pago 
+SELECT * FROM Socios_Membresias
+SELECT * FROM Horario_Clase
+SELECT * FROM Socio
