@@ -17,3 +17,6 @@ T-SQL (Consultas, procedimientos y validaciones)
 
 Link del video:
 https://drive.google.com/file/d/1GBHxgVh7ASMFblKmR8AVC08zq4bfazXd/view?usp=drivesdk
+
+Link de la carpeta(Dashboard, Video, documento):
+https://drive.google.com/drive/folders/1zvUFNRCx7J5nb0bsveuYCpmUxHUKjAp-
